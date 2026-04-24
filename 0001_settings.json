@@ -1,0 +1,90 @@
+{
+  "venueCode": "99",
+  "eventCode": "0001",
+  "eventName": "第108回ちーれんカップ",
+  "gasUrl": "https://script.google.com/macros/s/AKfycbwsC2OEvTcET5W-a2JRNyDrBS7-A3PUYWOkLglEm1_o7IcTPBBKdy4gZqZagoEY8yDM/exec",
+  "priority": "tournament",
+  "matchRules": [
+    {
+      "code": "01",
+      "name": "第1試合",
+      "fmt": "best2",
+      "turnLimit": false,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "第2試合",
+      "fmt": "best2",
+      "turnLimit": false,
+      "playerMin": 2,
+      "playerMax": 4
+    }
+  ],
+  "tourneyRules": [
+    {
+      "code": "01",
+      "name": "",
+      "fmt": "best3",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 4
+    },
+    {
+      "code": "01",
+      "name": "",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 4
+    },
+    {
+      "code": "01",
+      "name": "",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 4
+    }
+  ],
+  "roundRules": [],
+  "teams": [
+    {
+      "id": "チームNo",
+      "name": "チーム名",
+      "members": "メンバー,メンバー,メンバー,メンバー,メンバー"
+    },
+    {
+      "id": "001",
+      "name": "れん",
+      "members": "れん"
+    },
+    {
+      "id": "002",
+      "name": "さとみ",
+      "members": "さとみ"
+    },
+    {
+      "id": "003",
+      "name": "あつむ",
+      "members": "あつむ"
+    },
+    {
+      "id": "004",
+      "name": "れんさとみ",
+      "members": "れん,さとみ"
+    },
+    {
+      "id": "005",
+      "name": "さとみあつむ",
+      "members": "さとみ,あつむ"
+    },
+    {
+      "id": "006",
+      "name": "れんあつむ",
+      "members": "れん,あつむ"
+    }
+  ],
+  "publishedAt": "2026-04-24T12:45:12.669Z"
+}
