@@ -189,6 +189,16 @@
       "matchCode": "06",
       "tourneyCode": "03",
       "round": "25位タイ決定戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "04",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "04",
+      "round": "2回戦"
     }
   ],
   "teams": [
@@ -628,5 +638,5 @@
       "members": "尾崎 希望,中村晴途"
     }
   ],
-  "publishedAt": "2026-04-25T23:13:13.876Z"
+  "publishedAt": "2026-04-25T23:21:14.411Z"
 }
