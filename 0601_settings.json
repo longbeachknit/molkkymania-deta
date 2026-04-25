@@ -9,7 +9,55 @@
       "code": "01",
       "name": "第1試合",
       "fmt": "best2",
-      "turnLimit": false,
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "第2試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "第3試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "第4試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "第5試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "06",
+      "name": "第6試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "07",
+      "name": "第7試合",
+      "fmt": "best2",
+      "turnLimit": true,
       "playerMin": 2,
       "playerMax": 4
     }
@@ -22,6 +70,38 @@
       "turnLimit": true,
       "playerMin": 2,
       "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "5位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "25位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "不戦勝交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
     }
   ],
   "roundRules": [
@@ -29,6 +109,86 @@
       "matchCode": "01",
       "tourneyCode": "01",
       "round": "1回戦"
+    },
+    {
+      "matchCode": "02",
+      "tourneyCode": "01",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "01",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "01",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "01",
+      "round": "5回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "01",
+      "round": "準決勝"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "01",
+      "round": "決勝"
+    },
+    {
+      "matchCode": "02",
+      "tourneyCode": "02",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "02",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "02",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "02",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "02",
+      "round": "5回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "02",
+      "round": "5位タイ決定戦"
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "03",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "03",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "03",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "03",
+      "round": "25位タイ決定戦"
     }
   ],
   "teams": [
@@ -468,5 +628,5 @@
       "members": "尾崎 希望,中村晴途"
     }
   ],
-  "publishedAt": "2026-04-24T12:57:40.225Z"
+  "publishedAt": "2026-04-25T23:13:13.876Z"
 }
