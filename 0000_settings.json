@@ -9,7 +9,7 @@
       "code": "01",
       "name": "第1試合",
       "fmt": "best2",
-      "turnLimit": true,
+      "turnLimit": false,
       "playerMin": 1,
       "playerMax": 4
     },
@@ -28,138 +28,10 @@
       "turnLimit": true,
       "playerMin": 1,
       "playerMax": 4
-    },
-    {
-      "code": "04",
-      "name": "第4試合",
-      "fmt": "best2",
-      "turnLimit": true,
-      "playerMin": 1,
-      "playerMax": 4
-    },
-    {
-      "code": "05",
-      "name": "第5試合",
-      "fmt": "best2",
-      "turnLimit": true,
-      "playerMin": 1,
-      "playerMax": 4
-    },
-    {
-      "code": "06",
-      "name": "第6試合",
-      "fmt": "best2",
-      "turnLimit": true,
-      "playerMin": 1,
-      "playerMax": 4
-    },
-    {
-      "code": "07",
-      "name": "第7試合",
-      "fmt": "best2",
-      "turnLimit": true,
-      "playerMin": 1,
-      "playerMax": 4
     }
   ],
-  "tourneyRules": [
-    {
-      "code": "01",
-      "name": "Winnersトーナメント",
-      "fmt": "best3",
-      "turnLimit": true,
-      "playerMin": 1,
-      "playerMax": 4
-    },
-    {
-      "code": "02",
-      "name": "Losersトーナメント",
-      "fmt": "best2",
-      "turnLimit": true,
-      "playerMin": 1,
-      "playerMax": 4
-    },
-    {
-      "code": "03",
-      "name": "交流戦",
-      "fmt": "best2",
-      "turnLimit": true,
-      "playerMin": 1,
-      "playerMax": 4
-    }
-  ],
-  "roundRules": [
-    {
-      "matchCode": "01",
-      "tourneyCode": "01",
-      "round": "1回戦"
-    },
-    {
-      "matchCode": "02",
-      "tourneyCode": "01",
-      "round": "2回戦"
-    },
-    {
-      "matchCode": "03",
-      "tourneyCode": "01",
-      "round": "準決勝"
-    },
-    {
-      "matchCode": "04",
-      "tourneyCode": "01",
-      "round": "決勝戦"
-    },
-    {
-      "matchCode": "07",
-      "tourneyCode": "01",
-      "round": "ながはまカップ決勝"
-    },
-    {
-      "matchCode": "02",
-      "tourneyCode": "02",
-      "round": "1回戦"
-    },
-    {
-      "matchCode": "03",
-      "tourneyCode": "02",
-      "round": "2回戦"
-    },
-    {
-      "matchCode": "04",
-      "tourneyCode": "02",
-      "round": "3回戦"
-    },
-    {
-      "matchCode": "05",
-      "tourneyCode": "02",
-      "round": "準決勝"
-    },
-    {
-      "matchCode": "06",
-      "tourneyCode": "02",
-      "round": "決勝戦"
-    },
-    {
-      "matchCode": "03",
-      "tourneyCode": "03",
-      "round": "1回戦"
-    },
-    {
-      "matchCode": "04",
-      "tourneyCode": "03",
-      "round": "2回戦"
-    },
-    {
-      "matchCode": "05",
-      "tourneyCode": "03",
-      "round": "3回戦"
-    },
-    {
-      "matchCode": "06",
-      "tourneyCode": "03",
-      "round": "4回戦"
-    }
-  ],
+  "tourneyRules": [],
+  "roundRules": [],
   "teams": [
     {
       "id": "001",
@@ -242,5 +114,5 @@
       "members": "上出創大,岩下侑輝顕,中村元"
     }
   ],
-  "publishedAt": "2026-05-03T05:21:48.580Z"
+  "publishedAt": "2026-05-04T05:18:25.391Z"
 }
