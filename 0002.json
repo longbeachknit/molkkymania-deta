@@ -1,0 +1,61 @@
+{
+  "updatedAt": "2026-05-05T03:57:15.377Z",
+  "matches": [
+    {
+      "matchId": "99_0002_01_001",
+      "tourneyCode": "01",
+      "teamA": "001",
+      "teamB": "016",
+      "combinedId": "99_0002_01_001_01_001016"
+    },
+    {
+      "matchId": "99_0002_01_002",
+      "tourneyCode": "01",
+      "teamA": "008",
+      "teamB": "009",
+      "combinedId": "99_0002_01_002_01_008009"
+    },
+    {
+      "matchId": "99_0002_01_003",
+      "tourneyCode": "01",
+      "teamA": "004",
+      "teamB": "013",
+      "combinedId": "99_0002_01_003_01_004013"
+    },
+    {
+      "matchId": "99_0002_01_004",
+      "tourneyCode": "01",
+      "teamA": "005",
+      "teamB": "012",
+      "combinedId": "99_0002_01_004_01_005012"
+    },
+    {
+      "matchId": "99_0002_01_005",
+      "tourneyCode": "01",
+      "teamA": "002",
+      "teamB": "015",
+      "combinedId": "99_0002_01_005_01_002015"
+    },
+    {
+      "matchId": "99_0002_01_006",
+      "tourneyCode": "01",
+      "teamA": "007",
+      "teamB": "010",
+      "combinedId": "99_0002_01_006_01_007010"
+    },
+    {
+      "matchId": "99_0002_01_007",
+      "tourneyCode": "01",
+      "teamA": "003",
+      "teamB": "014",
+      "combinedId": "99_0002_01_007_01_003014"
+    },
+    {
+      "matchId": "99_0002_01_008",
+      "tourneyCode": "01",
+      "teamA": "006",
+      "teamB": "011",
+      "combinedId": "99_0002_01_008_01_006011"
+    }
+  ]
+}
