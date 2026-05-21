@@ -1,90 +1,716 @@
 {
-  "venueCode": "99",
+  "venueCode": "01",
   "eventCode": "0001",
-  "eventName": "第108回ちーれんカップ",
-  "gasUrl": "https://script.google.com/macros/s/AKfycbwsC2OEvTcET5W-a2JRNyDrBS7-A3PUYWOkLglEm1_o7IcTPBBKdy4gZqZagoEY8yDM/exec",
+  "eventName": "Mölkky Mania Kawasaki -OPEN- Season.6-1",
+  "gasUrl": "https://script.google.com/macros/s/AKfycbwetQaJwuyn-sy58M0cNRkF7XVtSq94Pp3ceAP_k5BIpT4RR7eEng9qXnAHkZcnNeaH/exec",
   "priority": "tournament",
   "matchRules": [
     {
-      "code": "01",
+      "code": "04",
       "name": "第1試合",
       "fmt": "best2",
-      "turnLimit": false,
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "第2試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "06",
+      "name": "第3試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "07",
+      "name": "第4試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "08",
+      "name": "第5試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "09",
+      "name": "第6試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "01",
+      "name": "予選①",
+      "fmt": "round2",
+      "turnLimit": true,
       "playerMin": 2,
       "playerMax": 4
     },
     {
       "code": "02",
-      "name": "第2試合",
-      "fmt": "best2",
-      "turnLimit": false,
+      "name": "予選②",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "予選③",
+      "fmt": "round2",
+      "turnLimit": true,
       "playerMin": 2,
       "playerMax": 4
     }
   ],
   "tourneyRules": [
     {
-      "code": "01",
-      "name": "",
-      "fmt": "best3",
-      "turnLimit": true,
-      "playerMin": 1,
-      "playerMax": 4
-    },
-    {
-      "code": "01",
-      "name": "",
-      "fmt": "best2",
-      "turnLimit": true,
-      "playerMin": 1,
-      "playerMax": 4
-    },
-    {
-      "code": "01",
+      "code": "00",
       "name": "",
       "fmt": "round2",
       "turnLimit": true,
-      "playerMin": 1,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "01",
+      "name": "決勝トーナメント",
+      "fmt": "best3",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "5位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "15位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "不戦勝交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
       "playerMax": 4
     }
   ],
-  "roundRules": [],
-  "teams": [
+  "roundRules": [
     {
-      "id": "チームNo",
-      "name": "チーム名",
-      "members": "メンバー,メンバー,メンバー,メンバー,メンバー"
+      "matchCode": "04",
+      "tourneyCode": "01",
+      "round": "1回戦"
     },
     {
+      "matchCode": "05",
+      "tourneyCode": "01",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "01",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "01",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "01",
+      "round": "準決勝"
+    },
+    {
+      "matchCode": "09",
+      "tourneyCode": "01",
+      "round": "決勝戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "02",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "02",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "02",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "02",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "02",
+      "round": "5回戦"
+    },
+    {
+      "matchCode": "09",
+      "tourneyCode": "02",
+      "round": "5位タイ決定戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "03",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "03",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "03",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "03",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "09",
+      "tourneyCode": "03",
+      "round": "15位タイ決定戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "04",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "04",
+      "round": "2回戦"
+    }
+  ],
+  "teams": [
+    {
       "id": "001",
-      "name": "れん",
-      "members": "れん"
+      "name": "らびらび",
+      "members": "河合亮和,堀伸行,増尾唯人"
     },
     {
       "id": "002",
-      "name": "さとみ",
-      "members": "さとみ"
+      "name": "LAB Molkky",
+      "members": "齊藤昌也,森葉子,上田純生"
     },
     {
       "id": "003",
-      "name": "あつむ",
-      "members": "あつむ"
+      "name": "MO’LUX B",
+      "members": "根岸廉,井上悠陽"
     },
     {
       "id": "004",
-      "name": "れんさとみ",
-      "members": "れん,さとみ"
+      "name": "我が一投に一片の悔いなし！",
+      "members": "池田雄峰,久保渓声"
     },
     {
       "id": "005",
-      "name": "さとみあつむ",
-      "members": "さとみ,あつむ"
+      "name": "P-sha",
+      "members": "角田絵里奈,今井裕也,角田陸空"
     },
     {
       "id": "006",
-      "name": "れんあつむ",
-      "members": "れん,あつむ"
+      "name": "モル×2モリ×2",
+      "members": "遠藤祐亮,千葉卓也,原田都子,菅原果歩"
+    },
+    {
+      "id": "007",
+      "name": "Z-ÖNE Y.A",
+      "members": "仲野敦之,原晏輝"
+    },
+    {
+      "id": "008",
+      "name": "柳川クリエイト",
+      "members": "本川啓,宮本翔吾,岸尚輝"
+    },
+    {
+      "id": "009",
+      "name": "トマキヤット",
+      "members": "太田昌景,都丸恭兵"
+    },
+    {
+      "id": "010",
+      "name": "Nipinus",
+      "members": "古田優弥,吉田匡騎"
+    },
+    {
+      "id": "011",
+      "name": "まおんぬ",
+      "members": "簗智也,杉本昂矢"
+    },
+    {
+      "id": "012",
+      "name": "北戸田モルックセンター",
+      "members": "森隆志,田代達也,小村奈央"
+    },
+    {
+      "id": "013",
+      "name": "ラガ＆ゆーき",
+      "members": "菅原賢,木下優樹"
+    },
+    {
+      "id": "014",
+      "name": "ハッピーセット",
+      "members": "新村謙次,松永英二"
+    },
+    {
+      "id": "015",
+      "name": "GOKETSU",
+      "members": "田熊圭,河済真也,河済麻友香,渡部将吾"
+    },
+    {
+      "id": "016",
+      "name": "おさつマフィン",
+      "members": "南島康一,斉藤昭洋,吉田一夫"
+    },
+    {
+      "id": "017",
+      "name": "tkwk",
+      "members": "竹脇理央,竹脇亜未"
+    },
+    {
+      "id": "018",
+      "name": "field trip",
+      "members": "下村福太郎,下村扶美子,渡辺達也,渡辺実穂"
+    },
+    {
+      "id": "019",
+      "name": "プイモル",
+      "members": "伊藤亘康,高田翔太,山本太陽"
+    },
+    {
+      "id": "020",
+      "name": "Team Kiitos_BDS",
+      "members": "石田勝晃,稗田尚弥,日野巧"
+    },
+    {
+      "id": "021",
+      "name": "T-れん",
+      "members": "五十嵐蓮,栗栖和大"
+    },
+    {
+      "id": "022",
+      "name": "お風呂の王様",
+      "members": "舛井潤晟,森谷大,桑原伸輝,高野琉"
+    },
+    {
+      "id": "023",
+      "name": "ダブルA",
+      "members": "中内明男,松長歩実"
+    },
+    {
+      "id": "024",
+      "name": "MO'LUX C",
+      "members": "木村魁杜,岡田琥宇,姫井秀士,結城來翔"
+    },
+    {
+      "id": "025",
+      "name": "ぽてもる",
+      "members": "鴨井雅比古,丸尾浩隆,江口司津"
+    },
+    {
+      "id": "026",
+      "name": "池袋ウッドペッカーズ",
+      "members": "西澤隆之,中村仁美,山本七之助"
+    },
+    {
+      "id": "027",
+      "name": "さしろbrothers",
+      "members": "志々木啓人,仲澤佑樹"
+    },
+    {
+      "id": "028",
+      "name": "PM",
+      "members": "西村悠希,日髙咲"
+    },
+    {
+      "id": "029",
+      "name": "関東藩士モルッカーズ",
+      "members": "石田景子,大島奈穂子"
+    },
+    {
+      "id": "030",
+      "name": "ふるふる",
+      "members": "古田学,古田知美"
+    },
+    {
+      "id": "031",
+      "name": "出雲市代表",
+      "members": "三宅智大,安達涼太,新道光太郎"
+    },
+    {
+      "id": "032",
+      "name": "TACHI MÖL JAPAN",
+      "members": "竹内大夢,森大介,深野晴子,中山ゆきな"
+    },
+    {
+      "id": "033",
+      "name": "おかぴ",
+      "members": "岡野秀和,岡田英悟,及川啓介"
+    },
+    {
+      "id": "034",
+      "name": "DYUbee",
+      "members": "堀内雄太,東修司"
+    },
+    {
+      "id": "035",
+      "name": "KU MI KI",
+      "members": "大塚祥代,古川未来,南直人,鈴木健太郎"
+    },
+    {
+      "id": "036",
+      "name": "王将",
+      "members": "入江陽稔,石原壱成"
+    },
+    {
+      "id": "037",
+      "name": "ポッチャリ パラダイス",
+      "members": "青木史,渡辺優美"
+    },
+    {
+      "id": "038",
+      "name": "全然たいよう",
+      "members": "小関将人,諏訪部太陽"
+    },
+    {
+      "id": "039",
+      "name": "吉川部屋",
+      "members": "小野寺直也,福地留亜,貝崎遼"
+    },
+    {
+      "id": "040",
+      "name": "AshiMöl",
+      "members": "安藤信明,安藤美由樹,安達愛海,安達光平"
+    },
+    {
+      "id": "041",
+      "name": "UYU MOL CLUB B",
+      "members": "櫻井いずみ,鈴木淳子,鈴木将己,櫻井章雄"
+    },
+    {
+      "id": "042",
+      "name": "シェリーズ",
+      "members": "平本奈津子,平本大輔,渡部知洋,渡部恵"
+    },
+    {
+      "id": "043",
+      "name": "上郷モルック部",
+      "members": "小林瑞穂,平田孝弘"
+    },
+    {
+      "id": "044",
+      "name": "AAO",
+      "members": "岡崎大樹,安藤忠太,有野嘉晃"
+    },
+    {
+      "id": "045",
+      "name": "ALWAYS三投目の勇気",
+      "members": "生方大和,北川裕一朗"
+    },
+    {
+      "id": "046",
+      "name": "SAKURAN333のどぐろ",
+      "members": "倉本恵美,東山雅一,若林直之"
+    },
+    {
+      "id": "047",
+      "name": "POLPOL.BCG",
+      "members": "内海茂,矢野章,山下朋子,小宮英理"
+    },
+    {
+      "id": "048",
+      "name": "MASA1.M.C Aチーム",
+      "members": "緒方理友,小刀禰貴司,小刀禰董和,小刀禰紬生"
+    },
+    {
+      "id": "049",
+      "name": "いろどりonni",
+      "members": "内藤康成,中村勝,中村真澄"
+    },
+    {
+      "id": "050",
+      "name": "HUBUENO",
+      "members": "長谷川亮太,デラハンティリアム,洞毛駿作,長嶋梨香子"
+    },
+    {
+      "id": "051",
+      "name": "いろどりカフー",
+      "members": "中村毎途,中村晴途"
+    },
+    {
+      "id": "052",
+      "name": "2人はプリケツ",
+      "members": "大島拓也,倉田佑真"
+    },
+    {
+      "id": "053",
+      "name": "アルペジオ",
+      "members": "小澤圭子,小澤修二"
+    },
+    {
+      "id": "054",
+      "name": "ホコJP",
+      "members": "笠本淳二,佐々木宏二,星野祐司,山口順平"
+    },
+    {
+      "id": "055",
+      "name": "たいきっく",
+      "members": "奥村尚之,小林敦貴"
+    },
+    {
+      "id": "056",
+      "name": "早稲田モ式投棒部",
+      "members": "上平雄大,上原颯太"
+    },
+    {
+      "id": "057",
+      "name": "MO’LUX A",
+      "members": "本多主磨,西村斗和,石川泰地"
+    },
+    {
+      "id": "058",
+      "name": "田中モルック倶楽部",
+      "members": "田中芙美子,島倉雅広,高島謙輔"
+    },
+    {
+      "id": "059",
+      "name": "ブエンアミーゴ",
+      "members": "秋田健史,中村憲夫,佐藤律子"
+    },
+    {
+      "id": "060",
+      "name": "とうもろこし",
+      "members": "加藤楓,中村仁,河野真悟"
+    },
+    {
+      "id": "061",
+      "name": "Biwako Doughnuts Hole",
+      "members": "神戸葵,神戸俊,岡本大"
+    },
+    {
+      "id": "062",
+      "name": "ざわさんとさにー号",
+      "members": "石澤凌,清水太陽"
+    },
+    {
+      "id": "063",
+      "name": "婆爺梨酢喰",
+      "members": "中村亮介,上田康生,上田健太郎,荒木相斗"
+    },
+    {
+      "id": "064",
+      "name": "マリパルス",
+      "members": "澄谷瑛,齋藤誉"
+    },
+    {
+      "id": "065",
+      "name": "青春学園",
+      "members": "今山和之,松浦大,マクベイン翔"
+    },
+    {
+      "id": "066",
+      "name": "FRANJA",
+      "members": "山下浩希,山下可南子"
+    },
+    {
+      "id": "067",
+      "name": "MöLKKY OF DEATH",
+      "members": "會田遥稀,長谷川恋夏,奥田惇人"
+    },
+    {
+      "id": "068",
+      "name": "IWDP GM",
+      "members": "株隆介,濱松昭基"
+    },
+    {
+      "id": "069",
+      "name": "ま組のひと",
+      "members": "長谷川剛大,佐藤汰一,川鍋友也,谷口武"
+    },
+    {
+      "id": "070",
+      "name": "NASHICUS",
+      "members": "長谷川雅季,鎌田真吾"
+    },
+    {
+      "id": "071",
+      "name": "I am I科",
+      "members": "角田渉,金沢駿希,岡村悠里,石渡有"
+    },
+    {
+      "id": "072",
+      "name": "OOH",
+      "members": "今本槙哉,佐野智哉,玉置佑幸"
+    },
+    {
+      "id": "073",
+      "name": "Pancakes",
+      "members": "高山将太,萱沼良輔"
+    },
+    {
+      "id": "074",
+      "name": "KUNOU-unreal-",
+      "members": "岩佐樹,伊佐治宝,久能直子"
+    },
+    {
+      "id": "075",
+      "name": "two finger",
+      "members": "武井みな実,蓮岡勇樹"
+    },
+    {
+      "id": "076",
+      "name": "the hide",
+      "members": "鈴木翔太,永井英樹"
+    },
+    {
+      "id": "077",
+      "name": "アンディーズ",
+      "members": "安藤直輝,泉祐介,松浦尚弥,乾香奈"
+    },
+    {
+      "id": "078",
+      "name": "棒の魔術師",
+      "members": "細田啓太,澤谷慶亮,加藤星也"
+    },
+    {
+      "id": "079",
+      "name": "65BRG",
+      "members": "小林健,鈴木智弥,松本知雄"
+    },
+    {
+      "id": "080",
+      "name": "楽響 powered by NTTドコモビジネス エンジニアリング",
+      "members": "山口敬史,前田依希"
+    },
+    {
+      "id": "081",
+      "name": "MO’LUX D",
+      "members": "竹岡水椛,原結花,森田彩花,安原和奏"
+    },
+    {
+      "id": "082",
+      "name": "プレ藻る",
+      "members": "本田真,原祥太,池田勇斗"
+    },
+    {
+      "id": "083",
+      "name": "ぽち神",
+      "members": "内田耕平,山本潤"
+    },
+    {
+      "id": "084",
+      "name": "ギャンブラザーズ",
+      "members": "湯本隆太,落合剛"
+    },
+    {
+      "id": "085",
+      "name": "北千住フジイペッカーズ",
+      "members": "白山和輝,藤井悠貴"
+    },
+    {
+      "id": "086",
+      "name": "リクロージ",
+      "members": "栗城正朗,吉田廉"
+    },
+    {
+      "id": "087",
+      "name": "さいとうけーすけ",
+      "members": "齋藤峻,神田圭介"
+    },
+    {
+      "id": "088",
+      "name": "Vamös",
+      "members": "森谷翼,村田拓也,戸塚敦貴,山本恵士"
+    },
+    {
+      "id": "089",
+      "name": "タカアンドキム",
+      "members": "佐藤優真,島倉拓也"
+    },
+    {
+      "id": "090",
+      "name": "TakeOff-モルック部",
+      "members": "生田目知明,大橋淳子"
+    },
+    {
+      "id": "091",
+      "name": "MASA1.M.C Bチーム",
+      "members": "村上雅一,保井麻里,中谷理津"
+    },
+    {
+      "id": "092",
+      "name": "はらぱんまん",
+      "members": "矢渕実,松崎凌大"
+    },
+    {
+      "id": "093",
+      "name": "ALLIN Valkoinen R.N",
+      "members": "尾崎希望,佐藤璃玖"
+    },
+    {
+      "id": "094",
+      "name": "LAB MOLKKY AM",
+      "members": "雨宮美智代,宮内幸雄"
+    },
+    {
+      "id": "095",
+      "name": "POLPOL.H&M",
+      "members": "望田勇人,早川均"
+    },
+    {
+      "id": "096",
+      "name": "吉祥寺スクワロルズ",
+      "members": "小原克貴,堀川惣一朗,髙橋亮那,塙雄斗"
+    },
+    {
+      "id": "128",
+      "name": "運営チーム",
+      "members": "A,B,C,D"
     }
   ],
-  "publishedAt": "2026-04-24T12:46:38.334Z"
+  "publishedAt": "2026-05-21T07:32:52.836Z"
 }
