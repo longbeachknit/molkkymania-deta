@@ -867,5 +867,7 @@
       "members": "1128,2128"
     }
   ],
-  "publishedAt": "2026-06-04T06:16:20.402Z"
+  "eventPeriodStart": "2026-06-04T15:00",
+  "eventPeriodEnd": "2026-06-04T16:00",
+  "publishedAt": "2026-06-04T06:26:43.101Z"
 }
