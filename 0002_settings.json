@@ -1,246 +1,232 @@
 {
-  "venueCode": "99",
+  "venueCode": "01",
   "eventCode": "0002",
-  "eventName": "第1回ながはまカップ",
-  "gasUrl": "https://script.google.com/macros/s/AKfycbzPMm25gVx30sA_Zl_XvqW87_DJjXjMCSwGBgZC_RWD_xXRebCPh-vdzqnLgtdv_alE/exec",
+  "eventName": "Mölkky Mania Kawasaki -OPEN- Season.6-2",
+  "gasUrl": "https://script.google.com/macros/s/AKfycbxu3HqKCJ4v9fbyHSKy_bpWVt_INRbQF4bT-Z_borOFUpSn2sjaSsxaMclIV3LNcLhnXw/exec",
   "priority": "tournament",
   "matchRules": [
     {
-      "code": "01",
+      "code": "04",
       "name": "第1試合",
       "fmt": "best2",
       "turnLimit": true,
-      "playerMin": 1,
-      "playerMax": 4
-    },
-    {
-      "code": "02",
-      "name": "第2試合",
-      "fmt": "best2",
-      "turnLimit": true,
-      "playerMin": 1,
-      "playerMax": 4
-    },
-    {
-      "code": "03",
-      "name": "第3試合",
-      "fmt": "best2",
-      "turnLimit": true,
-      "playerMin": 1,
-      "playerMax": 4
-    },
-    {
-      "code": "04",
-      "name": "第4試合",
-      "fmt": "best2",
-      "turnLimit": true,
-      "playerMin": 1,
+      "playerMin": 2,
       "playerMax": 4
     },
     {
       "code": "05",
-      "name": "第5試合",
+      "name": "第2試合",
       "fmt": "best2",
       "turnLimit": true,
-      "playerMin": 1,
+      "playerMin": 2,
       "playerMax": 4
     },
     {
       "code": "06",
-      "name": "第6試合",
+      "name": "第3試合",
       "fmt": "best2",
       "turnLimit": true,
-      "playerMin": 1,
+      "playerMin": 2,
       "playerMax": 4
     },
     {
       "code": "07",
-      "name": "第7試合",
+      "name": "第4試合",
       "fmt": "best2",
       "turnLimit": true,
-      "playerMin": 1,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "08",
+      "name": "第5試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "09",
+      "name": "第6試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "01",
+      "name": "予選①",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "予選②",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "予選③",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
       "playerMax": 4
     }
   ],
   "tourneyRules": [
     {
+      "code": "00",
+      "name": "",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
       "code": "01",
-      "name": "Winnersトーナメント",
+      "name": "決勝トーナメント",
       "fmt": "best3",
       "turnLimit": true,
-      "playerMin": 1,
+      "playerMin": 2,
       "playerMax": 4
     },
     {
       "code": "02",
-      "name": "Losersトーナメント",
+      "name": "5位タイトーナメント",
       "fmt": "best2",
       "turnLimit": true,
-      "playerMin": 1,
+      "playerMin": 2,
       "playerMax": 4
     },
     {
       "code": "03",
+      "name": "15位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
       "name": "交流戦",
       "fmt": "best2",
       "turnLimit": true,
-      "playerMin": 1,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "不戦勝交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
       "playerMax": 4
     }
   ],
   "roundRules": [
     {
-      "matchCode": "01",
-      "tourneyCode": "01",
-      "round": "1回戦"
-    },
-    {
-      "matchCode": "02",
-      "tourneyCode": "01",
-      "round": "2回戦"
-    },
-    {
-      "matchCode": "03",
-      "tourneyCode": "01",
-      "round": "準決勝"
-    },
-    {
       "matchCode": "04",
       "tourneyCode": "01",
-      "round": "決勝戦"
-    },
-    {
-      "matchCode": "02",
-      "tourneyCode": "02",
       "round": "1回戦"
-    },
-    {
-      "matchCode": "03",
-      "tourneyCode": "02",
-      "round": "2回戦"
-    },
-    {
-      "matchCode": "04",
-      "tourneyCode": "02",
-      "round": "3回戦"
     },
     {
       "matchCode": "05",
-      "tourneyCode": "02",
-      "round": "準決勝"
+      "tourneyCode": "01",
+      "round": "2回戦"
     },
     {
       "matchCode": "06",
-      "tourneyCode": "02",
-      "round": "決勝戦"
+      "tourneyCode": "01",
+      "round": "3回戦"
     },
     {
       "matchCode": "07",
       "tourneyCode": "01",
-      "round": "ながはまカップ決勝"
+      "round": "4回戦"
     },
     {
-      "matchCode": "03",
-      "tourneyCode": "03",
-      "round": "1回戦"
+      "matchCode": "08",
+      "tourneyCode": "01",
+      "round": "準決勝"
+    },
+    {
+      "matchCode": "09",
+      "tourneyCode": "01",
+      "round": "決勝戦"
     },
     {
       "matchCode": "04",
-      "tourneyCode": "03",
+      "tourneyCode": "02",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "02",
       "round": "2回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "02",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "02",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "02",
+      "round": "5回戦"
+    },
+    {
+      "matchCode": "09",
+      "tourneyCode": "02",
+      "round": "5位タイ決定戦"
     },
     {
       "matchCode": "05",
       "tourneyCode": "03",
-      "round": "3回戦"
+      "round": "1回戦"
     },
     {
       "matchCode": "06",
       "tourneyCode": "03",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "03",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "03",
       "round": "4回戦"
+    },
+    {
+      "matchCode": "09",
+      "tourneyCode": "03",
+      "round": "15位タイ決定戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "04",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "04",
+      "round": "2回戦"
     }
   ],
-  "teams": [
-    {
-      "id": "001",
-      "name": "キンジョー",
-      "members": "金城皐翔"
-    },
-    {
-      "id": "002",
-      "name": "池袋ウッドペッカーズ",
-      "members": "齋藤峻,白山和輝"
-    },
-    {
-      "id": "003",
-      "name": "あきと",
-      "members": "河合亮和"
-    },
-    {
-      "id": "004",
-      "name": "KŪMA",
-      "members": "田熊圭"
-    },
-    {
-      "id": "005",
-      "name": "tkwk",
-      "members": "竹脇理央,竹脇亜未"
-    },
-    {
-      "id": "006",
-      "name": "ざわ",
-      "members": "石澤凌"
-    },
-    {
-      "id": "007",
-      "name": "Freiheit",
-      "members": "永井英樹,渡邉美由紀"
-    },
-    {
-      "id": "008",
-      "name": "朝準備",
-      "members": "五十嵐蓮,髙嵜さとみ"
-    },
-    {
-      "id": "009",
-      "name": "どらごん",
-      "members": "湯本隆太"
-    },
-    {
-      "id": "010",
-      "name": "とじま",
-      "members": "大島拓也,簗智也"
-    },
-    {
-      "id": "011",
-      "name": "Team.SS",
-      "members": "清水英治,清水あずみ,鈴木健太郎"
-    },
-    {
-      "id": "012",
-      "name": "タツヤ",
-      "members": "渡辺達也"
-    },
-    {
-      "id": "013",
-      "name": "山尾関",
-      "members": "小関将人,山尾和也"
-    },
-    {
-      "id": "014",
-      "name": "ブラッキーズNY",
-      "members": "水野夢子,尾崎希望"
-    },
-    {
-      "id": "015",
-      "name": "摩天楼",
-      "members": "渡部将吾,藤井悠貴,石川佑哉"
-    },
-    {
-      "id": "016",
-      "name": "いわそッ",
-      "members": "上出創大,岩下侑輝顕,中村元"
-    }
-  ],
-  "publishedAt": "2026-05-05T21:56:29.753Z"
+  "teams": [],
+  "eventPeriodStart": "2026-06-13T09:30",
+  "eventPeriodEnd": "2026-06-13T18:30",
+  "publishedAt": "2026-06-05T07:32:59.327Z"
 }
