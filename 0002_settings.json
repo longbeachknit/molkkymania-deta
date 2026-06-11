@@ -6,6 +6,30 @@
   "priority": "tournament",
   "matchRules": [
     {
+      "code": "01",
+      "name": "予選①",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "予選②",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "予選③",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
       "code": "04",
       "name": "第1試合",
       "fmt": "best2",
@@ -49,30 +73,6 @@
       "code": "09",
       "name": "第6試合",
       "fmt": "best2",
-      "turnLimit": true,
-      "playerMin": 2,
-      "playerMax": 4
-    },
-    {
-      "code": "01",
-      "name": "予選①",
-      "fmt": "round2",
-      "turnLimit": true,
-      "playerMin": 2,
-      "playerMax": 4
-    },
-    {
-      "code": "02",
-      "name": "予選②",
-      "fmt": "round2",
-      "turnLimit": true,
-      "playerMin": 2,
-      "playerMax": 4
-    },
-    {
-      "code": "03",
-      "name": "予選③",
-      "fmt": "round2",
       "turnLimit": true,
       "playerMin": 2,
       "playerMax": 4
@@ -869,5 +869,5 @@
   ],
   "eventPeriodStart": "2026-06-11T09:30",
   "eventPeriodEnd": "2026-06-13T18:30",
-  "publishedAt": "2026-06-11T04:39:13.476Z"
+  "publishedAt": "2026-06-11T05:05:49.512Z"
 }
