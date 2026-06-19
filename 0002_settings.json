@@ -870,5 +870,13 @@
   "eventPeriodStart": "2026-06-11T09:30",
   "eventPeriodEnd": "2026-06-19T18:00",
   "receptionPw": "2626",
-  "publishedAt": "2026-06-19T04:11:40.443Z"
+  "courtLayout": {
+    "grid": "1,2,3,4,5,,,,6,7,8,9,10\n11,12,13,14,15",
+    "labelTop": "交通遊園",
+    "labelBottom": "バラ園",
+    "labelLeft": "入り口",
+    "labelRight": "運河",
+    "labelCenter": "本部"
+  },
+  "publishedAt": "2026-06-19T11:30:44.120Z"
 }
