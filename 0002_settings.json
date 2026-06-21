@@ -871,15 +871,15 @@
   "eventPeriodEnd": "2026-06-21T18:00",
   "receptionPw": "2626",
   "courtLayout": {
-    "grid": "1,2,3,4,5,,,,6,7,8,9,10\n11,12,13,14,15",
-    "labelTop": "交通遊園",
-    "labelBottom": "バラ園",
-    "labelLeft": "入り口",
-    "labelRight": "運河",
+    "grid": "1,2,3,4,5,,,,6,7,8,9,10\n11,12,13,14,15,16,17,18,19",
+    "labelTop": "",
+    "labelBottom": "丸子橋",
+    "labelLeft": "多摩川",
+    "labelRight": "新丸子",
     "centerLabel": {
       "text": "本部",
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-06-21T07:19:01.056Z"
+  "publishedAt": "2026-06-21T07:44:15.330Z"
 }
