@@ -714,5 +714,17 @@
   ],
   "eventPeriodStart": "2026-05-23T09:45",
   "eventPeriodEnd": "2026-05-23T17:30",
-  "publishedAt": "2026-06-11T04:38:22.064Z"
+  "receptionPw": "",
+  "courtLayout": {
+    "grid": "",
+    "labelTop": "",
+    "labelBottom": "",
+    "labelLeft": "",
+    "labelRight": "",
+    "centerLabel": {
+      "text": "",
+      "pos": "bottom"
+    }
+  },
+  "publishedAt": "2026-06-28T07:07:38.505Z"
 }
