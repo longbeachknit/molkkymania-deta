@@ -1,0 +1,414 @@
+{
+  "updatedAt": "2026-06-30T05:22:34.161Z",
+  "eventCode": "0002",
+  "rounds": [
+    {
+      "name": "1回戦",
+      "matches": [
+        {
+          "team1": "おっくみぃ",
+          "team2": "TOKYO乱反射",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "いもりたみ子",
+          "team2": "モル×2モリ×2",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "HolyDen16",
+          "team2": "チームM",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "KU MI KI",
+          "team2": "ノストラダムスの大予言生還組",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "とにもかくにもアッチョンブリケ",
+          "team2": "MOLKKEDA _A team",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "池袋ウッドペッカーズ",
+          "team2": "松田Dragons",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "湘南カヴェリ",
+          "team2": "プイモル",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "65BRG",
+          "team2": "よこしょー",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "SHIP B",
+          "team2": "浦安モルックチーム:神頼み",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "びわこDoughnuts Hole",
+          "team2": "天使とおふざけ先生",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "HRDピンチャン",
+          "team2": "影のrough Z",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "This is T-MölkkU",
+          "team2": "Rising Hiro",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "きしまる。",
+          "team2": "シェリーズ",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "kepula",
+          "team2": "でんきやさん",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "LAB Molkky",
+          "team2": "チームうめ男dism",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "Nomistake_松岡大樹",
+          "team2": "ダブルA",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "さきちゃんねる",
+          "team2": "Field Trip",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "杉玉ファンクラブ",
+          "team2": "PHÖENIXXX A.T.T",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "Z-ÖNE A.R.R.Y",
+          "team2": "MöLKKY OF DEATH",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "MASA1.M.C A",
+          "team2": "two mistakes",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ラブ・ポーション",
+          "team2": "いろどりonni",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "Passione",
+          "team2": "うさうさ",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "青春アミーゴ",
+          "team2": "HRD",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "たこ焼きパーティー",
+          "team2": "DYUbee",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ヒコダP",
+          "team2": "㈱タカハシ",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "木倒す",
+          "team2": "WARABY",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "パピーセンス",
+          "team2": "UVIC",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "主は私の主にお告げになった",
+          "team2": "婆爺梨酢喰",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "throw STARter",
+          "team2": "チーム・ブルー",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "はらぱんまん",
+          "team2": "森武ないすズ",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "Chabosam",
+          "team2": "KANcheeGUY",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "Team Kiitos",
+          "team2": "Tavola",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "TOKYO乱反射",
+          "team2": "いもりたみ子",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "HolyDen16",
+          "team2": "ノストラダムスの大予言生還組",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "とにもかくにもアッチョンブリケ",
+          "team2": "松田Dragons",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "プイモル",
+          "team2": "65BRG",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "浦安モルックチーム:神頼み",
+          "team2": "天使とおふざけ先生",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "影のrough Z",
+          "team2": "This is T-MölkkU",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "きしまる。",
+          "team2": "でんきやさん",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "チームうめ男dism",
+          "team2": "ダブルA",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "さきちゃんねる",
+          "team2": "PHÖENIXXX A.T.T",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "Z-ÖNE A.R.R.Y",
+          "team2": "two mistakes",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ラブ・ポーション",
+          "team2": "Passione",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "青春アミーゴ",
+          "team2": "DYUbee",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ヒコダP",
+          "team2": "WARABY",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "パピーセンス",
+          "team2": "婆爺梨酢喰",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "throw STARter",
+          "team2": "森武ないすズ",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "KANcheeGUY",
+          "team2": "Team Kiitos",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "3回戦",
+      "matches": [
+        {
+          "team1": "いもりたみ子",
+          "team2": "HolyDen16",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "松田Dragons",
+          "team2": "プイモル",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "天使とおふざけ先生",
+          "team2": "影のrough Z",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "きしまる。",
+          "team2": "ダブルA",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "PHÖENIXXX A.T.T",
+          "team2": "Z-ÖNE A.R.R.Y",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "Passione",
+          "team2": "DYUbee",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "WARABY",
+          "team2": "婆爺梨酢喰",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "throw STARter",
+          "team2": "Team Kiitos",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "4回戦",
+      "matches": [
+        {
+          "team1": "HolyDen16",
+          "team2": "プイモル",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "影のrough Z",
+          "team2": "きしまる。",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "PHÖENIXXX A.T.T",
+          "team2": "Passione",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "婆爺梨酢喰",
+          "team2": "throw STARter",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "プイモル",
+          "team2": "影のrough Z",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "Passione",
+          "team2": "婆爺梨酢喰",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "決勝",
+      "matches": [
+        {
+          "team1": "プイモル",
+          "team2": "婆爺梨酢喰",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    }
+  ]
+}
