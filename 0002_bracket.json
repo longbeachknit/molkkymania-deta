@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T08:05:40.471Z",
+  "updatedAt": "2026-06-30T08:10:48.891Z",
   "eventCode": "0002",
   "rounds": [
     {
@@ -304,27 +304,27 @@
       "name": "3回戦",
       "matches": [
         {
-          "team1": "",
-          "team2": "",
+          "team1": "いもりたみ子",
+          "team2": "HolyDen16",
           "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "松田Dragons",
+          "team2": "プイモル",
+          "win1": true,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "天使とおふざけ先生",
+          "team2": "影のrough Z",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
-          "team1": "",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "",
-          "win1": false,
+          "team1": "きしまる。",
+          "team2": "ダブルA",
+          "win1": true,
           "win2": false
         },
         {
@@ -357,27 +357,27 @@
       "name": "4回戦",
       "matches": [
         {
-          "team1": "",
-          "team2": "",
+          "team1": "HolyDen16",
+          "team2": "プイモル",
           "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "影のrough Z",
+          "team2": "きしまる。",
+          "win1": true,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "PHÖENIXXX A.T.T",
+          "team2": "Passione",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
-          "team1": "",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "",
-          "win1": false,
+          "team1": "婆爺梨酢喰",
+          "team2": "throw STARter",
+          "win1": true,
           "win2": false
         }
       ]
@@ -386,16 +386,16 @@
       "name": "準決勝",
       "matches": [
         {
-          "team1": "",
-          "team2": "",
-          "win1": false,
+          "team1": "プイモル",
+          "team2": "影のrough Z",
+          "win1": true,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "Passione",
+          "team2": "婆爺梨酢喰",
           "win1": false,
-          "win2": false
+          "win2": true
         }
       ]
     },
@@ -403,10 +403,10 @@
       "name": "決勝",
       "matches": [
         {
-          "team1": "",
-          "team2": "",
+          "team1": "プイモル",
+          "team2": "婆爺梨酢喰",
           "win1": false,
-          "win2": false
+          "win2": true
         }
       ]
     }
