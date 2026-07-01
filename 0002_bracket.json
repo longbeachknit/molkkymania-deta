@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T08:10:48.891Z",
+  "updatedAt": "2026-07-01T04:20:58.797Z",
   "eventCode": "0002",
   "rounds": [
     {
@@ -312,8 +312,8 @@
         {
           "team1": "松田Dragons",
           "team2": "プイモル",
-          "win1": true,
-          "win2": false
+          "win1": false,
+          "win2": true
         },
         {
           "team1": "天使とおふざけ先生",
@@ -330,8 +330,8 @@
         {
           "team1": "PHÖENIXXX A.T.T",
           "team2": "Z-ÖNE A.R.R.Y",
-          "win1": false,
-          "win2": true
+          "win1": true,
+          "win2": false
         },
         {
           "team1": "Passione",
@@ -342,14 +342,14 @@
         {
           "team1": "WARABY",
           "team2": "婆爺梨酢喰",
-          "win1": true,
-          "win2": false
+          "win1": false,
+          "win2": true
         },
         {
           "team1": "throw STARter",
           "team2": "Team Kiitos",
-          "win1": false,
-          "win2": true
+          "win1": true,
+          "win2": false
         }
       ]
     },
