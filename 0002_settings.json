@@ -868,7 +868,7 @@
     }
   ],
   "eventPeriodStart": "2026-06-11T09:30",
-  "eventPeriodEnd": "2026-07-02T22:00",
+  "eventPeriodEnd": "2026-06-28T22:00",
   "receptionPw": "2626",
   "systemChart": {
     "enabled": true,
@@ -911,7 +911,8 @@
           "3回戦",
           "4回戦",
           "準決勝",
-          "決勝、3決"
+          "決勝",
+          "3決"
         ]
       },
       {
@@ -970,5 +971,5 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-02T06:10:32.661Z"
+  "publishedAt": "2026-07-02T06:10:54.376Z"
 }
