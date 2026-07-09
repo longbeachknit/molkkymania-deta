@@ -3,6 +3,7 @@
   "eventCode": "0002",
   "eventName": "Mölkky Mania Kawasaki -OPEN- Season.6-2",
   "gasUrl": "https://script.google.com/macros/s/AKfycbxlShD6mqSfjcxASagDZaZaXGF4YvahjCWR0sMiLuQ856NzRxErLPbliNlj_8ghwnzkDg/exec",
+  "sheetUrl": "",
   "priority": "tournament",
   "matchRules": [
     {
@@ -970,5 +971,5 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-09T04:14:44.953Z"
+  "publishedAt": "2026-07-09T16:22:53.313Z"
 }
