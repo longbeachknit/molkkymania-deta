@@ -3,6 +3,7 @@
   "eventCode": "0003",
   "eventName": "Mölkky Mania Kawasaki -OPEN- Season.6-3",
   "gasUrl": "https://script.google.com/macros/s/AKfycbxmSks9eEFDM9BNUlVfg07cd1rZqKQ9hZ4BnUIfjd4oKZkn8joLdAQG7GsXAw3QUzCfLw/exec",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1iPkJ6iTFEIg0lqElZH2DT_HurX5RKCJ09oKG2KTp0f0/edit?usp=sharing",
   "priority": "tournament",
   "matchRules": [
     {
@@ -322,5 +323,5 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-09T04:15:02.118Z"
+  "publishedAt": "2026-07-09T05:50:50.381Z"
 }
