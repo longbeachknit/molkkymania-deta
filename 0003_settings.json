@@ -369,8 +369,8 @@
     },
     {
       "id": "029",
-      "name": "児島湖ドーナツホール",
-      "members": "enc1:iMvLjejZxfvHQYzQ1JOuktmVig=="
+      "name": "tkwk",
+      "members": "enc1:isTVg+/+yvjviM3aX5KGi9i2sonV8I330w=="
     },
     {
       "id": "030",
@@ -585,7 +585,7 @@
     {
       "id": "072",
       "name": "びわこDoughnuts Hole",
-      "members": "enc1:isryjePBydfjQY7R7ZOlitijgEGJ8MOPwaaA5vGK9PY="
+      "members": "enc1:isryjePBydfjQY7R7ZOlitijgEGKyMyN+o2A+sM="
     },
     {
       "id": "073",
@@ -770,7 +770,7 @@
     {
       "id": "109",
       "name": "FIVE OK ROCK",
-      "members": "enc1:idPmg/zdyMzmiM3TX52KoNaumYj94I7kywGA+OSMxcKQpLXUi7A="
+      "members": "enc1:idPmg/zdyMzmiM3TX52KoNaumYj94I7kywGA+OSMxcKQpLXUi7BBiurujO2dgOn4jM3A"
     },
     {
       "id": "110",
@@ -856,16 +856,6 @@
       "id": "126",
       "name": "あっくんまーくん",
       "members": "enc1:i8/7jvT3y8XKi/XjX5O7u9ilkYv3wY3f8g=="
-    },
-    {
-      "id": "127",
-      "name": "tkwk",
-      "members": "enc1:isTVg+/+yvjviM3aX5KGi9i2sonV8I330w=="
-    },
-    {
-      "id": "128",
-      "name": "（対戦相手未定）",
-      "members": "enc1:LEMu"
     }
   ],
   "eventPeriodStart": "2026-07-11T09:30",
@@ -964,5 +954,5 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-09T16:23:41.139Z"
+  "publishedAt": "2026-07-10T13:52:03.396Z"
 }
