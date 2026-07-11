@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T03:26:52.595Z",
+  "updatedAt": "2026-07-11T04:30:23.417Z",
   "eventCode": "0003",
   "rounds": [
     {
@@ -205,98 +205,98 @@
         {
           "team1": "ダブルA",
           "team2": "DYUbee",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "syn",
           "team2": "にじゅうまる",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ぜきすぎてふみ！",
           "team2": "Team Kiitos",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Z-ÖNE A.T.R.R.Y",
           "team2": "城北HRD WF",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ZENJIN REWRITE",
           "team2": "あっくんまーくん",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "タローマン",
           "team2": "ルーOMC",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "永井と古田",
           "team2": "LAB Molkky",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ALLIN WHITE",
           "team2": "PHÖENIXXX A.M.T.T",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "わくわくどきどきモルックチーム",
           "team2": "東京（）大学",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ラガJフル",
           "team2": "TRAPNEST",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "兄弟です",
           "team2": "ダッペ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "チェレステ",
           "team2": "サニーランド",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "SISU",
           "team2": "柳川クリエイト",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "混ぜるな危険！",
           "team2": "海コブラ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "青春学園",
           "team2": "MADCAP",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Vamös",
           "team2": "ブルートップ",
           "win1": false,
-          "win2": false
+          "win2": true
         }
       ]
     },
@@ -304,50 +304,50 @@
       "name": "3回戦",
       "matches": [
         {
-          "team1": "",
-          "team2": "",
+          "team1": "ダブルA",
+          "team2": "にじゅうまる",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "Team Kiitos",
+          "team2": "Z-ÖNE A.T.R.R.Y",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "あっくんまーくん",
+          "team2": "タローマン",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "永井と古田",
+          "team2": "ALLIN WHITE",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "わくわくどきどきモルックチーム",
+          "team2": "ラガJフル",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "ダッペ",
+          "team2": "サニーランド",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "柳川クリエイト",
+          "team2": "海コブラ",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "MADCAP",
+          "team2": "ブルートップ",
           "win1": false,
           "win2": false
         }
