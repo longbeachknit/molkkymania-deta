@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T04:30:23.417Z",
+  "updatedAt": "2026-07-11T09:47:35.633Z",
   "eventCode": "0003",
   "rounds": [
     {
@@ -307,48 +307,48 @@
           "team1": "ダブルA",
           "team2": "にじゅうまる",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Team Kiitos",
           "team2": "Z-ÖNE A.T.R.R.Y",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "あっくんまーくん",
           "team2": "タローマン",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "永井と古田",
           "team2": "ALLIN WHITE",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "わくわくどきどきモルックチーム",
           "team2": "ラガJフル",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ダッペ",
           "team2": "サニーランド",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "柳川クリエイト",
           "team2": "海コブラ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "MADCAP",
           "team2": "ブルートップ",
-          "win1": false,
+          "win1": true,
           "win2": false
         }
       ]
@@ -357,27 +357,27 @@
       "name": "4回戦",
       "matches": [
         {
-          "team1": "",
-          "team2": "",
+          "team1": "にじゅうまる",
+          "team2": "Z-ÖNE A.T.R.R.Y",
           "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "あっくんまーくん",
+          "team2": "ALLIN WHITE",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "わくわくどきどきモルックチーム",
+          "team2": "サニーランド",
+          "win1": true,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "",
-          "win1": false,
+          "team1": "海コブラ",
+          "team2": "MADCAP",
+          "win1": true,
           "win2": false
         }
       ]
@@ -386,16 +386,16 @@
       "name": "準決勝",
       "matches": [
         {
-          "team1": "",
-          "team2": "",
+          "team1": "Z-ÖNE A.T.R.R.Y",
+          "team2": "ALLIN WHITE",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "わくわくどきどきモルックチーム",
+          "team2": "海コブラ",
           "win1": false,
-          "win2": false
+          "win2": true
         }
       ]
     },
@@ -403,9 +403,9 @@
       "name": "決勝",
       "matches": [
         {
-          "team1": "",
-          "team2": "",
-          "win1": false,
+          "team1": "ALLIN WHITE",
+          "team2": "海コブラ",
+          "win1": true,
           "win2": false
         }
       ]
