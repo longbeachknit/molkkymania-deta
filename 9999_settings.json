@@ -2,7 +2,7 @@
   "venueCode": "99",
   "eventCode": "9999",
   "eventName": "【テンプレ】対戦表C(128)確認用",
-  "gasUrl": "https://script.google.com/macros/s/AKfycbyAVadDhFATC3H72VF1y14mPbbimTwWMEiAzUPoEMueE7qXVI3rJY0ngywGwFD7osKY5g/exec",
+  "gasUrl": "https://script.google.com/macros/s/AKfycby-KuDwavgN07CA-jVHYr6NVuBQVdCjvYP9lo2W8HeOxNdA-H9j8Xg0IUi6E01LHq61tg/exec",
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1yvI6yNsXSQ4qbKIq86NEzO4wQWyo3Rp8HJo7TvYt5yw/edit?usp=sharing",
   "priority": "tournament",
   "matchRules": [
@@ -969,5 +969,5 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-13T12:33:49.634Z"
+  "publishedAt": "2026-07-13T12:34:52.224Z"
 }
