@@ -1,199 +1,199 @@
 {
-  "updatedAt": "2026-07-05T06:42:08.184Z",
+  "updatedAt": "2026-07-13T12:00:27.316Z",
   "eventCode": "9999",
   "rounds": [
     {
       "name": "1回戦",
       "matches": [
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0001",
+          "team2": "0064",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0033",
+          "team2": "0032",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0017",
+          "team2": "0048",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0049",
+          "team2": "0016",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0009",
+          "team2": "0056",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0041",
+          "team2": "0024",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0025",
+          "team2": "0040",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0057",
+          "team2": "0008",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0005",
+          "team2": "0060",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0037",
+          "team2": "0028",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0021",
+          "team2": "0044",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0053",
+          "team2": "0012",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0013",
+          "team2": "0052",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0045",
+          "team2": "0020",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0029",
+          "team2": "0036",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0061",
+          "team2": "0004",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0003",
+          "team2": "0062",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0035",
+          "team2": "0030",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0019",
+          "team2": "0046",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0051",
+          "team2": "0014",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0011",
+          "team2": "0054",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0043",
+          "team2": "0022",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0027",
+          "team2": "0038",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0059",
+          "team2": "0006",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0007",
+          "team2": "0058",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0039",
+          "team2": "0026",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0023",
+          "team2": "0042",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0055",
+          "team2": "0010",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0015",
+          "team2": "0050",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0047",
+          "team2": "0018",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0031",
+          "team2": "0034",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "0063",
+          "team2": "0002",
           "win1": false,
           "win2": false
         }
