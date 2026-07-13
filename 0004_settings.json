@@ -5,24 +5,309 @@
   "gasUrl": "https://script.google.com/macros/s/AKfycbyJz-Toz1XKZ3nWurDoRrl0-7r0Mi4_fB4ufcb2ugFnvFsEI_aVrsyq1bGqpLE8Go0P/exec",
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1SLK8EHRznKe-xQiPy_xqrASgzkmnLKVzSHLibyZeVUk/edit?usp=sharing",
   "priority": "tournament",
-  "matchRules": [],
-  "tourneyRules": [],
-  "roundRules": [],
+  "matchRules": [
+    {
+      "code": "04",
+      "name": "第1試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "第2試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "06",
+      "name": "第3試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "07",
+      "name": "第4試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "08",
+      "name": "第5試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "01",
+      "name": "予選①",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "予選②",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "予選③",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    }
+  ],
+  "tourneyRules": [
+    {
+      "code": "00",
+      "name": "",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "01",
+      "name": "決勝トーナメント",
+      "fmt": "best3",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "5位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "15位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "不戦勝交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    }
+  ],
+  "roundRules": [
+    {
+      "matchCode": "04",
+      "tourneyCode": "01",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "01",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "01",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "01",
+      "round": "準決勝"
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "01",
+      "round": "決勝・3決"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "02",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "02",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "02",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "02",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "02",
+      "round": "5位タイ決定戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "03",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "03",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "03",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "03",
+      "round": "15位タイ決定戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "04",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "05",
+      "round": "1回戦"
+    }
+  ],
   "teams": [],
   "eventPeriodStart": "2026-07-18T09:00",
   "eventPeriodEnd": "2026-07-18T18:00",
   "receptionPw": "1111",
-  "systemChart": null,
+  "systemChart": {
+    "enabled": true,
+    "cornerLabel": "",
+    "prelims": [
+      "予選①",
+      "予選②",
+      "予選③"
+    ],
+    "rowLabels": [
+      "第1試合",
+      "第2試合",
+      "第3試合",
+      "第4試合",
+      "第5試合"
+    ],
+    "legend": [
+      {
+        "label": "表裏",
+        "color": "gray"
+      },
+      {
+        "label": "3先",
+        "color": "pink"
+      },
+      {
+        "label": "2先",
+        "color": "green"
+      }
+    ],
+    "columns": [
+      {
+        "name": "決勝トーナメント",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "準決勝",
+          "決勝・3決"
+        ]
+      },
+      {
+        "name": "5位タイトーナメント",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "5位タイ決定戦"
+        ]
+      },
+      {
+        "name": "15位タイトーナメント",
+        "startRow": 1,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "15位タイ決定戦"
+        ]
+      },
+      {
+        "name": "交流戦",
+        "startRow": 2,
+        "note": "",
+        "cells": [
+          "1回戦"
+        ]
+      },
+      {
+        "name": "不戦勝交流戦",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "1回戦"
+        ]
+      }
+    ],
+    "colors": {
+      "決勝トーナメント": "pink",
+      "5位タイトーナメント": "green",
+      "15位タイトーナメント": "green",
+      "交流戦": "green",
+      "不戦勝交流戦": "green"
+    },
+    "loseArrows": {}
+  },
   "courtLayout": {
-    "grid": "",
+    "grid": "13,14,15,16,17,18\n7,8,9,10,11,12\n1,2,3,4,5,6",
     "labelTop": "",
     "labelBottom": "",
-    "labelLeft": "",
-    "labelRight": "",
+    "labelLeft": "入り口側",
+    "labelRight": "浜寺運河",
     "centerLabel": {
-      "text": "",
+      "text": "本部・屋根",
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-13T14:48:36.782Z"
+  "publishedAt": "2026-07-13T14:58:25.744Z"
 }
