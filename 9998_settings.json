@@ -1,0 +1,28 @@
+{
+  "venueCode": "99",
+  "eventCode": "9998",
+  "eventName": "【確認用】対戦表C_31~40チームver",
+  "gasUrl": "",
+  "sheetUrl": "",
+  "priority": "tournament",
+  "matchRules": [],
+  "tourneyRules": [],
+  "roundRules": [],
+  "teams": [],
+  "eventPeriodStart": "",
+  "eventPeriodEnd": "",
+  "receptionPw": "",
+  "systemChart": null,
+  "courtLayout": {
+    "grid": "",
+    "labelTop": "",
+    "labelBottom": "",
+    "labelLeft": "",
+    "labelRight": "",
+    "centerLabel": {
+      "text": "",
+      "pos": "bottom"
+    }
+  },
+  "publishedAt": "2026-07-13T11:48:28.836Z"
+}
