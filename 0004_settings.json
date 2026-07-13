@@ -1,0 +1,28 @@
+{
+  "venueCode": "02",
+  "eventCode": "0004",
+  "eventName": "Mölkky Mania Osaka -OPEN- Season.1-4",
+  "gasUrl": "https://script.google.com/macros/s/AKfycbyJz-Toz1XKZ3nWurDoRrl0-7r0Mi4_fB4ufcb2ugFnvFsEI_aVrsyq1bGqpLE8Go0P/exec",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1SLK8EHRznKe-xQiPy_xqrASgzkmnLKVzSHLibyZeVUk/edit?usp=sharing",
+  "priority": "tournament",
+  "matchRules": [],
+  "tourneyRules": [],
+  "roundRules": [],
+  "teams": [],
+  "eventPeriodStart": "2026-07-18T09:00",
+  "eventPeriodEnd": "2026-07-18T18:00",
+  "receptionPw": "1111",
+  "systemChart": null,
+  "courtLayout": {
+    "grid": "",
+    "labelTop": "",
+    "labelBottom": "",
+    "labelLeft": "",
+    "labelRight": "",
+    "centerLabel": {
+      "text": "",
+      "pos": "bottom"
+    }
+  },
+  "publishedAt": "2026-07-13T14:48:36.782Z"
+}
