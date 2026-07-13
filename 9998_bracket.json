@@ -1,0 +1,414 @@
+{
+  "updatedAt": "2026-07-13T12:11:36.508Z",
+  "eventCode": "9998",
+  "rounds": [
+    {
+      "name": "1回戦",
+      "matches": [
+        {
+          "team1": "0016",
+          "team2": "0017",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0009",
+          "team2": "0024",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0013",
+          "team2": "0020",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0012",
+          "team2": "0021",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0015",
+          "team2": "0018",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0010",
+          "team2": "0023",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0014",
+          "team2": "0019",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0011",
+          "team2": "0022",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "0001",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0008",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0004",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0005",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0002",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0007",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0003",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0006",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "3回戦",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "4回戦",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "決勝",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    }
+  ]
+}
