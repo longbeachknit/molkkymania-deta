@@ -198,7 +198,208 @@
       "round": "1回戦"
     }
   ],
-  "teams": [],
+  "teams": [
+    {
+      "id": "001",
+      "name": "0001",
+      "members": "enc1:XF9cWkdLHVhY"
+    },
+    {
+      "id": "002",
+      "name": "0002",
+      "members": "enc1:XF9cWUdLHVhb"
+    },
+    {
+      "id": "003",
+      "name": "0003",
+      "members": "enc1:XF9cWEdLHVha"
+    },
+    {
+      "id": "004",
+      "name": "0004",
+      "members": "enc1:XF9cX0dLHVhd"
+    },
+    {
+      "id": "005",
+      "name": "0005",
+      "members": "enc1:XF9cXkdLHVhc"
+    },
+    {
+      "id": "006",
+      "name": "0006",
+      "members": "enc1:XF9cXUdLHVhf"
+    },
+    {
+      "id": "007",
+      "name": "0007",
+      "members": "enc1:XF9cXEdLHVhe"
+    },
+    {
+      "id": "008",
+      "name": "0008",
+      "members": "enc1:XF9cU0dLHVhR"
+    },
+    {
+      "id": "009",
+      "name": "0009",
+      "members": "enc1:XF9cUkdLHVhQ"
+    },
+    {
+      "id": "010",
+      "name": "0010",
+      "members": "enc1:XF9dW0dLHVlZ"
+    },
+    {
+      "id": "011",
+      "name": "0011",
+      "members": "enc1:XF9dWkdLHVlY"
+    },
+    {
+      "id": "012",
+      "name": "0012",
+      "members": "enc1:XF9dWUdLHVlb"
+    },
+    {
+      "id": "013",
+      "name": "0013",
+      "members": "enc1:XF9dWEdLHVla"
+    },
+    {
+      "id": "014",
+      "name": "0014",
+      "members": "enc1:XF9dX0dLHVld"
+    },
+    {
+      "id": "015",
+      "name": "0015",
+      "members": "enc1:XF9dXkdLHVlc"
+    },
+    {
+      "id": "016",
+      "name": "0016",
+      "members": "enc1:XF9dXUdLHVlf"
+    },
+    {
+      "id": "017",
+      "name": "0017",
+      "members": "enc1:XF9dXEdLHVle"
+    },
+    {
+      "id": "018",
+      "name": "0018",
+      "members": "enc1:XF9dU0dLHVlR"
+    },
+    {
+      "id": "019",
+      "name": "0019",
+      "members": "enc1:XF9dUkdLHVlQ"
+    },
+    {
+      "id": "020",
+      "name": "0020",
+      "members": "enc1:XF9eW0dLHVpZ"
+    },
+    {
+      "id": "021",
+      "name": "0021",
+      "members": "enc1:XF9eWkdLHVpY"
+    },
+    {
+      "id": "022",
+      "name": "0022",
+      "members": "enc1:XF9eWUdLHVpb"
+    },
+    {
+      "id": "023",
+      "name": "0023",
+      "members": "enc1:XF9eWEdLHVpa"
+    },
+    {
+      "id": "024",
+      "name": "0024",
+      "members": "enc1:XF9eX0dLHVpd"
+    },
+    {
+      "id": "025",
+      "name": "0025",
+      "members": "enc1:XF9eXkdLHVpc"
+    },
+    {
+      "id": "026",
+      "name": "0026",
+      "members": "enc1:XF9eXUdLHVpf"
+    },
+    {
+      "id": "027",
+      "name": "0027",
+      "members": "enc1:XF9eXEdLHVpe"
+    },
+    {
+      "id": "028",
+      "name": "0028",
+      "members": "enc1:XF9eU0dLHVpR"
+    },
+    {
+      "id": "029",
+      "name": "0029",
+      "members": "enc1:XF9eUkdLHVpQ"
+    },
+    {
+      "id": "030",
+      "name": "0030",
+      "members": "enc1:XF9fW0dLHVtZ"
+    },
+    {
+      "id": "031",
+      "name": "0031",
+      "members": "enc1:XF9fWkdLHVtY"
+    },
+    {
+      "id": "032",
+      "name": "0032",
+      "members": "enc1:XF9fWUdLHVtb"
+    },
+    {
+      "id": "033",
+      "name": "0033",
+      "members": "enc1:XF9fWEdLHVta"
+    },
+    {
+      "id": "034",
+      "name": "0034",
+      "members": "enc1:XF9fX0dLHVtd"
+    },
+    {
+      "id": "035",
+      "name": "0035",
+      "members": "enc1:XF9fXkdLHVtc"
+    },
+    {
+      "id": "036",
+      "name": "0036",
+      "members": "enc1:XF9fXUdLHVtf"
+    },
+    {
+      "id": "037",
+      "name": "0037",
+      "members": "enc1:XF9fXEdLHVte"
+    },
+    {
+      "id": "038",
+      "name": "0038",
+      "members": "enc1:XF9fU0dLHVtR"
+    },
+    {
+      "id": "039",
+      "name": "0039",
+      "members": "enc1:XF9fUkdLHVtQ"
+    },
+    {
+      "id": "040",
+      "name": "0040",
+      "members": "enc1:XF9YW0dLHVxZ"
+    }
+  ],
   "eventPeriodStart": "2026-07-13T20:49",
   "eventPeriodEnd": "2030-08-13T20:49",
   "receptionPw": "2626",
@@ -295,5 +496,5 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-13T11:54:14.371Z"
+  "publishedAt": "2026-07-13T11:57:59.723Z"
 }
