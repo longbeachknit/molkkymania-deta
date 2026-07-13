@@ -1,7 +1,7 @@
 {
   "venueCode": "99",
   "eventCode": "9999",
-  "eventName": "【テンプレ】対戦表C確認用",
+  "eventName": "【テンプレ】対戦表C(128)確認用",
   "gasUrl": "https://script.google.com/macros/s/AKfycbyAVadDhFATC3H72VF1y14mPbbimTwWMEiAzUPoEMueE7qXVI3rJY0ngywGwFD7osKY5g/exec",
   "sheetUrl": "",
   "priority": "tournament",
@@ -969,5 +969,5 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-13T11:34:04.550Z"
+  "publishedAt": "2026-07-13T11:48:41.155Z"
 }
