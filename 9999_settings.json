@@ -869,7 +869,7 @@
     }
   ],
   "eventPeriodStart": "2026-06-04T17:39",
-  "eventPeriodEnd": "2026-06-04T17:48",
+  "eventPeriodEnd": "2030-03-04T17:48",
   "receptionPw": "",
   "systemChart": {
     "enabled": true,
@@ -969,5 +969,5 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-13T11:32:08.838Z"
+  "publishedAt": "2026-07-13T11:34:04.550Z"
 }
