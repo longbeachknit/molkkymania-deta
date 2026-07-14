@@ -207,6 +207,7 @@
   "eventPeriodStart": "2026-07-18T09:00",
   "eventPeriodEnd": "2026-07-18T18:00",
   "receptionPw": "1111",
+  "bracketTeamCount": 24,
   "systemChart": {
     "enabled": true,
     "cornerLabel": "",
@@ -309,5 +310,5 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-13T15:01:15.434Z"
+  "publishedAt": "2026-07-14T01:33:51.074Z"
 }
