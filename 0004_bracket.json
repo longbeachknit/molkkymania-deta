@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-14T02:15:23.517Z",
+  "updatedAt": "2026-07-14T02:18:56.210Z",
   "eventCode": "0004",
   "rounds": [
     {
       "name": "1回戦",
       "matches": [
         {
-          "team1": "0016",
-          "team2": "0017",
+          "team1": "予選16位",
+          "team2": "予選17位",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0009",
-          "team2": "0024",
+          "team1": "予選9位",
+          "team2": "予選24位",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0013",
-          "team2": "0020",
+          "team1": "予選13位",
+          "team2": "予選20位",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0012",
-          "team2": "0021",
+          "team1": "予選12位",
+          "team2": "予選21位",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0015",
-          "team2": "0018",
+          "team1": "予選15位",
+          "team2": "予選18位",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0010",
-          "team2": "0023",
+          "team1": "予選10位",
+          "team2": "予選23位",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0014",
-          "team2": "0019",
+          "team1": "予選14位",
+          "team2": "予選19位",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0011",
-          "team2": "0022",
+          "team1": "予選11位",
+          "team2": "予選22位",
           "win1": false,
           "win2": false
         }
@@ -59,49 +59,49 @@
       "name": "2回戦",
       "matches": [
         {
-          "team1": "0001",
+          "team1": "予選1位",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0008",
+          "team1": "予選8位",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0004",
+          "team1": "予選4位",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0005",
+          "team1": "予選5位",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0002",
+          "team1": "予選2位",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0007",
+          "team1": "予選7位",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0003",
+          "team1": "予選3位",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "0006",
+          "team1": "予選6位",
           "team2": "",
           "win1": false,
           "win2": false
