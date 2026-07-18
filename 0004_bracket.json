@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T02:21:01.755Z",
+  "updatedAt": "2026-07-18T03:16:34.625Z",
   "eventCode": "0004",
   "rounds": [
     {
@@ -9,48 +9,48 @@
           "team1": "ブルーベリー",
           "team2": "Aete",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "大産大_スリッパとうさぎwithつよし",
           "team2": "HORIBA Mölkky Club2",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "SQUARE",
           "team2": "運と技　遊",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "岩田研",
           "team2": "亜衣ちゃんズ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Mörits_麻雀支部",
           "team2": "Mörits_宝withK",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "棒力団",
           "team2": "モルゴ13",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "HORIBA Mölkky Club1",
           "team2": "運と技　匠",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "KD",
           "team2": "おひるねかぼちゃ",
-          "win1": false,
+          "win1": true,
           "win2": false
         }
       ]
@@ -60,49 +60,49 @@
       "matches": [
         {
           "team1": "大産大_鎮座椅子",
-          "team2": "",
+          "team2": "Aete",
           "win1": false,
           "win2": false
         },
         {
           "team1": "おこちゃ",
-          "team2": "",
+          "team2": "大産大_スリッパとうさぎwithつよし",
           "win1": false,
           "win2": false
         },
         {
           "team1": "Mörits_ガシャ王",
-          "team2": "",
+          "team2": "SQUARE",
           "win1": false,
           "win2": false
         },
         {
           "team1": "大産大_今昔さん",
-          "team2": "",
+          "team2": "亜衣ちゃんズ",
           "win1": false,
           "win2": false
         },
         {
           "team1": "croc_弘田上",
-          "team2": "",
+          "team2": "Mörits_宝withK",
           "win1": false,
           "win2": false
         },
         {
           "team1": "Villain",
-          "team2": "",
+          "team2": "モルゴ13",
           "win1": false,
           "win2": false
         },
         {
           "team1": "楓源",
-          "team2": "",
+          "team2": "HORIBA Mölkky Club1",
           "win1": false,
           "win2": false
         },
         {
           "team1": "高橋ディカーマウンテン克典",
-          "team2": "",
+          "team2": "KD",
           "win1": false,
           "win2": false
         }
