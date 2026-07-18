@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-18T02:08:34.635Z",
+  "updatedAt": "2026-07-18T02:13:44.934Z",
   "eventCode": "0004",
   "rounds": [
     {
       "name": "1回戦",
       "matches": [
         {
-          "team1": "運と技　遊",
-          "team2": "亜衣ちゃんズ",
+          "team1": "ブルーベリー",
+          "team2": "Aete",
           "win1": false,
           "win2": false
         },
         {
           "team1": "大産大_スリッパとうさぎwithつよし",
-          "team2": "モルックの東郷〜天地開闢「紅一点カルテット」〜",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "Aete",
-          "team2": "SQUARE",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "ブルーベリー",
           "team2": "HORIBA Mölkky Club2",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "運と技　匠",
-          "team2": "おひるねかぼちゃ",
+          "team1": "SQUARE",
+          "team2": "運と技　遊",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "棒力団",
-          "team2": "Team Flapping",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "Mörits_宝withK",
-          "team2": "KD",
+          "team1": "岩田研",
+          "team2": "亜衣ちゃんズ",
           "win1": false,
           "win2": false
         },
         {
           "team1": "Mörits_麻雀支部",
-          "team2": "cogoceワールド",
+          "team2": "Mörits_宝withK",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "棒力団",
+          "team2": "モルゴ13",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "HORIBA Mölkky Club1",
+          "team2": "運と技　匠",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "KD",
+          "team2": "おひるねかぼちゃ",
           "win1": false,
           "win2": false
         }
