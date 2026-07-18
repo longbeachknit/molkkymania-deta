@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T03:16:34.625Z",
+  "updatedAt": "2026-07-18T03:58:07.907Z",
   "eventCode": "0004",
   "rounds": [
     {
@@ -61,47 +61,76 @@
         {
           "team1": "大産大_鎮座椅子",
           "team2": "Aete",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "おこちゃ",
           "team2": "大産大_スリッパとうさぎwithつよし",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Mörits_ガシャ王",
           "team2": "SQUARE",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "大産大_今昔さん",
           "team2": "亜衣ちゃんズ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "croc_弘田上",
           "team2": "Mörits_宝withK",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Villain",
           "team2": "モルゴ13",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "楓源",
           "team2": "HORIBA Mölkky Club1",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "高橋ディカーマウンテン克典",
+          "team2": "KD",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "3回戦",
+      "matches": [
+        {
+          "team1": "大産大_鎮座椅子",
+          "team2": "おこちゃ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "SQUARE",
+          "team2": "大産大_今昔さん",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "Mörits_宝withK",
+          "team2": "Villain",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "楓源",
           "team2": "KD",
           "win1": false,
           "win2": false
