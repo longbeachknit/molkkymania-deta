@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-14T02:19:44.903Z",
+  "updatedAt": "2026-07-18T02:08:34.635Z",
   "eventCode": "0004",
   "rounds": [
     {
       "name": "1回戦",
       "matches": [
         {
-          "team1": "予選16位",
-          "team2": "予選17位",
+          "team1": "運と技　遊",
+          "team2": "亜衣ちゃんズ",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選9位",
-          "team2": "予選24位",
+          "team1": "大産大_スリッパとうさぎwithつよし",
+          "team2": "モルックの東郷〜天地開闢「紅一点カルテット」〜",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選13位",
-          "team2": "予選20位",
+          "team1": "Aete",
+          "team2": "SQUARE",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選12位",
-          "team2": "予選21位",
+          "team1": "ブルーベリー",
+          "team2": "HORIBA Mölkky Club2",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選15位",
-          "team2": "予選18位",
+          "team1": "運と技　匠",
+          "team2": "おひるねかぼちゃ",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選10位",
-          "team2": "予選23位",
+          "team1": "棒力団",
+          "team2": "Team Flapping",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選14位",
-          "team2": "予選19位",
+          "team1": "Mörits_宝withK",
+          "team2": "KD",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選11位",
-          "team2": "予選22位",
+          "team1": "Mörits_麻雀支部",
+          "team2": "cogoceワールド",
           "win1": false,
           "win2": false
         }
@@ -59,49 +59,49 @@
       "name": "2回戦",
       "matches": [
         {
-          "team1": "予選1位",
+          "team1": "大産大_鎮座椅子",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選8位",
+          "team1": "おこちゃ",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選4位",
+          "team1": "Mörits_ガシャ王",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選5位",
+          "team1": "大産大_今昔さん",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選2位",
+          "team1": "croc_弘田上",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選7位",
+          "team1": "Villain",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選3位",
+          "team1": "楓源",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "予選6位",
+          "team1": "高橋ディカーマウンテン克典",
           "team2": "",
           "win1": false,
           "win2": false
