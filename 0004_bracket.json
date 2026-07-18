@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T03:58:07.907Z",
+  "updatedAt": "2026-07-18T07:48:47.201Z",
   "eventCode": "0004",
   "rounds": [
     {
@@ -114,26 +114,54 @@
         {
           "team1": "大産大_鎮座椅子",
           "team2": "おこちゃ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "SQUARE",
           "team2": "大産大_今昔さん",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Mörits_宝withK",
           "team2": "Villain",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "楓源",
           "team2": "KD",
-          "win1": false,
+          "win1": true,
           "win2": false
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "大産大_鎮座椅子",
+          "team2": "SQUARE",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "Villain",
+          "team2": "楓源",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "決勝",
+      "matches": [
+        {
+          "team1": "SQUARE",
+          "team2": "楓源",
+          "win1": false,
+          "win2": true
         }
       ]
     }
