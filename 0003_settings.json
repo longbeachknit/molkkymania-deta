@@ -134,7 +134,8 @@
     {
       "matchCode": "04",
       "tourneyCode": "01",
-      "round": "1回戦"
+      "round": "1回戦",
+      "prio": "match"
     },
     {
       "matchCode": "05",
@@ -159,7 +160,8 @@
     {
       "matchCode": "09",
       "tourneyCode": "01",
-      "round": "決勝、3決"
+      "round": "決勝、3決",
+      "prio": ""
     },
     {
       "matchCode": "04",
@@ -942,10 +944,13 @@
         ]
       }
     ],
-    "colors": {},
-    "loseArrows": {
-      "決勝トーナメント@4": false
-    }
+    "colors": {
+      "決勝トーナメント": "pink",
+      "5位タイトーナメント": "green",
+      "15位タイトーナメント": "green",
+      "交流戦": "green"
+    },
+    "loseArrows": {}
   },
   "venue": {
     "code": "01",
@@ -975,5 +980,5 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-27T03:39:21.306Z"
+  "publishedAt": "2026-07-27T03:45:16.891Z"
 }
