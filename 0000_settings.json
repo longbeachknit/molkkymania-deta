@@ -1,8 +1,10 @@
 {
-  "venueCode": "99",
+  "venueCode": "01",
   "eventCode": "0000",
   "eventName": "Season.6実験",
-  "gasUrl": "https://script.google.com/macros/s/AKfycbxDeZn3PlSnE7wquPKuWzvaqBVKgBHwdGgS3ZHfU28bBYHOuUoAowgBBpPCKExAHiruYg/exec",
+  "displayName": "",
+  "gasUrl": "",
+  "sheetUrl": "",
   "priority": "tournament",
   "matchRules": [
     {
@@ -229,643 +231,663 @@
     {
       "id": "001",
       "name": "0001",
-      "members": "1001,2001,3001"
+      "members": "enc1:XF9cWkdLHVhYQVpEQ0Q="
     },
     {
       "id": "002",
       "name": "0002",
-      "members": "1002,2002,3002"
+      "members": "enc1:XF9cWUdLHVhbQVpEQ0c="
     },
     {
       "id": "003",
       "name": "0003",
-      "members": "1003,2003,3003"
+      "members": "enc1:XF9cWEdLHVhaQVpEQ0Y="
     },
     {
       "id": "004",
       "name": "0004",
-      "members": "1004,2004,3004"
+      "members": "enc1:XF9cX0dLHVhdQVpEQ0E="
     },
     {
       "id": "005",
       "name": "0005",
-      "members": "1005,2005,3005"
+      "members": "enc1:XF9cXkdLHVhcQVpEQ0A="
     },
     {
       "id": "006",
       "name": "0006",
-      "members": "1006,2006,3006"
+      "members": "enc1:XF9cXUdLHVhfQVpEQ0M="
     },
     {
       "id": "007",
       "name": "0007",
-      "members": "1007,2007,3007"
+      "members": "enc1:XF9cXEdLHVheQVpEQ0I="
     },
     {
       "id": "008",
       "name": "0008",
-      "members": "1008,2008,3008"
+      "members": "enc1:XF9cU0dLHVhRQVpEQ00="
     },
     {
       "id": "009",
       "name": "0009",
-      "members": "1009,2009,3009"
+      "members": "enc1:XF9cUkdLHVhQQVpEQ0w="
     },
     {
       "id": "010",
       "name": "0010",
-      "members": "1010,2010,3010"
+      "members": "enc1:XF9dW0dLHVlZQVpEQkU="
     },
     {
       "id": "011",
       "name": "0011",
-      "members": "1011,2011,3011"
+      "members": "enc1:XF9dWkdLHVlYQVpEQkQ="
     },
     {
       "id": "012",
       "name": "0012",
-      "members": "1012,2012,3012"
+      "members": "enc1:XF9dWUdLHVlbQVpEQkc="
     },
     {
       "id": "013",
       "name": "0013",
-      "members": "1013,2013,3013"
+      "members": "enc1:XF9dWEdLHVlaQVpEQkY="
     },
     {
       "id": "014",
       "name": "0014",
-      "members": "1014,2014,3014"
+      "members": "enc1:XF9dX0dLHVldQVpEQkE="
     },
     {
       "id": "015",
       "name": "0015",
-      "members": "1015,2015,3015"
+      "members": "enc1:XF9dXkdLHVlcQVpEQkA="
     },
     {
       "id": "016",
       "name": "0016",
-      "members": "1016,2016,3016"
+      "members": "enc1:XF9dXUdLHVlfQVpEQkM="
     },
     {
       "id": "017",
       "name": "0017",
-      "members": "1017,2017,3017"
+      "members": "enc1:XF9dXEdLHVleQVpEQkI="
     },
     {
       "id": "018",
       "name": "0018",
-      "members": "1018,2018,3018"
+      "members": "enc1:XF9dU0dLHVlRQVpEQk0="
     },
     {
       "id": "019",
       "name": "0019",
-      "members": "1019,2019,3019"
+      "members": "enc1:XF9dUkdLHVlQQVpEQkw="
     },
     {
       "id": "020",
       "name": "0020",
-      "members": "1020,2020,3020"
+      "members": "enc1:XF9eW0dLHVpZQVpEQUU="
     },
     {
       "id": "021",
       "name": "0021",
-      "members": "1021,2021,3021"
+      "members": "enc1:XF9eWkdLHVpYQVpEQUQ="
     },
     {
       "id": "022",
       "name": "0022",
-      "members": "1022,2022,3022"
+      "members": "enc1:XF9eWUdLHVpbQVpEQUc="
     },
     {
       "id": "023",
       "name": "0023",
-      "members": "1023,2023,3023"
+      "members": "enc1:XF9eWEdLHVpaQVpEQUY="
     },
     {
       "id": "024",
       "name": "0024",
-      "members": "1024,2024,3024"
+      "members": "enc1:XF9eX0dLHVpdQVpEQUE="
     },
     {
       "id": "025",
       "name": "0025",
-      "members": "1025,2025,3025"
+      "members": "enc1:XF9eXkdLHVpcQVpEQUA="
     },
     {
       "id": "026",
       "name": "0026",
-      "members": "1026,2026,3026"
+      "members": "enc1:XF9eXUdLHVpfQVpEQUM="
     },
     {
       "id": "027",
       "name": "0027",
-      "members": "1027,2027,3027"
+      "members": "enc1:XF9eXEdLHVpeQVpEQUI="
     },
     {
       "id": "028",
       "name": "0028",
-      "members": "1028,2028,3028"
+      "members": "enc1:XF9eU0dLHVpRQVpEQU0="
     },
     {
       "id": "029",
       "name": "0029",
-      "members": "1029,2029,3029"
+      "members": "enc1:XF9eUkdLHVpQQVpEQUw="
     },
     {
       "id": "030",
       "name": "0030",
-      "members": "1030,2030,3030"
+      "members": "enc1:XF9fW0dLHVtZQVpEQEU="
     },
     {
       "id": "031",
       "name": "0031",
-      "members": "1031,2031,3031"
+      "members": "enc1:XF9fWkdLHVtYQVpEQEQ="
     },
     {
       "id": "032",
       "name": "0032",
-      "members": "1032,2032,3032"
+      "members": "enc1:XF9fWUdLHVtbQVpEQEc="
     },
     {
       "id": "033",
       "name": "0033",
-      "members": "1033,2033,3033"
+      "members": "enc1:XF9fWEdLHVtaQVpEQEY="
     },
     {
       "id": "034",
       "name": "0034",
-      "members": "1034,2034,3034"
+      "members": "enc1:XF9fX0dLHVtdQVpEQEE="
     },
     {
       "id": "035",
       "name": "0035",
-      "members": "1035,2035,3035"
+      "members": "enc1:XF9fXkdLHVtcQVpEQEA="
     },
     {
       "id": "036",
       "name": "0036",
-      "members": "1036,2036,3036"
+      "members": "enc1:XF9fXUdLHVtfQVpEQEM="
     },
     {
       "id": "037",
       "name": "0037",
-      "members": "1037,2037,3037"
+      "members": "enc1:XF9fXEdLHVteQVpEQEI="
     },
     {
       "id": "038",
       "name": "0038",
-      "members": "1038,2038,3038"
+      "members": "enc1:XF9fU0dLHVtRQVpEQE0="
     },
     {
       "id": "039",
       "name": "0039",
-      "members": "1039,2039,3039"
+      "members": "enc1:XF9fUkdLHVtQQVpEQEw="
     },
     {
       "id": "040",
       "name": "0040",
-      "members": "1040,2040,3040"
+      "members": "enc1:XF9YW0dLHVxZQVpER0U="
     },
     {
       "id": "041",
       "name": "0041",
-      "members": "1041,2041,3041"
+      "members": "enc1:XF9YWkdLHVxYQVpER0Q="
     },
     {
       "id": "042",
       "name": "0042",
-      "members": "1042,2042,3042"
+      "members": "enc1:XF9YWUdLHVxbQVpER0c="
     },
     {
       "id": "043",
       "name": "0043",
-      "members": "1043,2043,3043"
+      "members": "enc1:XF9YWEdLHVxaQVpER0Y="
     },
     {
       "id": "044",
       "name": "0044",
-      "members": "1044,2044,3044"
+      "members": "enc1:XF9YX0dLHVxdQVpER0E="
     },
     {
       "id": "045",
       "name": "0045",
-      "members": "1045,2045,3045"
+      "members": "enc1:XF9YXkdLHVxcQVpER0A="
     },
     {
       "id": "046",
       "name": "0046",
-      "members": "1046,2046,3046"
+      "members": "enc1:XF9YXUdLHVxfQVpER0M="
     },
     {
       "id": "047",
       "name": "0047",
-      "members": "1047,2047,3047"
+      "members": "enc1:XF9YXEdLHVxeQVpER0I="
     },
     {
       "id": "048",
       "name": "0048",
-      "members": "1048,2048,3048"
+      "members": "enc1:XF9YU0dLHVxRQVpER00="
     },
     {
       "id": "049",
       "name": "0049",
-      "members": "1049,2049,3049"
+      "members": "enc1:XF9YUkdLHVxQQVpER0w="
     },
     {
       "id": "050",
       "name": "0050",
-      "members": "1050,2050,3050"
+      "members": "enc1:XF9ZW0dLHV1ZQVpERkU="
     },
     {
       "id": "051",
       "name": "0051",
-      "members": "1051,2051,3051"
+      "members": "enc1:XF9ZWkdLHV1YQVpERkQ="
     },
     {
       "id": "052",
       "name": "0052",
-      "members": "1052,2052,3052"
+      "members": "enc1:XF9ZWUdLHV1bQVpERkc="
     },
     {
       "id": "053",
       "name": "0053",
-      "members": "1053,2053,3053"
+      "members": "enc1:XF9ZWEdLHV1aQVpERkY="
     },
     {
       "id": "054",
       "name": "0054",
-      "members": "1054,2054,3054"
+      "members": "enc1:XF9ZX0dLHV1dQVpERkE="
     },
     {
       "id": "055",
       "name": "0055",
-      "members": "1055,2055,3055"
+      "members": "enc1:XF9ZXkdLHV1cQVpERkA="
     },
     {
       "id": "056",
       "name": "0056",
-      "members": "1056,2056,3056"
+      "members": "enc1:XF9ZXUdLHV1fQVpERkM="
     },
     {
       "id": "057",
       "name": "0057",
-      "members": "1057,2057,3057"
+      "members": "enc1:XF9ZXEdLHV1eQVpERkI="
     },
     {
       "id": "058",
       "name": "0058",
-      "members": "1058,2058,3058"
+      "members": "enc1:XF9ZU0dLHV1RQVpERk0="
     },
     {
       "id": "059",
       "name": "0059",
-      "members": "1059,2059,3059"
+      "members": "enc1:XF9ZUkdLHV1QQVpERkw="
     },
     {
       "id": "060",
       "name": "0060",
-      "members": "1060,2060,3060"
+      "members": "enc1:XF9aW0dLHV5ZQVpERUU="
     },
     {
       "id": "061",
       "name": "0061",
-      "members": "1061,2061,3061"
+      "members": "enc1:XF9aWkdLHV5YQVpERUQ="
     },
     {
       "id": "062",
       "name": "0062",
-      "members": "1062,2062,3062"
+      "members": "enc1:XF9aWUdLHV5bQVpERUc="
     },
     {
       "id": "063",
       "name": "0063",
-      "members": "1063,2063,3063"
+      "members": "enc1:XF9aWEdLHV5aQVpERUY="
     },
     {
       "id": "064",
       "name": "0064",
-      "members": "1064,2064,3064"
+      "members": "enc1:XF9aX0dLHV5dQVpERUE="
     },
     {
       "id": "065",
       "name": "0065",
-      "members": "1065,2065,3065"
+      "members": "enc1:XF9aXkdLHV5cQVpERUA="
     },
     {
       "id": "066",
       "name": "0066",
-      "members": "1066,2066,3066"
+      "members": "enc1:XF9aXUdLHV5fQVpERUM="
     },
     {
       "id": "067",
       "name": "0067",
-      "members": "1067,2067,3067"
+      "members": "enc1:XF9aXEdLHV5eQVpERUI="
     },
     {
       "id": "068",
       "name": "0068",
-      "members": "1068,2068,3068"
+      "members": "enc1:XF9aU0dLHV5RQVpERU0="
     },
     {
       "id": "069",
       "name": "0069",
-      "members": "1069,2069,3069"
+      "members": "enc1:XF9aUkdLHV5QQVpERUw="
     },
     {
       "id": "070",
       "name": "0070",
-      "members": "1070,2070,3070"
+      "members": "enc1:XF9bW0dLHV9ZQVpEREU="
     },
     {
       "id": "071",
       "name": "0071",
-      "members": "1071,2071,3071"
+      "members": "enc1:XF9bWkdLHV9YQVpEREQ="
     },
     {
       "id": "072",
       "name": "0072",
-      "members": "1072,2072,3072"
+      "members": "enc1:XF9bWUdLHV9bQVpEREc="
     },
     {
       "id": "073",
       "name": "0073",
-      "members": "1073,2073,3073"
+      "members": "enc1:XF9bWEdLHV9aQVpEREY="
     },
     {
       "id": "074",
       "name": "0074",
-      "members": "1074,2074,3074"
+      "members": "enc1:XF9bX0dLHV9dQVpEREE="
     },
     {
       "id": "075",
       "name": "0075",
-      "members": "1075,2075,3075"
+      "members": "enc1:XF9bXkdLHV9cQVpEREA="
     },
     {
       "id": "076",
       "name": "0076",
-      "members": "1076,2076,3076"
+      "members": "enc1:XF9bXUdLHV9fQVpEREM="
     },
     {
       "id": "077",
       "name": "0077",
-      "members": "1077,2077,3077"
+      "members": "enc1:XF9bXEdLHV9eQVpEREI="
     },
     {
       "id": "078",
       "name": "0078",
-      "members": "1078,2078,3078"
+      "members": "enc1:XF9bU0dLHV9RQVpERE0="
     },
     {
       "id": "079",
       "name": "0079",
-      "members": "1079,2079,3079"
+      "members": "enc1:XF9bUkdLHV9QQVpEREw="
     },
     {
       "id": "080",
       "name": "0080",
-      "members": "1080,2080,3080"
+      "members": "enc1:XF9UW0dLHVBZQVpES0U="
     },
     {
       "id": "081",
       "name": "0081",
-      "members": "1081,2081,3081"
+      "members": "enc1:XF9UWkdLHVBYQVpES0Q="
     },
     {
       "id": "082",
       "name": "0082",
-      "members": "1082,2082,3082"
+      "members": "enc1:XF9UWUdLHVBbQVpES0c="
     },
     {
       "id": "083",
       "name": "0083",
-      "members": "1083,2083,3083"
+      "members": "enc1:XF9UWEdLHVBaQVpES0Y="
     },
     {
       "id": "084",
       "name": "0084",
-      "members": "1084,2084,3084"
+      "members": "enc1:XF9UX0dLHVBdQVpES0E="
     },
     {
       "id": "085",
       "name": "0085",
-      "members": "1085,2085,3085"
+      "members": "enc1:XF9UXkdLHVBcQVpES0A="
     },
     {
       "id": "086",
       "name": "0086",
-      "members": "1086,2086,3086"
+      "members": "enc1:XF9UXUdLHVBfQVpES0M="
     },
     {
       "id": "087",
       "name": "0087",
-      "members": "1087,2087,3087"
+      "members": "enc1:XF9UXEdLHVBeQVpES0I="
     },
     {
       "id": "088",
       "name": "0088",
-      "members": "1088,2088,3088"
+      "members": "enc1:XF9UU0dLHVBRQVpES00="
     },
     {
       "id": "089",
       "name": "0089",
-      "members": "1089,2089,3089"
+      "members": "enc1:XF9UUkdLHVBQQVpES0w="
     },
     {
       "id": "090",
       "name": "0090",
-      "members": "1090,2090,3090"
+      "members": "enc1:XF9VW0dLHVFZQVpESkU="
     },
     {
       "id": "091",
       "name": "0091",
-      "members": "1091,2091,3091"
+      "members": "enc1:XF9VWkdLHVFYQVpESkQ="
     },
     {
       "id": "092",
       "name": "0092",
-      "members": "1092,2092,3092"
+      "members": "enc1:XF9VWUdLHVFbQVpESkc="
     },
     {
       "id": "093",
       "name": "0093",
-      "members": "1093,2093,3093"
+      "members": "enc1:XF9VWEdLHVFaQVpESkY="
     },
     {
       "id": "094",
       "name": "0094",
-      "members": "1094,2094,3094"
+      "members": "enc1:XF9VX0dLHVFdQVpESkE="
     },
     {
       "id": "095",
       "name": "0095",
-      "members": "1095,2095,3095"
+      "members": "enc1:XF9VXkdLHVFcQVpESkA="
     },
     {
       "id": "096",
       "name": "0096",
-      "members": "1096,2096,3096"
+      "members": "enc1:XF9VXUdLHVFfQVpESkM="
     },
     {
       "id": "097",
       "name": "0097",
-      "members": "1097,2097,3097"
+      "members": "enc1:XF9VXEdLHVFeQVpESkI="
     },
     {
       "id": "098",
       "name": "0098",
-      "members": "1098,2098,3098"
+      "members": "enc1:XF9VU0dLHVFRQVpESk0="
     },
     {
       "id": "099",
       "name": "0099",
-      "members": "1099,2099,3099"
+      "members": "enc1:XF9VUkdLHVFQQVpESkw="
     },
     {
       "id": "100",
       "name": "0100",
-      "members": "1100,2100,3100"
+      "members": "enc1:XF5cW0dLHFhZQVpFQ0U="
     },
     {
       "id": "101",
       "name": "0101",
-      "members": "1101,2101,3101"
+      "members": "enc1:XF5cWkdLHFhYQVpFQ0Q="
     },
     {
       "id": "102",
       "name": "0102",
-      "members": "1102,2102,3102"
+      "members": "enc1:XF5cWUdLHFhbQVpFQ0c="
     },
     {
       "id": "103",
       "name": "0103",
-      "members": "1103,2103,3103"
+      "members": "enc1:XF5cWEdLHFhaQVpFQ0Y="
     },
     {
       "id": "104",
       "name": "0104",
-      "members": "1104,2104,3104"
+      "members": "enc1:XF5cX0dLHFhdQVpFQ0E="
     },
     {
       "id": "105",
       "name": "0105",
-      "members": "1105,2105,3105"
+      "members": "enc1:XF5cXkdLHFhcQVpFQ0A="
     },
     {
       "id": "106",
       "name": "0106",
-      "members": "1106,2106,3106"
+      "members": "enc1:XF5cXUdLHFhfQVpFQ0M="
     },
     {
       "id": "107",
       "name": "0107",
-      "members": "1107,2107,3107"
+      "members": "enc1:XF5cXEdLHFheQVpFQ0I="
     },
     {
       "id": "108",
       "name": "0108",
-      "members": "1108,2108,3108"
+      "members": "enc1:XF5cU0dLHFhRQVpFQ00="
     },
     {
       "id": "109",
       "name": "0109",
-      "members": "1109,2109,3109"
+      "members": "enc1:XF5cUkdLHFhQQVpFQ0w="
     },
     {
       "id": "110",
       "name": "0110",
-      "members": "1110,2110,3110"
+      "members": "enc1:XF5dW0dLHFlZQVpFQkU="
     },
     {
       "id": "111",
       "name": "0111",
-      "members": "1111,2111,3111"
+      "members": "enc1:XF5dWkdLHFlYQVpFQkQ="
     },
     {
       "id": "112",
       "name": "0112",
-      "members": "1112,2112,3112"
+      "members": "enc1:XF5dWUdLHFlbQVpFQkc="
     },
     {
       "id": "113",
       "name": "0113",
-      "members": "1113,2113,3113"
+      "members": "enc1:XF5dWEdLHFlaQVpFQkY="
     },
     {
       "id": "114",
       "name": "0114",
-      "members": "1114,2114,3114"
+      "members": "enc1:XF5dX0dLHFldQVpFQkE="
     },
     {
       "id": "115",
       "name": "0115",
-      "members": "1115,2115,3115"
+      "members": "enc1:XF5dXkdLHFlcQVpFQkA="
     },
     {
       "id": "116",
       "name": "0116",
-      "members": "1116,2116,3116"
+      "members": "enc1:XF5dXUdLHFlfQVpFQkM="
     },
     {
       "id": "117",
       "name": "0117",
-      "members": "1117,2117,3117"
+      "members": "enc1:XF5dXEdLHFleQVpFQkI="
     },
     {
       "id": "118",
       "name": "0118",
-      "members": "1118,2118,3118"
+      "members": "enc1:XF5dU0dLHFlRQVpFQk0="
     },
     {
       "id": "119",
       "name": "0119",
-      "members": "1119,2119,3119"
+      "members": "enc1:XF5dUkdLHFlQQVpFQkw="
     },
     {
       "id": "120",
       "name": "0120",
-      "members": "1120,2120,3120"
+      "members": "enc1:XF5eW0dLHFpZQVpFQUU="
     },
     {
       "id": "121",
       "name": "0121",
-      "members": "1121,2121,3121"
+      "members": "enc1:XF5eWkdLHFpYQVpFQUQ="
     },
     {
       "id": "122",
       "name": "0122",
-      "members": "1122,2122,3122"
+      "members": "enc1:XF5eWUdLHFpbQVpFQUc="
     },
     {
       "id": "123",
       "name": "0123",
-      "members": "1123,2123,3123"
+      "members": "enc1:XF5eWEdLHFpaQVpFQUY="
     },
     {
       "id": "124",
       "name": "0124",
-      "members": "1124,2124,3124"
+      "members": "enc1:XF5eX0dLHFpdQVpFQUE="
     },
     {
       "id": "125",
       "name": "0125",
-      "members": "1125,2125,3125"
+      "members": "enc1:XF5eXkdLHFpcQVpFQUA="
     },
     {
       "id": "126",
       "name": "0126",
-      "members": "1126,2126,3126"
+      "members": "enc1:XF5eXUdLHFpfQVpFQUM="
     },
     {
       "id": "127",
       "name": "0127",
-      "members": "1127,2127,3127"
+      "members": "enc1:XF5eXEdLHFpeQVpFQUI="
     },
     {
       "id": "128",
       "name": "0128",
-      "members": "1128,2128,3128"
+      "members": "enc1:XF5eU0dLHFpRQVpFQU0="
     }
   ],
-  "publishedAt": "2026-05-12T02:35:08.478Z"
+  "eventPeriodStart": "",
+  "eventPeriodEnd": "",
+  "receptionPw": "",
+  "bracketTeamCount": 64,
+  "systemChart": null,
+  "venue": {
+    "code": "01",
+    "name": "川崎"
+  },
+  "courtLayout": {
+    "grid": "",
+    "labelTop": "",
+    "labelBottom": "",
+    "labelLeft": "",
+    "labelRight": "",
+    "centerLabel": {
+      "text": "",
+      "pos": "bottom"
+    }
+  },
+  "publishedAt": "2026-07-27T03:34:58.007Z"
 }
