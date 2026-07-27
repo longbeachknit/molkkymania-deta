@@ -943,7 +943,9 @@
       }
     ],
     "colors": {},
-    "loseArrows": {}
+    "loseArrows": {
+      "決勝トーナメント@4": false
+    }
   },
   "venue": {
     "code": "01",
@@ -973,5 +975,5 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-27T02:56:20.798Z"
+  "publishedAt": "2026-07-27T03:12:29.459Z"
 }
