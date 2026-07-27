@@ -135,27 +135,31 @@
       "matchCode": "04",
       "tourneyCode": "01",
       "round": "1回戦",
-      "prio": "match"
+      "prio": ""
     },
     {
       "matchCode": "05",
       "tourneyCode": "01",
-      "round": "2回戦"
+      "round": "2回戦",
+      "prio": ""
     },
     {
       "matchCode": "06",
       "tourneyCode": "01",
-      "round": "3回戦"
+      "round": "3回戦",
+      "prio": ""
     },
     {
       "matchCode": "07",
       "tourneyCode": "01",
-      "round": "4回戦"
+      "round": "4回戦",
+      "prio": ""
     },
     {
       "matchCode": "08",
       "tourneyCode": "01",
-      "round": "準決勝"
+      "round": "準決勝",
+      "prio": ""
     },
     {
       "matchCode": "09",
@@ -166,67 +170,80 @@
     {
       "matchCode": "04",
       "tourneyCode": "02",
-      "round": "1回戦"
+      "round": "1回戦",
+      "prio": ""
     },
     {
       "matchCode": "05",
       "tourneyCode": "02",
-      "round": "2回戦"
+      "round": "2回戦",
+      "prio": ""
     },
     {
       "matchCode": "06",
       "tourneyCode": "02",
-      "round": "3回戦"
+      "round": "3回戦",
+      "prio": ""
     },
     {
       "matchCode": "07",
       "tourneyCode": "02",
-      "round": "4回戦"
+      "round": "4回戦",
+      "prio": ""
     },
     {
       "matchCode": "08",
       "tourneyCode": "02",
-      "round": "5回戦"
+      "round": "5回戦",
+      "prio": ""
     },
     {
       "matchCode": "09",
       "tourneyCode": "02",
-      "round": "5位タイ決定戦"
+      "round": "5位タイ決定戦",
+      "prio": ""
     },
     {
       "matchCode": "05",
       "tourneyCode": "03",
-      "round": "1回戦"
+      "round": "1回戦",
+      "prio": ""
     },
     {
       "matchCode": "06",
       "tourneyCode": "03",
-      "round": "2回戦"
+      "round": "2回戦",
+      "prio": ""
     },
     {
       "matchCode": "07",
       "tourneyCode": "03",
-      "round": "3回戦"
+      "round": "3回戦",
+      "prio": ""
     },
     {
       "matchCode": "08",
       "tourneyCode": "03",
-      "round": "4回戦"
+      "round": "4回戦",
+      "prio": ""
     },
     {
       "matchCode": "09",
       "tourneyCode": "03",
-      "round": "15位タイ決定戦"
+      "round": "15位タイ決定戦",
+      "prio": ""
     },
     {
       "matchCode": "06",
       "tourneyCode": "04",
-      "round": "1回戦"
+      "round": "1回戦",
+      "prio": ""
     },
     {
       "matchCode": "07",
       "tourneyCode": "04",
-      "round": "2回戦"
+      "round": "2回戦",
+      "prio": ""
     }
   ],
   "teams": [
@@ -980,5 +997,5 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-27T03:45:16.891Z"
+  "publishedAt": "2026-07-27T03:55:49.801Z"
 }
