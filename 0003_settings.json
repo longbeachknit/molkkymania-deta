@@ -967,7 +967,10 @@
       "15位タイトーナメント": "green",
       "交流戦": "green"
     },
-    "loseArrows": {}
+    "loseArrows": {
+      "決勝トーナメント@4": false
+    },
+    "cellColors": {}
   },
   "venue": {
     "code": "01",
@@ -997,5 +1000,5 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-27T03:55:49.801Z"
+  "publishedAt": "2026-07-27T04:14:41.800Z"
 }
