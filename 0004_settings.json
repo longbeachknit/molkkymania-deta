@@ -2,6 +2,7 @@
   "venueCode": "02",
   "eventCode": "0004",
   "eventName": "Mölkky Mania Osaka -OPEN- Season.1-4",
+  "displayName": "",
   "gasUrl": "https://script.google.com/macros/s/AKfycbyJz-Toz1XKZ3nWurDoRrl0-7r0Mi4_fB4ufcb2ugFnvFsEI_aVrsyq1bGqpLE8Go0P/exec",
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1SLK8EHRznKe-xQiPy_xqrASgzkmnLKVzSHLibyZeVUk/edit?usp=sharing",
   "priority": "tournament",
@@ -203,7 +204,178 @@
       "round": "1回戦"
     }
   ],
-  "teams": [],
+  "teams": [
+    {
+      "id": "001",
+      "name": "大産大_今昔さん",
+      "members": "enc1:iMHCjffVxNLSiM/3X5yqo9emhYj94I3tyw=="
+    },
+    {
+      "id": "002",
+      "name": "水都国際②",
+      "members": "enc1:i8LKjP/JytbnhPDJX5OVt9ilkYjo94/S+gGN5smBxMSQkrEc14zei9b+j8SejcT9"
+    },
+    {
+      "id": "003",
+      "name": "おこちゃ",
+      "members": "enc1:hcTjg8PTyNHQidPOX5Chpdm1u4vU5Y7cyA=="
+    },
+    {
+      "id": "004",
+      "name": "Mörits_麻雀支部",
+      "members": "enc1:hcrTjtnYxeDDQYzFwpOxnteGooXmw0eC/L+M0/iM0fyQiag="
+    },
+    {
+      "id": "005",
+      "name": "Mörits_ガシャ王",
+      "members": "enc1:i8LKguz3yvnyiM3TX5GWuNSIoIvw5o7X3AGN2dOP6N+cmbzVlqM="
+    },
+    {
+      "id": "006",
+      "name": "体力保全機構",
+      "members": "enc1:i8LKjP/Jy9Dsitf6X5CIl9WDhIvr90eNwaiA/smM6N6QgKI="
+    },
+    {
+      "id": "007",
+      "name": "イットコ団",
+      "members": "enc1:iubrjtnYyMbmiNTEX5GQotm1u4Xd2I748AGO2uSNy/mdkaY="
+    },
+    {
+      "id": "008",
+      "name": "楓源",
+      "members": "enc1:iM/IjdHpyvz2QY7b05CjrdaXpoXl0Q=="
+    },
+    {
+      "id": "009",
+      "name": "Team Flapping",
+      "members": "enc1:ivvcj9PUyvzYiOHdlti9HtilkYr73IzV98jF+UGB+eGdnYXXjLuL7tmOxukBjvXkjuDDnIur14uh"
+    },
+    {
+      "id": "010",
+      "name": "水都国際①",
+      "members": "enc1:hdHXjufZAY7Mz4zA/ZGSuNWhvEGJ3tiOzaOM1PyM+eRZy5qa14XTiv7ZjsWI"
+    },
+    {
+      "id": "011",
+      "name": "Aete",
+      "members": "enc1:hfjIj9Hsy/HridDrX5Owu9aumYjLxoLo9wGM0cCMx8WQl4XYsrU="
+    },
+    {
+      "id": "012",
+      "name": "大産大_鎮座椅子",
+      "members": "enc1:iOXMjfbcyMzOhdXgX5ChpdenpIjb647X3A=="
+    },
+    {
+      "id": "013",
+      "name": "モルゴ13",
+      "members": "enc1:iODIjtzkydPoiM3TX52goNaunYrK/I/Q8gGAzNKMxM2QiZjVgKU="
+    },
+    {
+      "id": "014",
+      "name": "Ankka_margin",
+      "members": "enc1:isfejffVxPLvhdXpX5CdvdWDhIvk/4LN1QGB6sWBxMSSsa3WloU="
+    },
+    {
+      "id": "015",
+      "name": "岩田研",
+      "members": "enc1:idX5jfboxPLviMbvX5Cfk9avpITNxILw/AGN3vCA8/2QiZXYjqE="
+    },
+    {
+      "id": "016",
+      "name": "SQUARE",
+      "members": "enc1:iN7djffVxcLJidP4X526vdaumYXd2I/S8g=="
+    },
+    {
+      "id": "017",
+      "name": "大産大_スリッパとうさぎwithつよし",
+      "members": "enc1:idfBg87Gy+rJiNH4X5GVn9emhYnQ/ILp2gGA/smP6N+dnJjVjaI="
+    },
+    {
+      "id": "018",
+      "name": "水都国際③",
+      "members": "enc1:iMrJjtrIyt35hePJX52iuNaDlYTJ9Y3q8gGN4vCPwdWWrL3TsL6O7tNHg8eWjvT8jMTekIKp"
+    },
+    {
+      "id": "019",
+      "name": "運と技　遊",
+      "members": "enc1:i9fNgunzyPTEQYzo7JCfotWCr0GL1MaOzrCOxMs="
+    },
+    {
+      "id": "020",
+      "name": "棒力団",
+      "members": "enc1:iN3NjffVydfHiPnKX5CDu9emhYv34o383MTO8EGP8/qTn4nWs4CI4NQ="
+    },
+    {
+      "id": "021",
+      "name": "croc_弘田上",
+      "members": "enc1:iNP0jP/JxPHUi/TRX5K5gtSKv4vs6w=="
+    },
+    {
+      "id": "022",
+      "name": "運と技　匠",
+      "members": "enc1:iPTRju7wyNboit30X5KUs9aquYvk/4Lo9wGA3+eP7cmci6vVnYqK0eI="
+    },
+    {
+      "id": "023",
+      "name": "おひるねかぼちゃ",
+      "members": "enc1:iP/ljffVydL1iNH4X5C9u9aumYjq5Yz/zgGN+eSP6N+Qv77YuIQ="
+    },
+    {
+      "id": "024",
+      "name": "Cheeseko",
+      "members": "enc1:iuHljP/Jxcv8iOz9X5Kju9emhYT20Y/T+QGN3vCO4eKSuYPXorOK2tk="
+    },
+    {
+      "id": "025",
+      "name": "ブルーベリー",
+      "members": "enc1:heL+jffRxcv8iMTkX5Oxr9emhYXM+YzV9wGOwcaM+uyQl4XVn6U="
+    },
+    {
+      "id": "026",
+      "name": "HORIBA Mölkky Club2",
+      "members": "enc1:i9DdjtLAyMzDQYzGy5OxntW+lUGJ9OWM5p6P9fKO3fE="
+    },
+    {
+      "id": "027",
+      "name": "Mörits_宝withK",
+      "members": "enc1:heDpjfboyNHRhdzDX5ywoNathoXnxo/T7wGBysKO4MOQiajYuISF5sM="
+    },
+    {
+      "id": "028",
+      "name": "Villain",
+      "members": "enc1:iOHzjv7qydDphOr6X5CJldaRm4jKxI/S8gGN2OiMw+6SkqYc1IrchuvljOmejebC"
+    },
+    {
+      "id": "029",
+      "name": "モルックの東郷〜天地開闢「紅一点カルテット」〜",
+      "members": "enc1:hMT1jsjSxPLVidH0X5Ccg9aumYrKyY7P0wGO9NONzuadu5nVi4ZBhtf5j8GmjeTujMT4"
+    },
+    {
+      "id": "030",
+      "name": "高橋ディカーマウンテン克典",
+      "members": "enc1:iObhgv7OxOr4idTlX5OTltemhYjLy4759QGN39CMxcKQoZI="
+    },
+    {
+      "id": "031",
+      "name": "HORIBA Mölkky Club1",
+      "members": "enc1:ivvcj9PUxenIivXrX5Olo9iCgovk/4z35gGP9t6P6N+Qmag="
+    },
+    {
+      "id": "032",
+      "name": "cogoceワールド",
+      "members": "enc1:hcTHjtrIy8XPQY799JCcg9azgEGJ8MON5LyN5c1FnPjSyIWt1K3hiuPZ"
+    },
+    {
+      "id": "033",
+      "name": "KD",
+      "members": "enc1:iMvLg87GyMbmi/H6X5Ccg9aumYjP6Y7U+g=="
+    },
+    {
+      "id": "034",
+      "name": "亜衣ちゃんズ",
+      "members": "enc1:idfljs7ExPPtidDrX5GRuNavhIj94I/U2AGBwvWP3fiSiKLUi6pBit7KjsimgfLpjNDZWcuAg9uy44rC5IPFsA=="
+    }
+  ],
   "eventPeriodStart": "2026-07-18T09:00",
   "eventPeriodEnd": "2026-07-18T18:00",
   "receptionPw": "1111",
@@ -297,11 +469,31 @@
       "交流戦": "green",
       "不戦勝交流戦": "green"
     },
-    "loseArrows": {}
+    "loseArrows": {
+      "決勝トーナメント@3": false
+    }
   },
   "venue": {
     "code": "02",
-    "name": "大阪"
+    "name": "大阪",
+    "themeColor": "#F57C00",
+    "detail": {
+      "locationName": "",
+      "address": "",
+      "mapUrl": "",
+      "access": "",
+      "parking": "",
+      "toilet": "",
+      "smoking": "",
+      "garbage": "",
+      "rules": "",
+      "notes": [],
+      "sections": []
+    }
+  },
+  "tourInfo": {
+    "rules": "",
+    "notes": ""
   },
   "courtLayout": {
     "grid": "13,14,15,16,17,18\n7,8,9,10,11,12\n1,2,3,4,5,6",
@@ -314,5 +506,6 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-26T08:06:42.648Z"
+  "folderName": "大阪Season.1",
+  "publishedAt": "2026-07-30T02:37:48.781Z"
 }
