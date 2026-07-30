@@ -1,0 +1,19 @@
+{
+  "code": "02",
+  "name": "大阪",
+  "themeColor": "#F57C00",
+  "detail": {
+    "locationName": "",
+    "address": "",
+    "mapUrl": "",
+    "access": "",
+    "parking": "",
+    "toilet": "",
+    "smoking": "",
+    "garbage": "",
+    "rules": "",
+    "notes": [],
+    "sections": []
+  },
+  "publishedAt": "2026-07-30T02:24:31.893Z"
+}
