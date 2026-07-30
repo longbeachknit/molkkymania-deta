@@ -2,6 +2,7 @@
   "venueCode": "99",
   "eventCode": "9999",
   "eventName": "【テンプレ】対戦表C(128)確認用",
+  "displayName": "",
   "gasUrl": "https://script.google.com/macros/s/AKfycby-KuDwavgN07CA-jVHYr6NVuBQVdCjvYP9lo2W8HeOxNdA-H9j8Xg0IUi6E01LHq61tg/exec",
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1yvI6yNsXSQ4qbKIq86NEzO4wQWyo3Rp8HJo7TvYt5yw/edit?usp=sharing",
   "priority": "tournament",
@@ -871,6 +872,7 @@
   "eventPeriodStart": "2026-06-04T17:39",
   "eventPeriodEnd": "2030-03-04T17:48",
   "receptionPw": "2626",
+  "bracketTeamCount": 64,
   "systemChart": {
     "enabled": true,
     "cornerLabel": "",
@@ -958,6 +960,14 @@
     },
     "loseArrows": {}
   },
+  "venue": {
+    "code": "99",
+    "name": "その他"
+  },
+  "tourInfo": {
+    "rules": "",
+    "notes": ""
+  },
   "courtLayout": {
     "grid": "",
     "labelTop": "",
@@ -969,5 +979,6 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-13T12:34:52.224Z"
+  "folderName": "テンプレ",
+  "publishedAt": "2026-07-30T02:38:50.228Z"
 }
