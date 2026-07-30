@@ -1,0 +1,19 @@
+{
+  "code": "03",
+  "name": "東京",
+  "themeColor": "#EF5350",
+  "detail": {
+    "locationName": "",
+    "address": "",
+    "mapUrl": "",
+    "access": "",
+    "parking": "",
+    "toilet": "",
+    "smoking": "",
+    "garbage": "",
+    "rules": "",
+    "notes": [],
+    "sections": []
+  },
+  "publishedAt": "2026-07-30T02:24:36.634Z"
+}
