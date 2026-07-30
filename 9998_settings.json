@@ -2,6 +2,7 @@
   "venueCode": "99",
   "eventCode": "9998",
   "eventName": "【テンプレ】対戦表C(31~40)確認用",
+  "displayName": "",
   "gasUrl": "https://script.google.com/macros/s/AKfycbwu56w8CHd1HHXwIfV2RlvUEZDS3M88cXWBWJq6KiAFoAfJz4oz-34k7Wp9TwLsSe1Uag/exec",
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1wLdTmDG7710J9Rp6IV2DMDd7rqyWzM58aA3LJmeHhPM/edit?usp=sharing",
   "priority": "tournament",
@@ -486,6 +487,14 @@
     },
     "loseArrows": {}
   },
+  "venue": {
+    "code": "99",
+    "name": "その他"
+  },
+  "tourInfo": {
+    "rules": "",
+    "notes": ""
+  },
   "courtLayout": {
     "grid": "",
     "labelTop": "",
@@ -497,5 +506,6 @@
       "pos": "bottom"
     }
   },
-  "publishedAt": "2026-07-25T08:13:09.969Z"
+  "folderName": "テンプレ",
+  "publishedAt": "2026-07-30T02:39:09.180Z"
 }
