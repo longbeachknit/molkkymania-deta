@@ -134,7 +134,8 @@
     {
       "matchCode": "04",
       "tourneyCode": "01",
-      "round": "1回戦"
+      "round": "1回戦",
+      "prio": ""
     },
     {
       "matchCode": "05",
@@ -250,10 +251,6 @@
     ],
     "legend": [
       {
-        "label": "表裏",
-        "color": "gray"
-      },
-      {
         "label": "3先",
         "color": "pink"
       },
@@ -311,7 +308,12 @@
         ]
       }
     ],
-    "colors": {},
+    "colors": {
+      "決勝トーナメント": "pink",
+      "5位タイトーナメント": "green",
+      "15位タイトーナメント": "green",
+      "交流戦": "green"
+    },
     "loseArrows": {
       "決勝トーナメント@4": false
     },
@@ -352,5 +354,5 @@
     }
   },
   "folderName": "川崎Season.6",
-  "publishedAt": "2026-08-03T16:33:26.340Z"
+  "publishedAt": "2026-08-03T16:42:20.231Z"
 }
