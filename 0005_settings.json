@@ -228,7 +228,558 @@
       "round": "2回戦"
     }
   ],
-  "teams": [],
+  "teams": [
+    {
+      "id": "001",
+      "name": "iGogundan anothersky MMY",
+      "members": "enc1:i8LKj9HszunWjujeltuyHtW9kYr73I7v08jUzEGO68CSuYLZqImJ1vM="
+    },
+    {
+      "id": "002",
+      "name": "ポラリスAK",
+      "members": "enc1:i/nlg/zdy/DEi93/X5KFnNemhYva2w=="
+    },
+    {
+      "id": "003",
+      "name": "ま組のひと",
+      "members": "enc1:hPrbg9vOyN/0iODvltGKHtSPpYX4yI3aycnQ6UGMw+6coLnVvb6J1vNHg8majebOj9nV"
+    },
+    {
+      "id": "004",
+      "name": "落合会若手",
+      "members": "enc1:hcrTjfboy+rJiNH4X5K5gtSKmIjo3Y/S5g=="
+    },
+    {
+      "id": "005",
+      "name": "事故物件",
+      "members": "enc1:iN/jjfXuy/3PhdvAX526ltSIoIvtzIPZzQ=="
+    },
+    {
+      "id": "006",
+      "name": "おかぴ",
+      "members": "enc1:iN3Nguz3ys/piPv4X5Cfk9emhYXk3Y3p5gGN5ueMw+6QuKHUib5Bit7Kgv6jj93tjNnj"
+    },
+    {
+      "id": "007",
+      "name": "UVIC",
+      "members": "enc1:hPrbg9vOyN/0hPLxltiOHtWivIjdzY7U0snS00GMxPyTk5bWs6eIy8Y="
+    },
+    {
+      "id": "008",
+      "name": "Team Nemö",
+      "members": "enc1:iN/jjfboyM3hiM3aX5GQotilkYXM+Y759Q=="
+    },
+    {
+      "id": "009",
+      "name": "プイモルX",
+      "members": "enc1:hMT1jP/Jytf9iM3eX5GRuNilkYnV9I7Rzg=="
+    },
+    {
+      "id": "010",
+      "name": "HARU NO OGAWA",
+      "members": "enc1:i8zCgvH/yNf+QY/Ey5GXp9i5hIvH1Q=="
+    },
+    {
+      "id": "011",
+      "name": "ホク&シンゲン",
+      "members": "enc1:isjnjP/JyOnMiObGX5OfgdavpIjq5YLw/Q=="
+    },
+    {
+      "id": "012",
+      "name": "ERDINGERs",
+      "members": "enc1:iMHlg87Gytf9iNDHX52ng9iUvov34ozf4Q=="
+    },
+    {
+      "id": "013",
+      "name": "プレ藻ル",
+      "members": "enc1:i97MjP/JyOPui//jX5CWkdemhYjqwI/Q+AGB6P6NzPiQib3VlLY="
+    },
+    {
+      "id": "014",
+      "name": "TEAM AKD",
+      "members": "enc1:idL8iOv8y/TBi/XvX5KIrNemhYnW6Y3qzAGN2eKP6eKSkqY="
+    },
+    {
+      "id": "015",
+      "name": "ふたりはプリケツ_マックスミート",
+      "members": "enc1:iMvLjtjPy+P6idDrX5Ctu9emhYnS/Yz35g=="
+    },
+    {
+      "id": "016",
+      "name": "熾火會",
+      "members": "enc1:idTmjdrmyOzDiP/oX52ng9aunYjB443H2AGBwvWPxeyck78c1I/widT+jsOujc3K"
+    },
+    {
+      "id": "017",
+      "name": "よっ",
+      "members": "enc1:i9fNg9XDxOn9idDrX5yqo9eGuIvq2o7F5Q=="
+    },
+    {
+      "id": "018",
+      "name": "WARABY",
+      "members": "enc1:i93fjvvxydLHiPv4X5CNstSOjYXO4A=="
+    },
+    {
+      "id": "019",
+      "name": "上郷高校モルック部B",
+      "members": "enc1:iMDWjP/JyOHyiObGX5ONi9aumYji747T/wGN0N6P6uSdpJ3ZqLM="
+    },
+    {
+      "id": "020",
+      "name": "プイモルZ",
+      "members": "enc1:iN7djffVyMzDhPDJX5OYt9SIoIvn/I7czQ=="
+    },
+    {
+      "id": "021",
+      "name": "氷帝学園",
+      "members": "enc1:hPfTgujRxeLwiMfrl8ieHtetl4jp6Y3Z4MjFykGP6c2TmJTVlpI="
+    },
+    {
+      "id": "022",
+      "name": "マダミス高校 木棋部",
+      "members": "enc1:iN3Nguz3yvrqit3/X526ltemhYrK/I7T9QGN9fKMxfiQqLHWgqJBitXYjsicjNTegPbQ"
+    },
+    {
+      "id": "023",
+      "name": "SHIP D",
+      "members": "enc1:iuHljuPQyOPui//jX5Kju9W6nI7uxojq3crW5w=="
+    },
+    {
+      "id": "024",
+      "name": "ふるふる",
+      "members": "enc1:iODIjP/JyMXPQYz715K5gtetkIrR4g=="
+    },
+    {
+      "id": "025",
+      "name": "クリコ",
+      "members": "enc1:ivbRjtrIyPrlhdXpX5ONpdWtu4vCz4337g=="
+    },
+    {
+      "id": "026",
+      "name": "UOAクライマーズ",
+      "members": "enc1:iND7iOv8y/TBiPznl8+XHtSLsInQ8Yz/ycrm247qzzeWronVvY0="
+    },
+    {
+      "id": "027",
+      "name": "MO’LUX B",
+      "members": "enc1:hcrTjfboy/7+iPv4X5KygdWFqIvr94Pk5QGO0ciOyv2doq7TsrCIwvxHjdqDjdjcjt/QkZa5"
+    },
+    {
+      "id": "028",
+      "name": "アルペジオ",
+      "members": "enc1:iN/jjdXdyPTEiMTkX5CdvdaMkYnQwo/R9Q=="
+    },
+    {
+      "id": "029",
+      "name": "GOKETSU",
+      "members": "enc1:hOjijP/JyNfCQY/M0pyumtWCs4j/0keM7Z2P7+eM6N4="
+    },
+    {
+      "id": "030",
+      "name": "上郷高校モルック部A",
+      "members": "enc1:iN/jjfXuyvn3isD2X5CUgdemhYjC8Y7X4QGP6cGBxMSTtZ/Vv68="
+    },
+    {
+      "id": "031",
+      "name": "CAMEID CHUNCHUNS",
+      "members": "enc1:idfBjt3yyPrli8HNX5CJldasooji/4z02wGNzMiA8/2QrqjVlp9BisjMjdCmjfrfjM3A"
+    },
+    {
+      "id": "032",
+      "name": "SKY",
+      "members": "enc1:iP/ljMDAyOPuiM3elem6HtW0sIX4yIz03MjQ5UGM+uyTtL3Yjqg="
+    },
+    {
+      "id": "033",
+      "name": "Team.S",
+      "members": "enc1:i9fpjdvNxePYi9vPX5OVt9aCgY7u7ojq487p1g=="
+    },
+    {
+      "id": "034",
+      "name": "OMC23",
+      "members": "enc1:isPMjffVy9/aidP4X5GQotOysIvzxI7F9snS5Q=="
+    },
+    {
+      "id": "035",
+      "name": "SHIP A",
+      "members": "enc1:iMDWjtzkyvT2iM3emvajHtaqqoT06IzU7Q=="
+    },
+    {
+      "id": "036",
+      "name": "しゅん次第",
+      "members": "enc1:idX5j9LyydDji9zDltGKHtWCuoTo4oLJ1sjMw0GPxsCcqrzYuqmIy8aC6PcBjePNgePXkKmY1Ze9"
+    },
+    {
+      "id": "037",
+      "name": "昼はサニー夜はしんや",
+      "members": "enc1:i9fpjdvNyMzDhPDJX5OfgdaKvYrz84/S5g=="
+    },
+    {
+      "id": "038",
+      "name": "習志野モルッククラブ",
+      "members": "enc1:iNDRgunayNraiNbjX5CfitWFqIT06Y7W3w=="
+    },
+    {
+      "id": "039",
+      "name": "YOSU-K",
+      "members": "enc1:hd/bjuTaxOnVQYz/7pK5gtOzt47t5ojq7AGM0/iNzPmTmbnUib5BhtHgg+6JjezkgcbH"
+    },
+    {
+      "id": "040",
+      "name": "オリテン3",
+      "members": "enc1:i9Hog9vOyvnyQYza+pysptW3vIjW30eN76OA/smB3vo="
+    },
+    {
+      "id": "041",
+      "name": "禅那699",
+      "members": "enc1:i9fNgujRyvXPiv3rX5yGq9abvovk/4z02wGN2NyP6N+Qu67VlpI="
+    },
+    {
+      "id": "042",
+      "name": "アカシア公園",
+      "members": "enc1:hMT1jt7lzun8jujckPSSHtiZuoXHxoLo0cjMw4TwyQ=="
+    },
+    {
+      "id": "043",
+      "name": "SANOS",
+      "members": "enc1:i9Ddjf3JyMzDQY/pzZCjrdeNoYjW3w=="
+    },
+    {
+      "id": "044",
+      "name": "桜台モルッカーズ",
+      "members": "enc1:iOnpjsv5yPvbidDrX5GVstavvIrgzILs9QGN2eKA8/2ctrbZka4="
+    },
+    {
+      "id": "045",
+      "name": "吹上少年野球クラブ",
+      "members": "enc1:ivvcj9PUxPPtiM3TX52fhtWNoojT9ILK7A=="
+    },
+    {
+      "id": "046",
+      "name": "MO’LUX A",
+      "members": "enc1:i/PAjs/jydDSisrcX5Cfk9emhYr/yY7F/gGN196O4MOWrLDTs7+O7ug="
+    },
+    {
+      "id": "047",
+      "name": "ぽーらんど",
+      "members": "enc1:i/LljffVy/DrivbWX52KoNemhYT21IzCww=="
+    },
+    {
+      "id": "048",
+      "name": "Team Kiitos 94",
+      "members": "enc1:iN3Fj9Pyydb4hdXpmtS4Htethor73I7g5Mvx6g=="
+    },
+    {
+      "id": "049",
+      "name": "Z-ÖNE A.R.R.Y",
+      "members": "enc1:idX4jub4yN35hfraX5GWgNm1u4v6yo/S8gGP9t6PyteQqr4c1o3nitXYguKpjc3K"
+    },
+    {
+      "id": "050",
+      "name": "上がり目学芸班",
+      "members": "enc1:it/7jfLDydH2QYzk+pK5gteuq4jLxoLo9w=="
+    },
+    {
+      "id": "051",
+      "name": "ﾓﾙﾓﾙﾓﾙﾓﾙﾓﾙ",
+      "members": "enc1:idfmguz3yNnYjuj2kPSnHtWAlIvzwIzUxQGA/smM+uySvJI="
+    },
+    {
+      "id": "052",
+      "name": "PHÖENIXXX",
+      "members": "enc1:idL8iOv8y/TBi+LnluakHtmSvYX4yI3G2svu20GP68yTn47Wq4+L+etHj8S9i+noj+jbk5GR142h"
+    },
+    {
+      "id": "053",
+      "name": "やがぴぃ",
+      "members": "enc1:ivvcj9PUyvjLi//jX5KLvdemhY7u3ojq8s7q4kGO4MORlpHUjZSJ1uc="
+    },
+    {
+      "id": "054",
+      "name": "コッペパン",
+      "members": "enc1:iOrBg9DzyMzOiPv4X5Con9iJv4j94I7X4QGN7MCBz/mTgJTYpoA="
+    },
+    {
+      "id": "055",
+      "name": "Wood Emperor",
+      "members": "enc1:idfmjuzDyOHciM3TX5Cdvdmkl4jf6o/RwwGN2eKP0PiQoZI="
+    },
+    {
+      "id": "056",
+      "name": "HAILMARY甜瓜",
+      "members": "enc1:hMT0jtjJysP1hM/YX5yWoNemhYv2547SygGO3OiNzuaTqLzVi4Y="
+    },
+    {
+      "id": "057",
+      "name": "MURATAKE",
+      "members": "enc1:i/L9jP/Jytf9idH0lem6HteZjIjp6Y3z9cnR9g=="
+    },
+    {
+      "id": "058",
+      "name": "SHIP B",
+      "members": "enc1:i/LSj9HsxPPthPPyX5CJldaMkYr/5Y397gGNxtOMx8WRl67XhrWIwvw="
+    },
+    {
+      "id": "059",
+      "name": "はるるー",
+      "members": "enc1:idfBjfboy/HdhOngX5Ctu9aumYvu2YzV9w=="
+    },
+    {
+      "id": "060",
+      "name": "MO’LUXC",
+      "members": "enc1:i8/VjtnByNPgQYzH3JyqvNiatYrR4keMzL2N9uONyvWSkqY="
+    },
+    {
+      "id": "061",
+      "name": "関東藩士モルッカーズ",
+      "members": "enc1:ivDfjP/Jy/HGiMTkX5CgtdWFqIvY30ePwaSN9eaM58GRkL8c15HKit/djtylj8DvjNnj"
+    },
+    {
+      "id": "062",
+      "name": "LAB Molkky",
+      "members": "enc1:hNLmg/zdy/DlidDrX5CDnNW0sIjW1ILw/QGB8sWM2t2Sk7zWq4+J1M9HjdqDgPjkjNnj"
+    },
+    {
+      "id": "063",
+      "name": "SHIP C",
+      "members": "enc1:iPLujtzCydX4iPr9X5GQotSLsIT5/47f/sjMw0GMxtKdi7nWsJWK8/M="
+    },
+    {
+      "id": "064",
+      "name": "高弾道推奨委員会",
+      "members": "enc1:idfBjfboydPoitf6X5OwjNmngovCxY7F5g=="
+    },
+    {
+      "id": "065",
+      "name": "MO’LUX D",
+      "members": "enc1:idX5j9Pzy+rJhPDJX5GUt9SNqIjC8YPX7QGNxteM+9CShq7Yo4BBisjBg/CCi+jfivXZlqyt"
+    },
+    {
+      "id": "066",
+      "name": "BOYCOTT MONDAYS",
+      "members": "enc1:i/fzguz3ys35iObMX5K2uNmwpIvd9Y7G2gGPxdSM+uydoq7Ui7aF5d1Hg9ySjNP4j//g"
+    },
+    {
+      "id": "067",
+      "name": "城北HRD N",
+      "members": "enc1:idDNjdXdxeHGhdXgX52IjdakjIjLy4PZzQ=="
+    },
+    {
+      "id": "068",
+      "name": "KとRと、50点。",
+      "members": "enc1:heDpjuXmxdvLQY7R7ZK5gtWumInU5w=="
+    },
+    {
+      "id": "069",
+      "name": "モル×2 モリ×2",
+      "members": "enc1:hO7Mg/zdys35idPaX5CgsdijvIji/4/S5gGN5/KO4MOcro/Vn6VBh+Pujveyjvfxj9na"
+    },
+    {
+      "id": "070",
+      "name": "ブルートップ",
+      "members": "enc1:hNnYg83yxOn9iM3fX5Owg9WDhIT06Y/T+Q=="
+    },
+    {
+      "id": "071",
+      "name": "アツすぎてナツ！",
+      "members": "enc1:iNjxjfboxOvoiNXRX5C9u9emhYjjzYLD9w=="
+    },
+    {
+      "id": "072",
+      "name": "城北HRD JA",
+      "members": "enc1:iMHlg/zdysrOi9zDX5yGqtabvorb+I/T+Q=="
+    },
+    {
+      "id": "073",
+      "name": "Poikamies",
+      "members": "enc1:hOfYjffRy+vuiNbjX5Owo9avi4Xmw47P0w=="
+    },
+    {
+      "id": "074",
+      "name": "焼きマロクレヨン",
+      "members": "enc1:iN7djP/JytzChO76X5Ccg9emhYvZ0I7SygGO9OSP6N+crI7Vobw="
+    },
+    {
+      "id": "075",
+      "name": "浦安神頼み",
+      "members": "enc1:iN/jjfXuy9ziiNbjX5ysktilkYj6/4zO6QGOwceMw+6TnoLYkaBBidXEjcyojc3HgPf9"
+    },
+    {
+      "id": "076",
+      "name": "DYUbee",
+      "members": "enc1:iM/sju38xPPtiM3eX5KygdSIoITNxI7u8AGP9t6Nzuadp4PWkJ1Bit3ajvaOgcnrjM3AWcuvgdaKw4rj0w=="
+    },
+    {
+      "id": "077",
+      "name": "シェリーズ",
+      "members": "enc1:iNbfjffVyMzOhdXgX5CUgdaumYjK5I3f3MjF+Q=="
+    },
+    {
+      "id": "078",
+      "name": "KAZURI",
+      "members": "enc1:i9/UjtnYyMfyhPPyX52iuNWuhYj94I7SwQ=="
+    },
+    {
+      "id": "079",
+      "name": "はらぱんまん",
+      "members": "enc1:ivDOjdPsyMb2QY/pzZCZvNW1uYjLyw=="
+    },
+    {
+      "id": "080",
+      "name": "ナイモルジャパン",
+      "members": "enc1:i9fpjdvNyvL6idDrX5CdvdiXionX7IPX5A=="
+    },
+    {
+      "id": "081",
+      "name": "65BRG",
+      "members": "enc1:iN/jjfXuyOnMQYD8x5Oxmtarj4jTyUeN5JOO9cGO69actrY="
+    },
+    {
+      "id": "082",
+      "name": "しゅがーず",
+      "members": "enc1:idL8g/zdy/zWiNXsX5GQotilkYr73YLoxA=="
+    },
+    {
+      "id": "083",
+      "name": "婆爺梨酢喰",
+      "members": "enc1:idfBjfboydLHidL/X5GVuNemhYjuyY7P08Tr5w=="
+    },
+    {
+      "id": "084",
+      "name": "塩対応",
+      "members": "enc1:i/LSjffVy+zyQY3J4526lta6pYrR4g=="
+    },
+    {
+      "id": "085",
+      "name": "Team Kiitos",
+      "members": "enc1:iND7g9j5yO3siMTXX5C+s9WFqIrb+IPX5A=="
+    },
+    {
+      "id": "086",
+      "name": "カイザー・マフィン",
+      "members": "enc1:iOL7jtjPyNLeidH0X5C9u9emhYnX7I7P0gGN0N6O4MOTqLzVlp+E7OI="
+    },
+    {
+      "id": "087",
+      "name": "HAIL MARY 山わさび",
+      "members": "enc1:hMT0jcLyy93Ai8bxX5CxrdWDvoX8wkeO14OM0eaB1+aRlK0="
+    },
+    {
+      "id": "088",
+      "name": "tkwk",
+      "members": "enc1:isTVg+/+yvjviM3aX5KGi9i2sonV8I330w=="
+    },
+    {
+      "id": "089",
+      "name": "MCハマー",
+      "members": "enc1:iN7djtvHyPrlidDrX5yuj9SKjYvuwY7uzA=="
+    },
+    {
+      "id": "090",
+      "name": "マイスガ遠征隊",
+      "members": "enc1:idfBjfboy8fnhOngX52it9SIoInQ5o39/g=="
+    },
+    {
+      "id": "091",
+      "name": "ALLIN JAPAN MOLKKY CLUB VALKOINEN R.N",
+      "members": "enc1:iN/Sjt/3yNDli/XvX5GQotilkYr974zl7w=="
+    },
+    {
+      "id": "092",
+      "name": "ベルアーム",
+      "members": "enc1:hOfYjffRytf9iM3eX5OxmtSKvojrxo3DwA=="
+    },
+    {
+      "id": "093",
+      "name": "SAKURAN333マヨネーズ",
+      "members": "enc1:idfBju38y/Dniv3DX5C/vtemhYXd2IPI7A=="
+    },
+    {
+      "id": "094",
+      "name": "LUNA RUNE",
+      "members": "enc1:iN/jjtzky+ncQYza+pysptWWkovH1Q=="
+    },
+    {
+      "id": "095",
+      "name": "LV",
+      "members": "enc1:hf/FjP/JysPKiM3eX52ni9aMkYTuyY/Q8g=="
+    },
+    {
+      "id": "096",
+      "name": "こぶらっく",
+      "members": "enc1:i/ncjfboxcTwi8XVX5CIl9avpIjf9o/S8g=="
+    },
+    {
+      "id": "097",
+      "name": "chee!",
+      "members": "enc1:hOj9jvT3yvL5itbgX5KygdWFqIvw5oz02w=="
+    },
+    {
+      "id": "098",
+      "name": "グリーンロック",
+      "members": "enc1:idfmjP/Jytz9iv3rX5CDu9ilkYTjwEeOyaKO9/qMxPWRlK0="
+    },
+    {
+      "id": "099",
+      "name": "えちゃなちゃこっちゃ",
+      "members": "enc1:i8fGjtrIxeDDiM3TX5GVn9m1u4va243T4wGAzv+O4MOSmIfZtbmIyuQ="
+    },
+    {
+      "id": "100",
+      "name": "モトビー",
+      "members": "enc1:idbpj9TkyvzZiPv4ld2UHtmRrojdzY7v08nS00GA8N6Ts6U="
+    },
+    {
+      "id": "101",
+      "name": "井土ヶ谷スキットルズ",
+      "members": "enc1:iN3NjffVy8DQisL/X5y1jdmxnYjX4I3ezsvj+kGP6c2Qo63XqYGF0/FHj8WngP7Jj9/x"
+    },
+    {
+      "id": "102",
+      "name": "Lio男子",
+      "members": "enc1:hO7Mg/zdy93AiOzxX5ylhtaunYv6wIz/5g=="
+    },
+    {
+      "id": "103",
+      "name": "池袋ウッドペッカーズ GRM",
+      "members": "enc1:i/LSguz3yO/lidDrX5ONmNmos4nU50eNxpyO9NOP7N6Qsog="
+    },
+    {
+      "id": "104",
+      "name": "KUMIKI",
+      "members": "enc1:iODIjtzky/TDi/TRX5CgpdepgYnV1keO9LqOxMQ="
+    },
+    {
+      "id": "105",
+      "name": "ポチャパラ2nd",
+      "members": "enc1:hf/djdnFxeHGhdXgX5yGqtWDhIjf6o7P0w=="
+    },
+    {
+      "id": "106",
+      "name": "柳川クリエイト",
+      "members": "enc1:iN3UjtvjxdT0QYza3ZOxnteNoYj/0keD3JKA/smMwPSQooAc1KnBitv2juy+"
+    },
+    {
+      "id": "107",
+      "name": "青春学園",
+      "members": "enc1:idTmjtrIyPrlidD/X5OTltiCgovq2o/R1wGL6vOK9tyWrqvTsJGO7N+M1O0BgfT/j+vAkrmD1Z+WidbvR43IjY/93Y/p/J2irg=="
+    },
+    {
+      "id": "108",
+      "name": "OTZ チームT",
+      "members": "enc1:iN7djtnBysP1idDrX5Cou9WRhIv380eOz6aN3eOK9eCWrLTTs6qO7eGI6v8="
+    },
+    {
+      "id": "109",
+      "name": "SASHIMÖ",
+      "members": "enc1:iP/ljP/JxMrGi9jEX5yooNSIoIjLy4PX5AGN1+GB49eQnbTWpKI="
+    },
+    {
+      "id": "110",
+      "name": "運営チーム",
+      "members": "enc1:LEMu"
+    }
+  ],
   "eventPeriodStart": "2026-08-08T09:00",
   "eventPeriodEnd": "2026-08-08T18:30",
   "receptionPw": "1985",
@@ -343,16 +894,16 @@
     "notes": "【熱中症対策】\n各自で水分塩分を多めに摂るようお願い致します。会場近くにコンビニ等はございませんので多めの水分を持参するようお願い致します。\n\n【モバイルバッテリーの持参】\nアプリを使用して大会を進めるため、各自でモバイルバッテリーを持参することを強く推奨します。\n\n【受付前のアップについて】\n受付の開始時刻は9時を予定しております。受付前はコートでの練習を禁止しておりますので、コート外でアップ等を行うようお願い致します。\n※時間は多少前後する場合があります。悪しからずご了承ください。\n\n【決勝中の会場の利用制限について】\n決勝戦が行われている間は運営主催の試合以外の全ての会場内の試合及び練習を禁止とさせていただきます。"
   },
   "courtLayout": {
-    "grid": "",
-    "labelTop": "",
-    "labelBottom": "",
-    "labelLeft": "",
-    "labelRight": "",
+    "grid": "×,×,×,×,×,55,54,53,52,51,50,49,48,47,46\n45,44,43,42,41,40,39,38,37,36,35,34,33,32,31\n30,29,28,27,26,25,24,23,22,21,20,19,18,17,16\n15,14,13,12,11,10,9,8,7,6,5,4,3,2,1",
+    "labelTop": "ゲートボール場、ゴルフ場",
+    "labelBottom": "丸子橋",
+    "labelLeft": "多摩川",
+    "labelRight": "新丸子駅方面",
     "centerLabel": {
-      "text": "",
+      "text": "本部",
       "pos": "bottom"
     }
   },
   "folderName": "川崎Season.6",
-  "publishedAt": "2026-08-03T17:25:32.751Z"
+  "publishedAt": "2026-08-06T03:15:05.834Z"
 }
