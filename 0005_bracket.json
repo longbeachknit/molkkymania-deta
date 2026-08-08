@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T02:08:59.725Z",
+  "updatedAt": "2026-08-08T02:11:25.683Z",
   "eventCode": "0005",
   "rounds": [
     {
@@ -110,7 +110,7 @@
         {
           "team1": "BOYCOTT MONDAYS",
           "team2": "SHIP D",
-          "win1": true,
+          "win1": false,
           "win2": false
         },
         {
@@ -194,65 +194,6 @@
         {
           "team1": "しゅがーず",
           "team2": "SANOS",
-          "win1": false,
-          "win2": false
-        }
-      ]
-    },
-    {
-      "name": "2回戦",
-      "matches": [
-        {
-          "team1": "",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "BOYCOTT MONDAYS",
           "win1": false,
           "win2": false
         }
