@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T02:11:25.683Z",
+  "updatedAt": "2026-08-08T08:26:25.845Z",
   "eventCode": "0005",
   "rounds": [
     {
@@ -9,193 +9,404 @@
           "team1": "ふたりはプリケツ_マックスミート",
           "team2": "落合会若手",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "DYUbee",
           "team2": "Team Kiitos 94",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "池袋ウッドペッカーズ GRM",
           "team2": "ぽーらんど",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "tkwk",
           "team2": "柳川クリエイト",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "HARU NO OGAWA",
           "team2": "吹上少年野球クラブ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "事故物件",
           "team2": "MURATAKE",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "マイスガ遠征隊",
           "team2": "はらぱんまん",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "PHÖENIXXX",
           "team2": "Z-ÖNE A.R.R.Y",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "えちゃなちゃこっちゃ",
           "team2": "Poikamies",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "コッペパン",
           "team2": "プイモルZ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Team Nemö",
           "team2": "高弾道推奨委員会",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ERDINGERs",
           "team2": "昼はサニー夜はしんや",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Team.S",
           "team2": "はるるー",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "上郷高校モルック部A",
           "team2": "GOKETSU",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "SAKURAN333マヨネーズ",
           "team2": "城北HRD N",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "KUMIKI",
           "team2": "婆爺梨酢喰",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "城北HRD JA",
           "team2": "よっ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "BOYCOTT MONDAYS",
           "team2": "SHIP D",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ふるふる",
           "team2": "iGogundan anothersky MMY",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "SKY",
           "team2": "浦安神頼み",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "こぶらっく",
           "team2": "アルペジオ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "習志野モルッククラブ",
           "team2": "ベルアーム",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "カイザー・マフィン",
           "team2": "Lio男子",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "青春学園",
           "team2": "KAZURI",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "クリコ",
           "team2": "MO’LUXC",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "LAB Molkky",
           "team2": "WARABY",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Wood Emperor",
           "team2": "アツすぎてナツ！",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "アカシア公園",
           "team2": "SASHIMÖ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "OMC23",
           "team2": "KとRと、50点。",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ま組のひと",
           "team2": "chee!",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "上がり目学芸班",
           "team2": "TEAM AKD",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "しゅがーず",
           "team2": "SANOS",
           "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "落合会若手",
+          "team2": "Team Kiitos 94",
+          "win1": true,
           "win2": false
+        },
+        {
+          "team1": "池袋ウッドペッカーズ GRM",
+          "team2": "tkwk",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "HARU NO OGAWA",
+          "team2": "MURATAKE",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "マイスガ遠征隊",
+          "team2": "PHÖENIXXX",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "Poikamies",
+          "team2": "プイモルZ",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "Team Nemö",
+          "team2": "昼はサニー夜はしんや",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "はるるー",
+          "team2": "GOKETSU",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "SAKURAN333マヨネーズ",
+          "team2": "婆爺梨酢喰",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "よっ",
+          "team2": "BOYCOTT MONDAYS",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "iGogundan anothersky MMY",
+          "team2": "SKY",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "こぶらっく",
+          "team2": "ベルアーム",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "カイザー・マフィン",
+          "team2": "KAZURI",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "クリコ",
+          "team2": "WARABY",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "アツすぎてナツ！",
+          "team2": "アカシア公園",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "KとRと、50点。",
+          "team2": "ま組のひと",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "上がり目学芸班",
+          "team2": "SANOS",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "3回戦",
+      "matches": [
+        {
+          "team1": "落合会若手",
+          "team2": "tkwk",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "HARU NO OGAWA",
+          "team2": "マイスガ遠征隊",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "プイモルZ",
+          "team2": "Team Nemö",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "GOKETSU",
+          "team2": "婆爺梨酢喰",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "よっ",
+          "team2": "SKY",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ベルアーム",
+          "team2": "KAZURI",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "WARABY",
+          "team2": "アツすぎてナツ！",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "KとRと、50点。",
+          "team2": "上がり目学芸班",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "4回戦",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "HARU NO OGAWA",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "Team Nemö",
+          "team2": "婆爺梨酢喰",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "よっ",
+          "team2": "ベルアーム",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "WARABY",
+          "team2": "KとRと、50点。",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "落合会若手",
+          "team2": "婆爺梨酢喰",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ベルアーム",
+          "team2": "WARABY",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "決勝",
+      "matches": [
+        {
+          "team1": "婆爺梨酢喰",
+          "team2": "WARABY",
+          "win1": false,
+          "win2": true
         }
       ]
     }
