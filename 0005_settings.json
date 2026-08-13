@@ -781,7 +781,7 @@
     }
   ],
   "eventPeriodStart": "2026-08-08T09:00",
-  "eventPeriodEnd": "2026-08-08T18:30",
+  "eventPeriodEnd": "2026-08-13T18:30",
   "receptionPw": "1985",
   "bracketTeamCount": 64,
   "systemChart": {
@@ -905,5 +905,5 @@
     }
   },
   "folderName": "川崎Season.6",
-  "publishedAt": "2026-08-13T02:23:04.085Z"
+  "publishedAt": "2026-08-13T02:23:22.321Z"
 }
