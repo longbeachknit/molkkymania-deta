@@ -1,0 +1,39 @@
+{
+  "venueCode": "99",
+  "eventCode": "9997",
+  "eventName": "【テンプレ】対戦表C(12~16)確認用",
+  "displayName": "",
+  "gasUrl": "https://script.google.com/macros/s/AKfycbwUvrS-HoO2FlYQi5TCjCSPMZmvdmI-0gxEyuGlZS2xRaMeiqsMvWEK1IOiDevqPN3P/exec",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/10kX_5fP6sHJMaTPOdWhjWqW1n2Qzj344ZIdXNMDelWo/edit?usp=sharing",
+  "priority": "tournament",
+  "matchRules": [],
+  "tourneyRules": [],
+  "roundRules": [],
+  "teams": [],
+  "eventPeriodStart": "2026-08-19T19:54",
+  "eventPeriodEnd": "2026-08-22T19:54",
+  "receptionPw": "1234",
+  "bracketTeamCount": 16,
+  "systemChart": null,
+  "venue": {
+    "code": "99",
+    "name": "その他"
+  },
+  "tourInfo": {
+    "rules": "",
+    "notes": ""
+  },
+  "courtLayout": {
+    "grid": "",
+    "labelTop": "",
+    "labelBottom": "",
+    "labelLeft": "",
+    "labelRight": "",
+    "centerLabel": {
+      "text": "",
+      "pos": "bottom"
+    }
+  },
+  "folderName": "",
+  "publishedAt": "2026-08-19T10:54:37.772Z"
+}
