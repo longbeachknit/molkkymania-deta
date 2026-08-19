@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T11:08:29.310Z",
+  "updatedAt": "2026-08-19T11:11:32.746Z",
   "eventCode": "9997",
   "schedule": [
     {
@@ -49,10 +49,6 @@
     {
       "name": "閉会式",
       "time": "16:00〜16:15"
-    },
-    {
-      "name": "#REF!",
-      "time": "#REF!"
     }
   ],
   "regulation": [
