@@ -1,0 +1,35 @@
+{
+  "updatedAt": "2026-08-19T11:42:46.625Z",
+  "eventCode": "9997",
+  "rounds": [
+    {
+      "name": "1回戦",
+      "matches": [
+        {
+          "team1": "0001",
+          "team2": "0008",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0004",
+          "team2": "0005",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0002",
+          "team2": "0007",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0003",
+          "team2": "0006",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    }
+  ]
+}
