@@ -6,15 +6,309 @@
   "gasUrl": "https://script.google.com/macros/s/AKfycbwUvrS-HoO2FlYQi5TCjCSPMZmvdmI-0gxEyuGlZS2xRaMeiqsMvWEK1IOiDevqPN3P/exec",
   "sheetUrl": "https://docs.google.com/spreadsheets/d/10kX_5fP6sHJMaTPOdWhjWqW1n2Qzj344ZIdXNMDelWo/edit?usp=sharing",
   "priority": "tournament",
-  "matchRules": [],
-  "tourneyRules": [],
-  "roundRules": [],
-  "teams": [],
+  "matchRules": [
+    {
+      "code": "06",
+      "name": "第1試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "07",
+      "name": "第2試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "08",
+      "name": "第3試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "01",
+      "name": "予選①",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "予選②",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "予選③",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "予選④",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "予選⑤",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    }
+  ],
+  "tourneyRules": [
+    {
+      "code": "00",
+      "name": "",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "01",
+      "name": "決勝トーナメント",
+      "fmt": "best3",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "5位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "不戦勝交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    }
+  ],
+  "roundRules": [
+    {
+      "matchCode": "06",
+      "tourneyCode": "01",
+      "round": "1回戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "01",
+      "round": "準決勝",
+      "prio": ""
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "01",
+      "round": "決勝、3決",
+      "prio": ""
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "02",
+      "round": "1回戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "02",
+      "round": "2回戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "02",
+      "round": "5位タイ決定戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "03",
+      "round": "1回戦",
+      "prio": ""
+    }
+  ],
+  "teams": [
+    {
+      "id": "001",
+      "name": "0001",
+      "members": "enc1:XF9cWkdLHVhY"
+    },
+    {
+      "id": "002",
+      "name": "0002",
+      "members": "enc1:XF9cWUdLHVhb"
+    },
+    {
+      "id": "003",
+      "name": "0003",
+      "members": "enc1:XF9cWEdLHVha"
+    },
+    {
+      "id": "004",
+      "name": "0004",
+      "members": "enc1:XF9cX0dLHVhd"
+    },
+    {
+      "id": "005",
+      "name": "0005",
+      "members": "enc1:XF9cXkdLHVhc"
+    },
+    {
+      "id": "006",
+      "name": "0006",
+      "members": "enc1:XF9cXUdLHVhf"
+    },
+    {
+      "id": "007",
+      "name": "0007",
+      "members": "enc1:XF9cXEdLHVhe"
+    },
+    {
+      "id": "008",
+      "name": "0008",
+      "members": "enc1:XF9cU0dLHVhR"
+    },
+    {
+      "id": "009",
+      "name": "0009",
+      "members": "enc1:XF9cUkdLHVhQ"
+    },
+    {
+      "id": "010",
+      "name": "0010",
+      "members": "enc1:XF9dW0dLHVlZ"
+    },
+    {
+      "id": "011",
+      "name": "0011",
+      "members": "enc1:XF9dWkdLHVlY"
+    },
+    {
+      "id": "012",
+      "name": "0012",
+      "members": "enc1:XF9dWUdLHVlb"
+    },
+    {
+      "id": "013",
+      "name": "0013",
+      "members": "enc1:XF9dWEdLHVla"
+    },
+    {
+      "id": "014",
+      "name": "0014",
+      "members": "enc1:XF9dX0dLHVld"
+    },
+    {
+      "id": "015",
+      "name": "0015",
+      "members": "enc1:XF9dXkdLHVlc"
+    },
+    {
+      "id": "016",
+      "name": "0016",
+      "members": "enc1:XF9dXUdLHVlf"
+    }
+  ],
   "eventPeriodStart": "2026-08-19T19:54",
   "eventPeriodEnd": "2026-08-22T19:54",
   "receptionPw": "1234",
-  "bracketTeamCount": 16,
-  "systemChart": null,
+  "bracketTeamCount": 8,
+  "systemChart": {
+    "enabled": true,
+    "cornerLabel": "",
+    "prelims": [
+      "予選①",
+      "予選②",
+      "予選③",
+      "予選④",
+      "予選⑤"
+    ],
+    "rowLabels": [
+      "第1試合",
+      "第2試合",
+      "第3試合"
+    ],
+    "legend": [
+      {
+        "label": "3先",
+        "color": "pink"
+      },
+      {
+        "label": "2先",
+        "color": "green"
+      }
+    ],
+    "columns": [
+      {
+        "name": "決勝トーナメント",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "準決勝",
+          "決勝、3決"
+        ]
+      },
+      {
+        "name": "5位タイトーナメント",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "5位タイ決定戦"
+        ]
+      },
+      {
+        "name": "交流戦",
+        "startRow": 1,
+        "note": "",
+        "cells": [
+          "1回戦"
+        ]
+      }
+    ],
+    "colors": {
+      "決勝トーナメント": "pink",
+      "5位タイトーナメント": "green",
+      "交流戦": "green"
+    },
+    "loseArrows": {
+      "決勝トーナメント@1": false
+    },
+    "cellColors": {}
+  },
   "venue": {
     "code": "99",
     "name": "その他"
@@ -24,16 +318,16 @@
     "notes": ""
   },
   "courtLayout": {
-    "grid": "",
-    "labelTop": "",
-    "labelBottom": "",
-    "labelLeft": "",
-    "labelRight": "",
+    "grid": "5,6,7,8\n1,2,3,4",
+    "labelTop": "交通遊園",
+    "labelBottom": "バラ園",
+    "labelLeft": "入り口側",
+    "labelRight": "浜寺運河",
     "centerLabel": {
-      "text": "",
+      "text": "本部・屋根",
       "pos": "bottom"
     }
   },
-  "folderName": "",
-  "publishedAt": "2026-08-19T11:09:49.573Z"
+  "folderName": "テンプレ",
+  "publishedAt": "2026-08-19T11:10:26.362Z"
 }
