@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T04:22:17.814Z",
+  "updatedAt": "2026-08-22T07:22:12.547Z",
   "eventCode": "0006",
   "rounds": [
     {
@@ -38,13 +38,13 @@
           "team1": "源平",
           "team2": "croc_弘田上フーガ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Mörits_IKA",
           "team2": "チームTG",
           "win1": false,
-          "win2": false
+          "win2": true
         }
       ]
     }
