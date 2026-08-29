@@ -1,0 +1,20 @@
+{
+  "code": "04",
+  "name": "東京",
+  "themeColor": "#EF5350",
+  "detail": {
+    "locationName": "夢の島公園アーチェリー場",
+    "address": "〒136-0081 東京都江東区夢の島２丁目１−番4号",
+    "mapUrl": "https://maps.app.goo.gl/j7V5FLuu8RjiUEvU8",
+    "access": "東京メトロ有楽町線、JR京葉線、りんかい線 『新木場駅』下車、徒歩5分",
+    "parking": "",
+    "toilet": "",
+    "smoking": "",
+    "garbage": "",
+    "rules": "",
+    "mapImage": "",
+    "notes": [],
+    "sections": []
+  },
+  "publishedAt": "2026-08-29T13:50:24.414Z"
+}
