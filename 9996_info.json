@@ -1,16 +1,14 @@
 {
-  "updatedAt": "2026-08-29T12:02:28.798Z",
+  "updatedAt": "2026-08-29T14:53:09.678Z",
   "eventCode": "9996",
   "schedule": [
     {
       "type": "row",
       "name": "受付",
-      "time": "9:00〜9:15"
+      "time": "9:00〜9:30"
     },
     {
-      "type": "row",
-      "name": "開会式",
-      "time": "9:15〜9:25"
+      "type": "gap"
     },
     {
       "type": "row",
