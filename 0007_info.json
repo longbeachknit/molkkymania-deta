@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T14:49:54.568Z",
+  "updatedAt": "2026-08-29T14:54:18.555Z",
   "eventCode": "0007",
   "schedule": [
     {
@@ -8,9 +8,7 @@
       "time": "9:00〜9:15"
     },
     {
-      "type": "row",
-      "name": "開会式",
-      "time": "9:15〜9:25"
+      "type": "gap"
     },
     {
       "type": "row",
