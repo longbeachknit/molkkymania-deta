@@ -1,0 +1,39 @@
+{
+  "venueCode": "99",
+  "eventCode": "9996",
+  "eventName": "【テンプレ】対戦表D(66~96)確認用",
+  "displayName": "",
+  "gasUrl": "https://script.google.com/macros/s/AKfycbxo49yfJLLy-hKq4C65PCjIn7NNRBapyR6ujSqsU15gOxuAnKcHyWdIuuaDvjiEdO1k3w/exec",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1JeRoL5zTZ3QlaHkJeG2SWHcbcWNImy0ghnUIr-wGl5E/edit?usp=sharing",
+  "priority": "tournament",
+  "matchRules": [],
+  "tourneyRules": [],
+  "roundRules": [],
+  "teams": [],
+  "eventPeriodStart": "2026-08-29T17:26",
+  "eventPeriodEnd": "2026-09-05T17:26",
+  "receptionPw": "1111",
+  "bracketTeamCount": 64,
+  "systemChart": null,
+  "venue": {
+    "code": "99",
+    "name": "その他"
+  },
+  "tourInfo": {
+    "rules": "",
+    "notes": ""
+  },
+  "courtLayout": {
+    "grid": "",
+    "labelTop": "",
+    "labelBottom": "",
+    "labelLeft": "",
+    "labelRight": "",
+    "centerLabel": {
+      "text": "",
+      "pos": "bottom"
+    }
+  },
+  "folderName": "",
+  "publishedAt": "2026-08-29T08:27:43.636Z"
+}
