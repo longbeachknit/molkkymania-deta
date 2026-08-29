@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T11:19:09.967Z",
+  "updatedAt": "2026-08-29T12:02:28.798Z",
   "eventCode": "9996",
   "schedule": [
     {
@@ -33,6 +33,9 @@
       "time": "11:10〜11:45"
     },
     {
+      "type": "gap"
+    },
+    {
       "type": "header",
       "name": "決勝トナメ",
       "time": "",
@@ -62,6 +65,9 @@
       "type": "row",
       "name": "決勝トナメ決勝",
       "time": "15:50〜16:45"
+    },
+    {
+      "type": "gap"
     },
     {
       "type": "header",
@@ -98,6 +104,9 @@
       "type": "row",
       "name": "Bトナメ決勝",
       "time": "15:10〜15:45"
+    },
+    {
+      "type": "gap"
     },
     {
       "type": "row",
