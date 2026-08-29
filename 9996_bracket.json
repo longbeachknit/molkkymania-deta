@@ -1,0 +1,218 @@
+{
+  "updatedAt": "2026-08-29T11:24:24.983Z",
+  "eventCode": "9996",
+  "title": "決勝トーナメント",
+  "rounds": [
+    {
+      "name": "1回戦",
+      "matches": [
+        {
+          "team1": "0001",
+          "team2": "0032",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0017",
+          "team2": "0016",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0009",
+          "team2": "0024",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0025",
+          "team2": "0008",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0005",
+          "team2": "0028",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0021",
+          "team2": "0012",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0013",
+          "team2": "0020",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0029",
+          "team2": "0004",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0003",
+          "team2": "0030",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0019",
+          "team2": "0014",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0011",
+          "team2": "0022",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0027",
+          "team2": "0006",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0007",
+          "team2": "0026",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0023",
+          "team2": "0010",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0015",
+          "team2": "0018",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0031",
+          "team2": "0002",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "0001",
+          "team2": "0017",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0009",
+          "team2": "0025",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0005",
+          "team2": "0021",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0013",
+          "team2": "0029",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0003",
+          "team2": "0019",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0011",
+          "team2": "0027",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0007",
+          "team2": "0023",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0015",
+          "team2": "0031",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "3回戦",
+      "matches": [
+        {
+          "team1": "0001",
+          "team2": "0009",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0005",
+          "team2": "0013",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0003",
+          "team2": "0011",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0007",
+          "team2": "0015",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "0001",
+          "team2": "0005",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0003",
+          "team2": "0007",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "決勝",
+      "matches": [
+        {
+          "team1": "0001",
+          "team2": "0003",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    }
+  ]
+}
