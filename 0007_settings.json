@@ -3,8 +3,8 @@
   "eventCode": "0007",
   "eventName": "Mölkky Mania Tokyo -OPEN- vol.5",
   "displayName": "Mölkky Mania\nTokyo -OPEN-\nvol.5",
-  "gasUrl": "https://script.google.com/macros/s/AKfycbzp6c5HFKYVqEhAmehSr9Tyj5r4PDLjsPbwhdMc7sxD5G8h80X2p8w0EaKE4q_5qOh0/exec",
-  "sheetUrl": "https://docs.google.com/spreadsheets/d/1eutrXj4xuS5Sn8bXn4PHZLBK-Wuv4l4xUGy_eaqJK2M/edit?usp=sharing",
+  "gasUrl": "https://script.google.com/macros/s/AKfycbyvSLjRDaHDEzZ9wVOfLCttPgtcgvjw71dn6PWoAoZZSdg8QBZZ6c0WQ5Jmpxra1eU/exec",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1AdbXcO4yR0w-2ag40qF98uPVsd_tDcc8uWCvURvjJq0/edit?usp=sharing",
   "priority": "tournament",
   "matchRules": [
     {
@@ -384,5 +384,5 @@
     }
   },
   "folderName": "東京",
-  "publishedAt": "2026-08-30T10:43:10.880Z"
+  "publishedAt": "2026-08-30T14:45:45.154Z"
 }
