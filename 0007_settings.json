@@ -215,6 +215,20 @@
   "bracket1Name": "決勝トーナメント",
   "bracket2TeamCount": 64,
   "bracket2Name": "Bトーナメント",
+  "exhibition": {
+    "enabled": true,
+    "count": 2,
+    "games": [
+      {
+        "name": "交流戦①",
+        "desc": "12:30~13:05（2セット先取）"
+      },
+      {
+        "name": "交流戦②",
+        "desc": "13:10~13:45（2セット先取）"
+      }
+    ]
+  },
   "systemChart": {
     "enabled": true,
     "cornerLabel": "",
@@ -224,7 +238,8 @@
       "一次予選③",
       {
         "name": "二次予選",
-        "span": 1
+        "span": 1,
+        "color": "green"
       }
     ],
     "rowLabels": [
@@ -296,6 +311,7 @@
       "Bトーナメント@1": true
     },
     "loseTo": {
+      "決勝\\nトーナメント@0": "交流戦@2",
       "Bトーナメント@0": "交流戦",
       "Bトーナメント@1": "交流戦"
     },
@@ -368,5 +384,5 @@
     }
   },
   "folderName": "東京",
-  "publishedAt": "2026-08-30T08:45:49.912Z"
+  "publishedAt": "2026-08-30T10:42:35.106Z"
 }
