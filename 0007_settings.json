@@ -91,7 +91,7 @@
   "tourneyRules": [
     {
       "code": "00",
-      "name": "一次予選",
+      "name": "",
       "fmt": "round2",
       "turnLimit": true,
       "playerMin": 2,
@@ -795,5 +795,5 @@
     }
   },
   "folderName": "東京",
-  "publishedAt": "2026-09-04T04:05:37.959Z"
+  "publishedAt": "2026-09-04T04:12:23.084Z"
 }
