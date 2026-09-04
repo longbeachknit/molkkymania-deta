@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T06:33:41.469Z",
+  "updatedAt": "2026-09-04T06:39:19.223Z",
   "eventCode": "0007",
   "schedule": [
     {
@@ -99,14 +99,6 @@
       "type": "row",
       "name": "Bトナメ決勝・3決",
       "time": "15:10〜15:45"
-    },
-    {
-      "type": "gap"
-    },
-    {
-      "type": "row",
-      "name": "閉会式",
-      "time": "16:45〜16:55"
     }
   ],
   "regulation": [
