@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T03:56:25.825Z",
+  "updatedAt": "2026-09-05T07:44:10.725Z",
   "eventCode": "0007",
   "title": "Bトーナメント",
   "rounds": [
@@ -212,13 +212,13 @@
         {
           "team1": "モルックSP_C",
           "team2": "キッコーマンB",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "キャン彩tea",
           "team2": "湘南ブレイカーズ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -230,13 +230,13 @@
         {
           "team1": "ブルスケッタ",
           "team2": "ヘラプリコ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ゲノム団",
           "team2": "HKU",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -254,49 +254,49 @@
         {
           "team1": "コンサドーレ禅那部",
           "team2": "ルーニー狂",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "おかぴ",
           "team2": "NICHIGEKI",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "かくれん棒ワニさんズ",
           "team2": "ラブ・ポーション",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "しゅんたかとも",
           "team2": "好き好きチョコレートカーニバルA",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "いとおかし",
           "team2": "X-Horse②",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "トゥバロンMC",
           "team2": "じゅんちょうず",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "じぇぴ☆ししょ☆なのか",
           "team2": "ふらじゅん",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "T・K・O",
           "team2": "東モル_花組",
-          "win1": false,
+          "win1": true,
           "win2": false
         }
       ]
@@ -306,26 +306,107 @@
       "matches": [
         {
           "team1": "じょしーず⭐︎",
-          "team2": "",
-          "win1": false,
+          "team2": "モルックSP_C",
+          "win1": true,
           "win2": false
         },
         {
-          "team1": "",
+          "team1": "キャン彩tea",
           "team2": "基本はリズムキープ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
-          "team1": "",
-          "team2": "",
-          "win1": false,
+          "team1": "ブルスケッタ",
+          "team2": "ゲノム団",
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Passione South",
           "team2": "モルックSP_A",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "コンサドーレ禅那部",
+          "team2": "おかぴ",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "かくれん棒ワニさんズ",
+          "team2": "しゅんたかとも",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "いとおかし",
+          "team2": "じゅんちょうず",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ふらじゅん",
+          "team2": "T・K・O",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "4回戦",
+      "matches": [
+        {
+          "team1": "じょしーず⭐︎",
+          "team2": "基本はリズムキープ",
           "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ブルスケッタ",
+          "team2": "Passione South",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "コンサドーレ禅那部",
+          "team2": "かくれん棒ワニさんズ",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "いとおかし",
+          "team2": "ふらじゅん",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "基本はリズムキープ",
+          "team2": "ブルスケッタ",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "コンサドーレ禅那部",
+          "team2": "ふらじゅん",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "決勝",
+      "matches": [
+        {
+          "team1": "基本はリズムキープ",
+          "team2": "ふらじゅん",
+          "win1": true,
           "win2": false
         }
       ]
