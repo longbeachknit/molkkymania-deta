@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T03:56:23.297Z",
+  "updatedAt": "2026-09-05T07:44:08.519Z",
   "eventCode": "0007",
   "title": "決勝トーナメント",
   "rounds": [
@@ -110,49 +110,106 @@
         {
           "team1": "乃日坂46",
           "team2": "ギャンブラザーズ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "W.E.そーたく",
           "team2": "ウサウサ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "キッコーマンA",
           "team2": "ペペペッペーズ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "WARABY",
           "team2": "MCどんぐり",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Team Kiitos",
           "team2": "Nisshoku Crew",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "coner room",
           "team2": "Go Beyond",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ジョッ",
           "team2": "Masa and...",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Mas_Dra",
           "team2": "小平将大",
           "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "3回戦",
+      "matches": [
+        {
+          "team1": "乃日坂46",
+          "team2": "W.E.そーたく",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "キッコーマンA",
+          "team2": "WARABY",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "Nisshoku Crew",
+          "team2": "Go Beyond",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ジョッ",
+          "team2": "小平将大",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "乃日坂46",
+          "team2": "キッコーマンA",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "Go Beyond",
+          "team2": "小平将大",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "決勝",
+      "matches": [
+        {
+          "team1": "乃日坂46",
+          "team2": "小平将大",
+          "win1": true,
           "win2": false
         }
       ]
