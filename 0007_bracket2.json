@@ -1,0 +1,204 @@
+{
+  "updatedAt": "2026-09-05T02:44:45.353Z",
+  "eventCode": "0007",
+  "title": "Bトーナメント",
+  "rounds": [
+    {
+      "name": "1回戦",
+      "matches": [
+        {
+          "team1": "New Generation",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "STIN",
+          "team2": "じょしーず⭐︎",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "モルックSP_C",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "キッコーマンB",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "キャン彩tea",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "A→TRI-YAH",
+          "team2": "湘南ブレイカーズ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "X-Horse",
+          "team2": "奥村組",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "基本はリズムキープ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ブルスケッタ",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "キッコーマンC",
+          "team2": "ヘラプリコ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ゲノム団",
+          "team2": "タカアンドキム",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "HKU",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "Passione South",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "浦安神頼みＲ",
+          "team2": "Molddy",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "肉球OSP",
+          "team2": "モルックSP_A",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "木倒す",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "コンサドーレ禅那部",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ルーニー狂",
+          "team2": "モルックSP_D",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "樂華モルック部",
+          "team2": "おかぴ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "NICHIGEKI",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "かくれん棒ワニさんズ",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "好き好きチョコレートカーニバルB",
+          "team2": "ラブ・ポーション",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "KMC",
+          "team2": "しゅんたかとも",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "好き好きチョコレートカーニバルA",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "いとおかし",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "『ゆ。』",
+          "team2": "X-Horse②",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "トゥバロンMC",
+          "team2": "コモエスタス",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "じゅんちょうず",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "じぇぴ☆ししょ☆なのか",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "大宮モルッククラブ",
+          "team2": "ふらじゅん",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "hoku lele",
+          "team2": "T・K・O",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "東モル_花組",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    }
+  ]
+}
