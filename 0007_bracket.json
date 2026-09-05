@@ -1,0 +1,108 @@
+{
+  "updatedAt": "2026-09-05T02:44:43.773Z",
+  "eventCode": "0007",
+  "title": "決勝トーナメント",
+  "rounds": [
+    {
+      "name": "1回戦",
+      "matches": [
+        {
+          "team1": "乃日坂46",
+          "team2": "ふるふる",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ジャンジャン",
+          "team2": "ギャンブラザーズ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "W.E.そーたく",
+          "team2": "木投げる",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ウサウサ",
+          "team2": "Ｙ・サザンカ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "キッコーマンA",
+          "team2": "ポラリス",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "エンジョイくり太郎",
+          "team2": "ペペペッペーズ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "あたまちぎれちゃうよ〜",
+          "team2": "WARABY",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "MCどんぐり",
+          "team2": "モルックSP_B",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "MR2",
+          "team2": "Team Kiitos",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "浦安神頼み",
+          "team2": "Nisshoku Crew",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "coner room",
+          "team2": "わっしょいモルック",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "東モル ソルト",
+          "team2": "Go Beyond",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ジョッ",
+          "team2": "don",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ま組のひと",
+          "team2": "Masa and...",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "Mas_Dra",
+          "team2": "chee!",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "小平将大",
+          "team2": "めぐタロー",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    }
+  ]
+}
