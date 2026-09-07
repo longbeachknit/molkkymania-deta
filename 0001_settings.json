@@ -718,6 +718,14 @@
   "eventPeriodEnd": "2026-05-23T17:30",
   "receptionPw": "",
   "bracketTeamCount": 64,
+  "bracket1Name": "決勝トーナメント",
+  "bracket2TeamCount": 0,
+  "bracket2Name": "Bトーナメント",
+  "exhibition": {
+    "enabled": false,
+    "count": 0,
+    "games": []
+  },
   "systemChart": null,
   "venue": {
     "code": "01",
@@ -754,5 +762,5 @@
     }
   },
   "folderName": "川崎Season.6",
-  "publishedAt": "2026-07-30T02:38:09.137Z"
+  "publishedAt": "2026-09-07T01:28:46.896Z"
 }
