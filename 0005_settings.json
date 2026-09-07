@@ -784,6 +784,23 @@
   "eventPeriodEnd": "2026-08-13T18:30",
   "receptionPw": "1985",
   "bracketTeamCount": 64,
+  "bracket1Name": "決勝トーナメント",
+  "bracket2TeamCount": 0,
+  "bracket2Name": "Bトーナメント",
+  "exhibition": {
+    "enabled": false,
+    "count": 2,
+    "games": [
+      {
+        "name": "交流戦①",
+        "desc": ""
+      },
+      {
+        "name": "交流戦②",
+        "desc": ""
+      }
+    ]
+  },
   "systemChart": {
     "enabled": true,
     "cornerLabel": "",
@@ -868,6 +885,8 @@
     "loseArrows": {
       "決勝トーナメント@4": false
     },
+    "loseTo": {},
+    "links": [],
     "cellColors": {}
   },
   "venue": {
@@ -905,5 +924,5 @@
     }
   },
   "folderName": "川崎Season.6",
-  "publishedAt": "2026-08-13T02:23:38.061Z"
+  "publishedAt": "2026-09-07T00:34:05.895Z"
 }
