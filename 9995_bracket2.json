@@ -1,0 +1,204 @@
+{
+  "updatedAt": "2026-09-10T03:50:54.163Z",
+  "eventCode": "9995",
+  "title": "Bトーナメント",
+  "rounds": [
+    {
+      "name": "1回戦選手名",
+      "matches": [
+        {
+          "team1": "0064",
+          "team2": "0128",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0097",
+          "team2": "0066",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0062",
+          "team2": "0112",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0113",
+          "team2": "0068",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0060",
+          "team2": "0120",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0105",
+          "team2": "0070",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0058",
+          "team2": "0104",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0121",
+          "team2": "0072",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0056",
+          "team2": "0124",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0101",
+          "team2": "0074",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0054",
+          "team2": "0108",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0117",
+          "team2": "0076",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0052",
+          "team2": "0116",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0109",
+          "team2": "0078",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0050",
+          "team2": "0100",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0125",
+          "team2": "0080",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0048",
+          "team2": "0126",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0099",
+          "team2": "0082",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0046",
+          "team2": "0110",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0115",
+          "team2": "0084",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0044",
+          "team2": "0118",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0107",
+          "team2": "0086",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0042",
+          "team2": "0102",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0123",
+          "team2": "0088",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0040",
+          "team2": "0122",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0103",
+          "team2": "0090",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0038",
+          "team2": "0106",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0119",
+          "team2": "0092",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0036",
+          "team2": "0114",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0111",
+          "team2": "0094",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0034",
+          "team2": "0098",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0127",
+          "team2": "0096",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    }
+  ]
+}
