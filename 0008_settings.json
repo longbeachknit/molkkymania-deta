@@ -6,6 +6,7 @@
   "gasUrl": "https://script.google.com/macros/s/AKfycbzP72xMpJeFcIpI-bzcqbD11tBFt_WK4jSaEQAFtecoUobo7GP_u3c1gyx7KT3mvOCRBQ/exec",
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1eoybHd13EkxtCP-SQ_sOLkJwXSCs9pT7hML4rkuiD3I/edit?usp=sharing",
   "priority": "tournament",
+  "matchType": "team",
   "matchRules": [
     {
       "code": "04",
@@ -364,5 +365,5 @@
     }
   },
   "folderName": "川崎Season.6",
-  "publishedAt": "2026-09-10T02:25:03.025Z"
+  "publishedAt": "2026-09-10T04:02:26.774Z"
 }
