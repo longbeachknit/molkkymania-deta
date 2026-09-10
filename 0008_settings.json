@@ -229,7 +229,7 @@
     }
   ],
   "teams": [],
-  "eventPeriodStart": "2026-09-12T09:00",
+  "eventPeriodStart": "2026-09-09T09:00",
   "eventPeriodEnd": "2026-09-12T18:00",
   "receptionPw": "1560",
   "bracketTeamCount": 64,
@@ -364,5 +364,5 @@
     }
   },
   "folderName": "川崎Season.6",
-  "publishedAt": "2026-09-07T10:09:46.062Z"
+  "publishedAt": "2026-09-10T02:22:55.380Z"
 }
