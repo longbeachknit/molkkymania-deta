@@ -246,7 +246,648 @@
       "prio": ""
     }
   ],
-  "teams": [],
+  "teams": [
+    {
+      "id": "001",
+      "name": "0001",
+      "members": "enc1:XF9cW1o="
+    },
+    {
+      "id": "002",
+      "name": "0002",
+      "members": "enc1:XF9cW1k="
+    },
+    {
+      "id": "003",
+      "name": "0003",
+      "members": "enc1:XF9cW1g="
+    },
+    {
+      "id": "004",
+      "name": "0004",
+      "members": "enc1:XF9cW18="
+    },
+    {
+      "id": "005",
+      "name": "0005",
+      "members": "enc1:XF9cW14="
+    },
+    {
+      "id": "006",
+      "name": "0006",
+      "members": "enc1:XF9cW10="
+    },
+    {
+      "id": "007",
+      "name": "0007",
+      "members": "enc1:XF9cW1w="
+    },
+    {
+      "id": "008",
+      "name": "0008",
+      "members": "enc1:XF9cW1M="
+    },
+    {
+      "id": "009",
+      "name": "0009",
+      "members": "enc1:XF9cW1I="
+    },
+    {
+      "id": "010",
+      "name": "0010",
+      "members": "enc1:XF9cWls="
+    },
+    {
+      "id": "011",
+      "name": "0011",
+      "members": "enc1:XF9cWlo="
+    },
+    {
+      "id": "012",
+      "name": "0012",
+      "members": "enc1:XF9cWlk="
+    },
+    {
+      "id": "013",
+      "name": "0013",
+      "members": "enc1:XF9cWlg="
+    },
+    {
+      "id": "014",
+      "name": "0014",
+      "members": "enc1:XF9cWl8="
+    },
+    {
+      "id": "015",
+      "name": "0015",
+      "members": "enc1:XF9cWl4="
+    },
+    {
+      "id": "016",
+      "name": "0016",
+      "members": "enc1:XF9cWl0="
+    },
+    {
+      "id": "017",
+      "name": "0017",
+      "members": "enc1:XF9cWlw="
+    },
+    {
+      "id": "018",
+      "name": "0018",
+      "members": "enc1:XF9cWlM="
+    },
+    {
+      "id": "019",
+      "name": "0019",
+      "members": "enc1:XF9cWlI="
+    },
+    {
+      "id": "020",
+      "name": "0020",
+      "members": "enc1:XF9cWVs="
+    },
+    {
+      "id": "021",
+      "name": "0021",
+      "members": "enc1:XF9cWVo="
+    },
+    {
+      "id": "022",
+      "name": "0022",
+      "members": "enc1:XF9cWVk="
+    },
+    {
+      "id": "023",
+      "name": "0023",
+      "members": "enc1:XF9cWVg="
+    },
+    {
+      "id": "024",
+      "name": "0024",
+      "members": "enc1:XF9cWV8="
+    },
+    {
+      "id": "025",
+      "name": "0025",
+      "members": "enc1:XF9cWV4="
+    },
+    {
+      "id": "026",
+      "name": "0026",
+      "members": "enc1:XF9cWV0="
+    },
+    {
+      "id": "027",
+      "name": "0027",
+      "members": "enc1:XF9cWVw="
+    },
+    {
+      "id": "028",
+      "name": "0028",
+      "members": "enc1:XF9cWVM="
+    },
+    {
+      "id": "029",
+      "name": "0029",
+      "members": "enc1:XF9cWVI="
+    },
+    {
+      "id": "030",
+      "name": "0030",
+      "members": "enc1:XF9cWFs="
+    },
+    {
+      "id": "031",
+      "name": "0031",
+      "members": "enc1:XF9cWFo="
+    },
+    {
+      "id": "032",
+      "name": "0032",
+      "members": "enc1:XF9cWFk="
+    },
+    {
+      "id": "033",
+      "name": "0033",
+      "members": "enc1:XF9cWFg="
+    },
+    {
+      "id": "034",
+      "name": "0034",
+      "members": "enc1:XF9cWF8="
+    },
+    {
+      "id": "035",
+      "name": "0035",
+      "members": "enc1:XF9cWF4="
+    },
+    {
+      "id": "036",
+      "name": "0036",
+      "members": "enc1:XF9cWF0="
+    },
+    {
+      "id": "037",
+      "name": "0037",
+      "members": "enc1:XF9cWFw="
+    },
+    {
+      "id": "038",
+      "name": "0038",
+      "members": "enc1:XF9cWFM="
+    },
+    {
+      "id": "039",
+      "name": "0039",
+      "members": "enc1:XF9cWFI="
+    },
+    {
+      "id": "040",
+      "name": "0040",
+      "members": "enc1:XF9cX1s="
+    },
+    {
+      "id": "041",
+      "name": "0041",
+      "members": "enc1:XF9cX1o="
+    },
+    {
+      "id": "042",
+      "name": "0042",
+      "members": "enc1:XF9cX1k="
+    },
+    {
+      "id": "043",
+      "name": "0043",
+      "members": "enc1:XF9cX1g="
+    },
+    {
+      "id": "044",
+      "name": "0044",
+      "members": "enc1:XF9cX18="
+    },
+    {
+      "id": "045",
+      "name": "0045",
+      "members": "enc1:XF9cX14="
+    },
+    {
+      "id": "046",
+      "name": "0046",
+      "members": "enc1:XF9cX10="
+    },
+    {
+      "id": "047",
+      "name": "0047",
+      "members": "enc1:XF9cX1w="
+    },
+    {
+      "id": "048",
+      "name": "0048",
+      "members": "enc1:XF9cX1M="
+    },
+    {
+      "id": "049",
+      "name": "0049",
+      "members": "enc1:XF9cX1I="
+    },
+    {
+      "id": "050",
+      "name": "0050",
+      "members": "enc1:XF9cXls="
+    },
+    {
+      "id": "051",
+      "name": "0051",
+      "members": "enc1:XF9cXlo="
+    },
+    {
+      "id": "052",
+      "name": "0052",
+      "members": "enc1:XF9cXlk="
+    },
+    {
+      "id": "053",
+      "name": "0053",
+      "members": "enc1:XF9cXlg="
+    },
+    {
+      "id": "054",
+      "name": "0054",
+      "members": "enc1:XF9cXl8="
+    },
+    {
+      "id": "055",
+      "name": "0055",
+      "members": "enc1:XF9cXl4="
+    },
+    {
+      "id": "056",
+      "name": "0056",
+      "members": "enc1:XF9cXl0="
+    },
+    {
+      "id": "057",
+      "name": "0057",
+      "members": "enc1:XF9cXlw="
+    },
+    {
+      "id": "058",
+      "name": "0058",
+      "members": "enc1:XF9cXlM="
+    },
+    {
+      "id": "059",
+      "name": "0059",
+      "members": "enc1:XF9cXlI="
+    },
+    {
+      "id": "060",
+      "name": "0060",
+      "members": "enc1:XF9cXVs="
+    },
+    {
+      "id": "061",
+      "name": "0061",
+      "members": "enc1:XF9cXVo="
+    },
+    {
+      "id": "062",
+      "name": "0062",
+      "members": "enc1:XF9cXVk="
+    },
+    {
+      "id": "063",
+      "name": "0063",
+      "members": "enc1:XF9cXVg="
+    },
+    {
+      "id": "064",
+      "name": "0064",
+      "members": "enc1:XF9cXV8="
+    },
+    {
+      "id": "065",
+      "name": "0065",
+      "members": "enc1:XF9cXV4="
+    },
+    {
+      "id": "066",
+      "name": "0066",
+      "members": "enc1:XF9cXV0="
+    },
+    {
+      "id": "067",
+      "name": "0067",
+      "members": "enc1:XF9cXVw="
+    },
+    {
+      "id": "068",
+      "name": "0068",
+      "members": "enc1:XF9cXVM="
+    },
+    {
+      "id": "069",
+      "name": "0069",
+      "members": "enc1:XF9cXVI="
+    },
+    {
+      "id": "070",
+      "name": "0070",
+      "members": "enc1:XF9cXFs="
+    },
+    {
+      "id": "071",
+      "name": "0071",
+      "members": "enc1:XF9cXFo="
+    },
+    {
+      "id": "072",
+      "name": "0072",
+      "members": "enc1:XF9cXFk="
+    },
+    {
+      "id": "073",
+      "name": "0073",
+      "members": "enc1:XF9cXFg="
+    },
+    {
+      "id": "074",
+      "name": "0074",
+      "members": "enc1:XF9cXF8="
+    },
+    {
+      "id": "075",
+      "name": "0075",
+      "members": "enc1:XF9cXF4="
+    },
+    {
+      "id": "076",
+      "name": "0076",
+      "members": "enc1:XF9cXF0="
+    },
+    {
+      "id": "077",
+      "name": "0077",
+      "members": "enc1:XF9cXFw="
+    },
+    {
+      "id": "078",
+      "name": "0078",
+      "members": "enc1:XF9cXFM="
+    },
+    {
+      "id": "079",
+      "name": "0079",
+      "members": "enc1:XF9cXFI="
+    },
+    {
+      "id": "080",
+      "name": "0080",
+      "members": "enc1:XF9cU1s="
+    },
+    {
+      "id": "081",
+      "name": "0081",
+      "members": "enc1:XF9cU1o="
+    },
+    {
+      "id": "082",
+      "name": "0082",
+      "members": "enc1:XF9cU1k="
+    },
+    {
+      "id": "083",
+      "name": "0083",
+      "members": "enc1:XF9cU1g="
+    },
+    {
+      "id": "084",
+      "name": "0084",
+      "members": "enc1:XF9cU18="
+    },
+    {
+      "id": "085",
+      "name": "0085",
+      "members": "enc1:XF9cU14="
+    },
+    {
+      "id": "086",
+      "name": "0086",
+      "members": "enc1:XF9cU10="
+    },
+    {
+      "id": "087",
+      "name": "0087",
+      "members": "enc1:XF9cU1w="
+    },
+    {
+      "id": "088",
+      "name": "0088",
+      "members": "enc1:XF9cU1M="
+    },
+    {
+      "id": "089",
+      "name": "0089",
+      "members": "enc1:XF9cU1I="
+    },
+    {
+      "id": "090",
+      "name": "0090",
+      "members": "enc1:XF9cUls="
+    },
+    {
+      "id": "091",
+      "name": "0091",
+      "members": "enc1:XF9cUlo="
+    },
+    {
+      "id": "092",
+      "name": "0092",
+      "members": "enc1:XF9cUlk="
+    },
+    {
+      "id": "093",
+      "name": "0093",
+      "members": "enc1:XF9cUlg="
+    },
+    {
+      "id": "094",
+      "name": "0094",
+      "members": "enc1:XF9cUl8="
+    },
+    {
+      "id": "095",
+      "name": "0095",
+      "members": "enc1:XF9cUl4="
+    },
+    {
+      "id": "096",
+      "name": "0096",
+      "members": "enc1:XF9cUl0="
+    },
+    {
+      "id": "097",
+      "name": "0097",
+      "members": "enc1:XF9cUlw="
+    },
+    {
+      "id": "098",
+      "name": "0098",
+      "members": "enc1:XF9cUlM="
+    },
+    {
+      "id": "099",
+      "name": "0099",
+      "members": "enc1:XF9cUlI="
+    },
+    {
+      "id": "100",
+      "name": "0100",
+      "members": "enc1:XF9dW1s="
+    },
+    {
+      "id": "101",
+      "name": "0101",
+      "members": "enc1:XF9dW1o="
+    },
+    {
+      "id": "102",
+      "name": "0102",
+      "members": "enc1:XF9dW1k="
+    },
+    {
+      "id": "103",
+      "name": "0103",
+      "members": "enc1:XF9dW1g="
+    },
+    {
+      "id": "104",
+      "name": "0104",
+      "members": "enc1:XF9dW18="
+    },
+    {
+      "id": "105",
+      "name": "0105",
+      "members": "enc1:XF9dW14="
+    },
+    {
+      "id": "106",
+      "name": "0106",
+      "members": "enc1:XF9dW10="
+    },
+    {
+      "id": "107",
+      "name": "0107",
+      "members": "enc1:XF9dW1w="
+    },
+    {
+      "id": "108",
+      "name": "0108",
+      "members": "enc1:XF9dW1M="
+    },
+    {
+      "id": "109",
+      "name": "0109",
+      "members": "enc1:XF9dW1I="
+    },
+    {
+      "id": "110",
+      "name": "0110",
+      "members": "enc1:XF9dWls="
+    },
+    {
+      "id": "111",
+      "name": "0111",
+      "members": "enc1:XF9dWlo="
+    },
+    {
+      "id": "112",
+      "name": "0112",
+      "members": "enc1:XF9dWlk="
+    },
+    {
+      "id": "113",
+      "name": "0113",
+      "members": "enc1:XF9dWlg="
+    },
+    {
+      "id": "114",
+      "name": "0114",
+      "members": "enc1:XF9dWl8="
+    },
+    {
+      "id": "115",
+      "name": "0115",
+      "members": "enc1:XF9dWl4="
+    },
+    {
+      "id": "116",
+      "name": "0116",
+      "members": "enc1:XF9dWl0="
+    },
+    {
+      "id": "117",
+      "name": "0117",
+      "members": "enc1:XF9dWlw="
+    },
+    {
+      "id": "118",
+      "name": "0118",
+      "members": "enc1:XF9dWlM="
+    },
+    {
+      "id": "119",
+      "name": "0119",
+      "members": "enc1:XF9dWlI="
+    },
+    {
+      "id": "120",
+      "name": "0120",
+      "members": "enc1:XF9dWVs="
+    },
+    {
+      "id": "121",
+      "name": "0121",
+      "members": "enc1:XF9dWVo="
+    },
+    {
+      "id": "122",
+      "name": "0122",
+      "members": "enc1:XF9dWVk="
+    },
+    {
+      "id": "123",
+      "name": "0123",
+      "members": "enc1:XF9dWVg="
+    },
+    {
+      "id": "124",
+      "name": "0124",
+      "members": "enc1:XF9dWV8="
+    },
+    {
+      "id": "125",
+      "name": "0125",
+      "members": "enc1:XF9dWV4="
+    },
+    {
+      "id": "126",
+      "name": "0126",
+      "members": "enc1:XF9dWV0="
+    },
+    {
+      "id": "127",
+      "name": "0127",
+      "members": "enc1:XF9dWVw="
+    },
+    {
+      "id": "128",
+      "name": "0128",
+      "members": "enc1:XF9dWVM="
+    }
+  ],
   "eventPeriodStart": "2026-09-10T12:40",
   "eventPeriodEnd": "2026-09-12T12:40",
   "receptionPw": "1111",
@@ -355,6 +996,6 @@
       "pos": "bottom"
     }
   },
-  "folderName": "",
-  "publishedAt": "2026-09-10T03:49:10.123Z"
+  "folderName": "テンプレ",
+  "publishedAt": "2026-09-10T03:54:10.906Z"
 }
