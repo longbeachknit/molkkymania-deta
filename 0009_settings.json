@@ -7,9 +7,245 @@
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1hAnbbf4vn6FDpOnLO78OD8fXam21v2GAw4DK420hKcc/edit?usp=sharing",
   "priority": "tournament",
   "matchType": "singles",
-  "matchRules": [],
-  "tourneyRules": [],
-  "roundRules": [],
+  "matchRules": [
+    {
+      "code": "01",
+      "name": "一次予選①",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "02",
+      "name": "一次予選②",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "03",
+      "name": "一次予選③",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "04",
+      "name": "二次予選",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "05",
+      "name": "第1試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "06",
+      "name": "第2試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "07",
+      "name": "第3試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "08",
+      "name": "第4試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "09",
+      "name": "第5試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "10",
+      "name": "第6試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "11",
+      "name": "第7試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    }
+  ],
+  "tourneyRules": [
+    {
+      "code": "00",
+      "name": "",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "01",
+      "name": "",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "02",
+      "name": "決勝トーナメント",
+      "fmt": "best3",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "03",
+      "name": "Bトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    },
+    {
+      "code": "04",
+      "name": "Lトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 1,
+      "playerMax": 1
+    }
+  ],
+  "roundRules": [
+    {
+      "matchCode": "05",
+      "tourneyCode": "02",
+      "round": "1回戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "02",
+      "round": "2回戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "02",
+      "round": "3回戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "02",
+      "round": "4回戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "09",
+      "tourneyCode": "02",
+      "round": "準決勝",
+      "prio": ""
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "03",
+      "round": "1回戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "03",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "03",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "03",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "09",
+      "tourneyCode": "03",
+      "round": "準決勝",
+      "prio": ""
+    },
+    {
+      "matchCode": "10",
+      "tourneyCode": "03",
+      "round": "決勝、3決",
+      "prio": ""
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "04",
+      "round": "1回戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "04",
+      "round": "2回戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "10",
+      "tourneyCode": "02",
+      "round": "決勝、3決",
+      "prio": ""
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "04",
+      "round": "3回戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "09",
+      "tourneyCode": "04",
+      "round": "4回戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "10",
+      "tourneyCode": "04",
+      "round": "準決勝",
+      "prio": ""
+    },
+    {
+      "matchCode": "11",
+      "tourneyCode": "04",
+      "round": "決勝",
+      "prio": ""
+    }
+  ],
   "teams": [],
   "eventPeriodStart": "2026-09-13T08:30",
   "eventPeriodEnd": "2026-09-13T18:30",
@@ -23,7 +259,139 @@
     "count": 0,
     "games": []
   },
-  "systemChart": null,
+  "systemChart": {
+    "enabled": true,
+    "cornerLabel": "",
+    "prelims": [
+      "一次予選①",
+      "一次予選②",
+      "一次予選③",
+      {
+        "name": "二次予選",
+        "span": 1,
+        "color": "green",
+        "offset": 1
+      }
+    ],
+    "rowLabels": [
+      "第1試合",
+      "第2試合",
+      "第3試合",
+      "第4試合",
+      "第5試合",
+      "第6試合",
+      "第7試合"
+    ],
+    "legend": [
+      {
+        "label": "表裏",
+        "color": "gray"
+      },
+      {
+        "label": "3先",
+        "color": "pink"
+      },
+      {
+        "label": "2先",
+        "color": "green"
+      },
+      {
+        "label": "3ソロ2先",
+        "color": "yellow"
+      }
+    ],
+    "columns": [
+      {
+        "name": "決勝\\nトーナメント",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "準決勝",
+          "決勝・3決"
+        ]
+      },
+      {
+        "name": "Lトーナメント",
+        "startRow": 1,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "準決勝",
+          "決勝"
+        ]
+      },
+      {
+        "name": "Bトーナメント",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "準決勝",
+          "決勝・3決"
+        ]
+      }
+    ],
+    "colors": {
+      "決勝\\nトーナメント": "pink",
+      "Lトーナメント": "green",
+      "Bトーナメント": "green"
+    },
+    "loseArrows": {
+      "決勝\\nトーナメント@0": true,
+      "Bトーナメント@0": true
+    },
+    "loseTo": {
+      "決勝\\nトーナメント@0": "Lトーナメント@2",
+      "Bトーナメント@0": "Lトーナメント@1"
+    },
+    "links": [
+      {
+        "from": "予選@2",
+        "to": "決勝\\nトーナメント@0",
+        "kind": "plain",
+        "label": "1〜32位"
+      },
+      {
+        "from": "予選@2",
+        "to": "予選@3",
+        "kind": "plain",
+        "label": "※33〜96位"
+      },
+      {
+        "from": "予選@2",
+        "to": "Bトーナメント@0",
+        "kind": "plain",
+        "label": "97位以下"
+      },
+      {
+        "from": "予選@3",
+        "to": "決勝\\nトーナメント@0",
+        "kind": "plain",
+        "label": "勝ち"
+      },
+      {
+        "from": "予選@3",
+        "to": "Bトーナメント@0",
+        "kind": "lose",
+        "ci": 0,
+        "label": "負け"
+      }
+    ],
+    "autoLose": false,
+    "cellColors": {
+      "Lトーナメント@6": "yellow"
+    }
+  },
   "venue": {
     "code": "01",
     "name": "川崎",
@@ -59,5 +427,5 @@
     }
   },
   "folderName": "",
-  "publishedAt": "2026-09-10T16:44:03.748Z"
+  "publishedAt": "2026-09-10T16:45:48.031Z"
 }
