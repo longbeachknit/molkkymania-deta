@@ -246,7 +246,648 @@
       "prio": ""
     }
   ],
-  "teams": [],
+  "teams": [
+    {
+      "id": "001",
+      "name": "コバ",
+      "members": "enc1:iN/jjfXuy9ziiNbj"
+    },
+    {
+      "id": "002",
+      "name": "ふく_1",
+      "members": "enc1:isnjjP/Jy97VhM/Y"
+    },
+    {
+      "id": "003",
+      "name": "齊藤昌也",
+      "members": "enc1:hNLmg/zdy/DlidDr"
+    },
+    {
+      "id": "004",
+      "name": "餃子",
+      "members": "enc1:iN7dj9PyyOfGiOTjlti9"
+    },
+    {
+      "id": "005",
+      "name": "まさきっ",
+      "members": "enc1:hPrbg9vOyN/0hPLxltiO"
+    },
+    {
+      "id": "006",
+      "name": "つな",
+      "members": "enc1:iN/jj9L8ydf0hPLwl86m"
+    },
+    {
+      "id": "007",
+      "name": "sho16",
+      "members": "enc1:i/L9jP/Jytf9idH0lem6"
+    },
+    {
+      "id": "008",
+      "name": "宮内幸雄",
+      "members": "enc1:iMHCju38yNHRhPLw"
+    },
+    {
+      "id": "009",
+      "name": "コモリヤ",
+      "members": "enc1:iN/jjcjXxdjeiMzc"
+    },
+    {
+      "id": "010",
+      "name": "あきお",
+      "members": "enc1:idfBju38y/Dniv3D"
+    },
+    {
+      "id": "011",
+      "name": "バシジュン",
+      "members": "enc1:hMT0jcLyytz9idH0"
+    },
+    {
+      "id": "012",
+      "name": "Dio",
+      "members": "enc1:hOfYjffRys/piv3D"
+    },
+    {
+      "id": "013",
+      "name": "レント",
+      "members": "enc1:idL8iOv8y/TBi9XXlMq5"
+    },
+    {
+      "id": "014",
+      "name": "ますい",
+      "members": "enc1:hef3j9Hsy9XNi/Dr"
+    },
+    {
+      "id": "015",
+      "name": "ウエちゃん",
+      "members": "enc1:idfmguz3ytf9"
+    },
+    {
+      "id": "016",
+      "name": "げんッ",
+      "members": "enc1:idfBjfboyO3q"
+    },
+    {
+      "id": "017",
+      "name": "Ankkaさわでぃーか",
+      "members": "enc1:i9HIjP/JyMzOiPv4"
+    },
+    {
+      "id": "018",
+      "name": "ヤマ",
+      "members": "enc1:iN7dhMPoydfjiM3emvaj"
+    },
+    {
+      "id": "019",
+      "name": "KŪMA",
+      "members": "enc1:ivvcjO3zyPTE"
+    },
+    {
+      "id": "020",
+      "name": "お風呂の王様@高野",
+      "members": "enc1:hMT0guz3yvjg"
+    },
+    {
+      "id": "021",
+      "name": "あん1887",
+      "members": "enc1:iMHlg/zdysrOi9zD"
+    },
+    {
+      "id": "022",
+      "name": "ケント",
+      "members": "enc1:idfBjfboyOnMidPO"
+    },
+    {
+      "id": "023",
+      "name": "コーセー",
+      "members": "enc1:iOnpg/zdyNLei+Hk"
+    },
+    {
+      "id": "024",
+      "name": "ヨム",
+      "members": "enc1:iN/jguz3xPPthMrv"
+    },
+    {
+      "id": "025",
+      "name": "コンサドーレサウナ部",
+      "members": "enc1:iM37g9vOxPPshOjn"
+    },
+    {
+      "id": "026",
+      "name": "みゆき",
+      "members": "enc1:iMHlg/zdytbniv3Fld2U"
+    },
+    {
+      "id": "027",
+      "name": "ノブ",
+      "members": "enc1:iMHlg/zdydfIi/H6"
+    },
+    {
+      "id": "028",
+      "name": "ヨシ",
+      "members": "enc1:hd3NjuL0ytbAiObG"
+    },
+    {
+      "id": "029",
+      "name": "とみー",
+      "members": "enc1:it/7jfLDydH2"
+    },
+    {
+      "id": "030",
+      "name": "どい",
+      "members": "enc1:iPPzj9Hsy8XKiMTp"
+    },
+    {
+      "id": "031",
+      "name": "カザミ",
+      "members": "enc1:ivDfj9HsxMrBiOz9"
+    },
+    {
+      "id": "032",
+      "name": "雨宮 美智代",
+      "members": "enc1:hPTEjsXXytbni/DOl86O"
+    },
+    {
+      "id": "033",
+      "name": "部屋のスミス",
+      "members": "enc1:iNnnjP/Jy+vuidL/"
+    },
+    {
+      "id": "034",
+      "name": "ナッチャン",
+      "members": "enc1:idPmg/zdyMzmiM3T"
+    },
+    {
+      "id": "035",
+      "name": "jaja｜カクシトイスタ貝塚",
+      "members": "enc1:i/fJjtzkxdvLidL/"
+    },
+    {
+      "id": "036",
+      "name": "くわ",
+      "members": "enc1:i879juXmydTRhdXp"
+    },
+    {
+      "id": "037",
+      "name": "武",
+      "members": "enc1:i87wj9Hsy8XPiNTS"
+    },
+    {
+      "id": "038",
+      "name": "fumi",
+      "members": "enc1:idfnjfboy+Hfitf6lti9"
+    },
+    {
+      "id": "039",
+      "name": "おっく",
+      "members": "enc1:iMrJjfboyNjzidD/"
+    },
+    {
+      "id": "040",
+      "name": "りょうすけ",
+      "members": "enc1:idfBjfboydLHidL/"
+    },
+    {
+      "id": "041",
+      "name": "TP",
+      "members": "enc1:idL8iOv8y/TBi+Lnluak"
+    },
+    {
+      "id": "042",
+      "name": "さち",
+      "members": "enc1:iMvLjsrjys3MidLX"
+    },
+    {
+      "id": "043",
+      "name": "たちぃ",
+      "members": "enc1:ivDfjP/Jy/HGiMTk"
+    },
+    {
+      "id": "044",
+      "name": "菅原 賢",
+      "members": "enc1:heDpjuXmxdvL"
+    },
+    {
+      "id": "045",
+      "name": "ホシノ",
+      "members": "enc1:i/fzguz3ys35iObM"
+    },
+    {
+      "id": "046",
+      "name": "ばたはち",
+      "members": "enc1:i93fjMDWDYHw1Y3OyQ=="
+    },
+    {
+      "id": "047",
+      "name": "フジイ",
+      "members": "enc1:hfjIj9Hsy+rJhdvA"
+    },
+    {
+      "id": "048",
+      "name": "やまぴろ",
+      "members": "enc1:iN7dj9Pyy93AiNH4"
+    },
+    {
+      "id": "049",
+      "name": "バイキング",
+      "members": "enc1:hfjIj9HsyNLei8TX"
+    },
+    {
+      "id": "050",
+      "name": "ひできち",
+      "members": "enc1:i9/Uj9HsxePYi8HN"
+    },
+    {
+      "id": "051",
+      "name": "ばんばーす",
+      "members": "enc1:ivrGjsvNy9L5iM3e"
+    },
+    {
+      "id": "052",
+      "name": "koma",
+      "members": "enc1:iN/jjfbHyOzDi//j"
+    },
+    {
+      "id": "053",
+      "name": "ホリホリ",
+      "members": "enc1:iM/sju38xPPtiM3e"
+    },
+    {
+      "id": "054",
+      "name": "しん",
+      "members": "enc1:ivvWjP/JyvT2iPnK"
+    },
+    {
+      "id": "055",
+      "name": "ししとな",
+      "members": "enc1:i8zCju7yyPvg"
+    },
+    {
+      "id": "056",
+      "name": "てつや",
+      "members": "enc1:iOnpjsv5yPvbidDr"
+    },
+    {
+      "id": "057",
+      "name": "じょー",
+      "members": "enc1:heDpjuXmydDh"
+    },
+    {
+      "id": "058",
+      "name": "いわちゃん",
+      "members": "enc1:iN3Fj9Pyydb4hdXpmtS4"
+    },
+    {
+      "id": "059",
+      "name": "むつき",
+      "members": "enc1:i9DdjfbHy/DEiPbO"
+    },
+    {
+      "id": "060",
+      "name": "カズ",
+      "members": "enc1:heDmjvfJyPrliNDM"
+    },
+    {
+      "id": "061",
+      "name": "こじま",
+      "members": "enc1:iMvLjtjPy+P6idDr"
+    },
+    {
+      "id": "062",
+      "name": "dxcテクノロジージャパン",
+      "members": "enc1:iMvLjcLyytbni/X8"
+    },
+    {
+      "id": "063",
+      "name": "Kuriking",
+      "members": "enc1:i8/7jvT3y8XKi/Xj"
+    },
+    {
+      "id": "064",
+      "name": "やま",
+      "members": "enc1:iN7djt/3yNbQ"
+    },
+    {
+      "id": "065",
+      "name": "しゅん",
+      "members": "enc1:hNLng/zdyNvS"
+    },
+    {
+      "id": "066",
+      "name": "Kyobashi-Atsumi",
+      "members": "enc1:i9fJjNX3yOfiiP3b"
+    },
+    {
+      "id": "067",
+      "name": "よう",
+      "members": "enc1:i9Hog9vOyvny"
+    },
+    {
+      "id": "068",
+      "name": "ざわ",
+      "members": "enc1:ivDfjdXdyO/l"
+    },
+    {
+      "id": "069",
+      "name": "スズケン",
+      "members": "enc1:hOfYjffRyOnMiM3emvaj"
+    },
+    {
+      "id": "070",
+      "name": "田中凱也",
+      "members": "enc1:ivvcj9PUyO/YidDr"
+    },
+    {
+      "id": "071",
+      "name": "信玄",
+      "members": "enc1:isjnjP/JyOnMiObG"
+    },
+    {
+      "id": "072",
+      "name": "どらごん",
+      "members": "enc1:i9bDjffVxPLviM3e"
+    },
+    {
+      "id": "073",
+      "name": "るふ〜",
+      "members": "enc1:iODIjP/JyMXP"
+    },
+    {
+      "id": "074",
+      "name": "meg.",
+      "members": "enc1:iN/jjtzky+nc"
+    },
+    {
+      "id": "075",
+      "name": "かね",
+      "members": "enc1:hOj9jvT3yubb"
+    },
+    {
+      "id": "076",
+      "name": "TOMO@BR",
+      "members": "enc1:iN7djuTayOfiiNXs"
+    },
+    {
+      "id": "077",
+      "name": "すずか",
+      "members": "enc1:ivDfj9HsxeLYi8vc"
+    },
+    {
+      "id": "078",
+      "name": "じゃっきー",
+      "members": "enc1:iN/jjfbHwsD4idPal8yy"
+    },
+    {
+      "id": "079",
+      "name": "たくみ",
+      "members": "enc1:iN/jjc/yyOTJ"
+    },
+    {
+      "id": "080",
+      "name": "くりす",
+      "members": "enc1:i8/7jcvvyPrliM3T"
+    },
+    {
+      "id": "081",
+      "name": "タケトラ",
+      "members": "enc1:idX5j9PzyOHyiNbj"
+    },
+    {
+      "id": "082",
+      "name": "らいと",
+      "members": "enc1:i/ncjfboxcTwi8XV"
+    },
+    {
+      "id": "083",
+      "name": "ジュリ",
+      "members": "enc1:idfsjfbwyufJhO74"
+    },
+    {
+      "id": "084",
+      "name": "ゆめこ",
+      "members": "enc1:i9/Yguz3yMzLiMTk"
+    },
+    {
+      "id": "085",
+      "name": "熱燗619",
+      "members": "enc1:isTVju38xePYhdXg"
+    },
+    {
+      "id": "086",
+      "name": "すみ",
+      "members": "enc1:hcj+jffVyPrliObG"
+    },
+    {
+      "id": "087",
+      "name": "くっちゃん",
+      "members": "enc1:iNDRgunayNraiNbj"
+    },
+    {
+      "id": "088",
+      "name": "ミルカ",
+      "members": "enc1:juz0iOndzuvqjuvZkPag0bOB1u7wj+jAmq/D"
+    },
+    {
+      "id": "089",
+      "name": "かっちゃん",
+      "members": "enc1:ivDfjP/JyOP0i/D3"
+    },
+    {
+      "id": "090",
+      "name": "ふく_2",
+      "members": "enc1:idfnjfboys7miM3emvaj"
+    },
+    {
+      "id": "091",
+      "name": "キコ",
+      "members": "enc1:ivbRjtrIyPrlhdXp"
+    },
+    {
+      "id": "092",
+      "name": "ぜきお",
+      "members": "enc1:iN/jgv3byNjvidPO"
+    },
+    {
+      "id": "093",
+      "name": "かわい",
+      "members": "enc1:i93fjvvxydLHiPv4"
+    },
+    {
+      "id": "094",
+      "name": "楽響・山口",
+      "members": "enc1:iN7djuTay/3FiObG"
+    },
+    {
+      "id": "095",
+      "name": "なかはた",
+      "members": "enc1:idfBjP7ZytbAidD/"
+    },
+    {
+      "id": "096",
+      "name": "ゆーき5",
+      "members": "enc1:idfBjfboydX4hdXp"
+    },
+    {
+      "id": "097",
+      "name": "まっすー",
+      "members": "enc1:iOLrjtzky9/a"
+    },
+    {
+      "id": "098",
+      "name": "タカ",
+      "members": "enc1:idfnjtzkxPLviNDM"
+    },
+    {
+      "id": "099",
+      "name": "INO",
+      "members": "enc1:idPmguz3xP7i"
+    },
+    {
+      "id": "100",
+      "name": "ケニー",
+      "members": "enc1:iPTRg83yy/3FidP4"
+    },
+    {
+      "id": "101",
+      "name": "完ちゃん",
+      "members": "enc1:iMvLjsv5y/TiiNXs"
+    },
+    {
+      "id": "102",
+      "name": "カイボーイ",
+      "members": "enc1:isfCjP/Jy93e"
+    },
+    {
+      "id": "103",
+      "name": "しゅうや",
+      "members": "enc1:ivDfjtzky/fjivbW"
+    },
+    {
+      "id": "104",
+      "name": "うえだ",
+      "members": "enc1:idfmjP/Jytz9iv3r"
+    },
+    {
+      "id": "105",
+      "name": "そーちゃん",
+      "members": "enc1:idfmjuzDyOHciM3T"
+    },
+    {
+      "id": "106",
+      "name": "リエコ",
+      "members": "enc1:idL8iOv8y/TBivnylfSY152i"
+    },
+    {
+      "id": "107",
+      "name": "うぃる",
+      "members": "enc1:ivDfjffVyOnMiMrfmvaj"
+    },
+    {
+      "id": "108",
+      "name": "オカジ",
+      "members": "enc1:iN3NjffVyMzOidL/"
+    },
+    {
+      "id": "109",
+      "name": "ゴンザレス",
+      "members": "enc1:iO/ljP/JydX4ivXr"
+    },
+    {
+      "id": "110",
+      "name": "たくてぃ〜",
+      "members": "enc1:ivvcj9PUyvjLi//j"
+    },
+    {
+      "id": "111",
+      "name": "リン",
+      "members": "enc1:i/H7jM7pydPi"
+    },
+    {
+      "id": "112",
+      "name": "お風呂の王様@もりや",
+      "members": "enc1:i8zCg9vOyMzO"
+    },
+    {
+      "id": "113",
+      "name": "じぇぴ☆",
+      "members": "enc1:iN7djuTaxMjviNDH"
+    },
+    {
+      "id": "114",
+      "name": "ゆーーだい",
+      "members": "enc1:idfmjtLKxPPtiM3T"
+    },
+    {
+      "id": "115",
+      "name": "サフィ",
+      "members": "enc1:iP/ljP/JydDpiM3f"
+    },
+    {
+      "id": "116",
+      "name": "ひんがし",
+      "members": "enc1:i/Ldj9TXyOfR"
+    },
+    {
+      "id": "117",
+      "name": "yamato",
+      "members": "enc1:hPnsjP/JyO3siNXs"
+    },
+    {
+      "id": "118",
+      "name": "スギタカ",
+      "members": "enc1:i/Lljt/3xPLv"
+    },
+    {
+      "id": "119",
+      "name": "Kapula2",
+      "members": "enc1:iNjxgvH8y8XKiODz"
+    },
+    {
+      "id": "120",
+      "name": "kage",
+      "members": "enc1:iMvGjP/Jy/Dli/Db"
+    },
+    {
+      "id": "121",
+      "name": "ウッチャン",
+      "members": "enc1:iOnpjP/Jxej8iNDH"
+    },
+    {
+      "id": "122",
+      "name": "おちゃまる。",
+      "members": "enc1:hf/RjvvxyOHy"
+    },
+    {
+      "id": "123",
+      "name": "古田優弥",
+      "members": "enc1:iODIjP/JyOzDiNXR"
+    },
+    {
+      "id": "124",
+      "name": "諏訪部太陽",
+      "members": "enc1:hcTjg8PTxOvBiM3emuyQ"
+    },
+    {
+      "id": "125",
+      "name": "けん",
+      "members": "enc1:iM/sjP/JyOnMiM3emvaj"
+    },
+    {
+      "id": "126",
+      "name": "たかはし",
+      "members": "enc1:hMT0jcLyxdvLiNXs"
+    },
+    {
+      "id": "127",
+      "name": "Satoshi",
+      "members": "enc1:idL8guz3yO3Fhc/i"
+    },
+    {
+      "id": "128",
+      "name": "運営",
+      "members": "enc1:LA=="
+    }
+  ],
   "eventPeriodStart": "2026-09-13T08:30",
   "eventPeriodEnd": "2026-09-13T18:30",
   "receptionPw": "0041",
@@ -427,5 +1068,5 @@
     }
   },
   "folderName": "",
-  "publishedAt": "2026-09-10T16:45:48.031Z"
+  "publishedAt": "2026-09-10T17:09:37.655Z"
 }
