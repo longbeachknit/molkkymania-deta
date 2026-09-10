@@ -2,7 +2,7 @@
   "venueCode": "01",
   "eventCode": "0009",
   "eventName": "Mölkky Mania -SINGLES- vol.2",
-  "displayName": "Mölkky Mania\n-SINGLES- vol.2",
+  "displayName": "Mölkky Mania -SINGLES- vol.2",
   "gasUrl": "https://script.google.com/macros/s/AKfycbwIUnOV10tRjUro2XJewjiyBVSPI4-PprfBTgqV01VyeEakyWrMLi6lk9khjJnjNt8UDw/exec",
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1hAnbbf4vn6FDpOnLO78OD8fXam21v2GAw4DK420hKcc/edit?usp=sharing",
   "priority": "tournament",
@@ -1068,5 +1068,5 @@
     }
   },
   "folderName": "",
-  "publishedAt": "2026-09-10T17:23:18.635Z"
+  "publishedAt": "2026-09-10T17:25:08.595Z"
 }
