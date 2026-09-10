@@ -1,10 +1,207 @@
 {
-  "updatedAt": "2026-09-10T03:50:52.366Z",
+  "updatedAt": "2026-09-10T03:58:09.340Z",
   "eventCode": "9995",
   "title": "決勝トーナメント",
   "rounds": [
     {
       "name": "1回戦選手名",
+      "matches": [
+        {
+          "team1": "0001",
+          "team2": "0065",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0032",
+          "team2": "0033",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0017",
+          "team2": "0081",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0016",
+          "team2": "0049",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0009",
+          "team2": "0073",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0024",
+          "team2": "0041",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0025",
+          "team2": "0089",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0008",
+          "team2": "0057",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0005",
+          "team2": "0069",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0028",
+          "team2": "0037",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0021",
+          "team2": "0085",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0012",
+          "team2": "0053",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0013",
+          "team2": "0077",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0020",
+          "team2": "0045",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0029",
+          "team2": "0093",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0004",
+          "team2": "0061",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0003",
+          "team2": "0067",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0030",
+          "team2": "0035",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0019",
+          "team2": "0083",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0014",
+          "team2": "0051",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0011",
+          "team2": "0075",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0022",
+          "team2": "0043",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0027",
+          "team2": "0091",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0006",
+          "team2": "0059",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0007",
+          "team2": "0071",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0026",
+          "team2": "0039",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0023",
+          "team2": "0087",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0010",
+          "team2": "0055",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0015",
+          "team2": "0079",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0018",
+          "team2": "0047",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0031",
+          "team2": "0095",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0002",
+          "team2": "0063",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "2回戦選手名",
       "matches": [
         {
           "team1": "0001",
@@ -105,7 +302,7 @@
       ]
     },
     {
-      "name": "2回戦選手名",
+      "name": "3回戦選手名",
       "matches": [
         {
           "team1": "0001",
@@ -158,7 +355,7 @@
       ]
     },
     {
-      "name": "3回戦選手名",
+      "name": "4回戦選手名",
       "matches": [
         {
           "team1": "0001",
@@ -210,7 +407,7 @@
           "team1": "0001",
           "team2": "0003",
           "win1": false,
-          "win2": false
+          "win2": true
         }
       ]
     }
