@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T02:01:03.624Z",
+  "updatedAt": "2026-09-12T03:32:17.469Z",
   "eventCode": "0008",
   "rounds": [
     {
@@ -8,192 +8,310 @@
         {
           "team1": "Team.SSS",
           "team2": "ABURI",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "AMICUS",
           "team2": "ソードアートナオポン",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "26年度新任センター長実地研修",
           "team2": "LAB Molkky",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "上郷高校モルック部A",
           "team2": "Z-ÖNE S.A.R",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ＹＭ2",
           "team2": "みぞのくちMC-Ｂ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "雄丈",
           "team2": "池袋ウッドペッカーズ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "TEEEs",
           "team2": "ツナキング",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "べる",
           "team2": "U&I",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "プイモル",
           "team2": "モルックSP_A",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "マッチャンヨッチャン",
           "team2": "さとみぃ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "stake",
           "team2": "勝ったらアイス食べる",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "フラモル協会",
           "team2": "N.e.w",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "カブパンコ",
           "team2": "関東藩士モルッカーズ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "CRL",
           "team2": "オリテン3",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "バンコク日本人学校OB",
           "team2": "THP",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Team N",
           "team2": "pöchicom",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "うどんバーガー",
           "team2": "Kiitti-F.S.S",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "SAKURAN333 いろどりマヨネーズ",
           "team2": "Wood Emperor",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ゆーれん",
           "team2": "びーがた",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "AMSウッドペッカーズ",
           "team2": "ろぺた",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "村田と菅原",
           "team2": "楽響 powered by NTTドコモビジネスエンジニアリング",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "助ーク",
           "team2": "m&a",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "サザン・リーフ",
           "team2": "ブルートップ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "温故chee!新",
           "team2": "Rizak",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "あきおっく",
           "team2": "hauska",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ミート侍®️",
           "team2": "しゅがーず",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "たのchee!",
           "team2": "moekab",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ERDINGER's",
           "team2": "イワチャンナッチャン",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "婆爺梨酢喰",
           "team2": "ちゃおちゃお",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "WARABY",
+          "team2": "龍乃",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "野良えもん",
+          "team2": "北千住フジイペッカーズ",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "城北HRD JAF",
+          "team2": "モルームズ・カム・トゥルー",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "Team.SSS",
+          "team2": "ソードアートナオポン",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "26年度新任センター長実地研修",
+          "team2": "Z-ÖNE S.A.R",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "みぞのくちMC-Ｂ",
+          "team2": "池袋ウッドペッカーズ",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ツナキング",
+          "team2": "べる",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "プイモル",
+          "team2": "マッチャンヨッチャン",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "stake",
+          "team2": "N.e.w",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "カブパンコ",
+          "team2": "オリテン3",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "バンコク日本人学校OB",
+          "team2": "pöchicom",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "うどんバーガー",
+          "team2": "SAKURAN333 いろどりマヨネーズ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ゆーれん",
+          "team2": "ろぺた",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "村田と菅原",
+          "team2": "m&a",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "サザン・リーフ",
+          "team2": "Rizak",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "あきおっく",
+          "team2": "ミート侍®️",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "たのchee!",
+          "team2": "イワチャンナッチャン",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ちゃおちゃお",
           "team2": "龍乃",
           "win1": false,
           "win2": false
         },
         {
           "team1": "野良えもん",
-          "team2": "北千住フジイペッカーズ",
+          "team2": "城北HRD JAF",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "3回戦",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "城北HRD JAF",
-          "team2": "モルームズ・カム・トゥルー",
+          "team1": "池袋ウッドペッカーズ",
+          "team2": "",
           "win1": false,
           "win2": false
         }
