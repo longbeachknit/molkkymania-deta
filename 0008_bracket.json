@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T03:32:17.469Z",
+  "updatedAt": "2026-09-12T10:26:03.312Z",
   "eventCode": "0008",
   "rounds": [
     {
@@ -206,13 +206,13 @@
           "team1": "Team.SSS",
           "team2": "ソードアートナオポン",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "26年度新任センター長実地研修",
           "team2": "Z-ÖNE S.A.R",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "みぞのくちMC-Ｂ",
@@ -224,78 +224,78 @@
           "team1": "ツナキング",
           "team2": "べる",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "プイモル",
           "team2": "マッチャンヨッチャン",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "stake",
           "team2": "N.e.w",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "カブパンコ",
           "team2": "オリテン3",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "バンコク日本人学校OB",
           "team2": "pöchicom",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "うどんバーガー",
           "team2": "SAKURAN333 いろどりマヨネーズ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ゆーれん",
           "team2": "ろぺた",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "村田と菅原",
           "team2": "m&a",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "サザン・リーフ",
           "team2": "Rizak",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "あきおっく",
           "team2": "ミート侍®️",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "たのchee!",
           "team2": "イワチャンナッチャン",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ちゃおちゃお",
           "team2": "龍乃",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "野良えもん",
           "team2": "城北HRD JAF",
-          "win1": false,
+          "win1": true,
           "win2": false
         }
       ]
@@ -304,16 +304,109 @@
       "name": "3回戦",
       "matches": [
         {
-          "team1": "",
-          "team2": "",
+          "team1": "ソードアートナオポン",
+          "team2": "Z-ÖNE S.A.R",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "池袋ウッドペッカーズ",
-          "team2": "",
+          "team2": "べる",
           "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "プイモル",
+          "team2": "N.e.w",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "カブパンコ",
+          "team2": "バンコク日本人学校OB",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "SAKURAN333 いろどりマヨネーズ",
+          "team2": "ゆーれん",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "村田と菅原",
+          "team2": "サザン・リーフ",
+          "win1": true,
           "win2": false
+        },
+        {
+          "team1": "あきおっく",
+          "team2": "イワチャンナッチャン",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "龍乃",
+          "team2": "野良えもん",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "4回戦",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "べる",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "N.e.w",
+          "team2": "バンコク日本人学校OB",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ゆーれん",
+          "team2": "村田と菅原",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "あきおっく",
+          "team2": "野良えもん",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "Z-ÖNE S.A.R",
+          "team2": "N.e.w",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ゆーれん",
+          "team2": "あきおっく",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "決勝",
+      "matches": [
+        {
+          "team1": "Z-ÖNE S.A.R",
+          "team2": "あきおっく",
+          "win1": false,
+          "win2": true
         }
       ]
     }
