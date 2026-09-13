@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T03:05:50.354Z",
+  "updatedAt": "2026-09-13T04:06:27.411Z",
   "eventCode": "0009",
   "title": "決勝トーナメント",
   "rounds": [
@@ -206,95 +206,148 @@
         {
           "team1": "レント",
           "team2": "Ankkaさわでぃーか",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "TP",
           "team2": "おちゃまる。",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "コバ",
           "team2": "むつき",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "げんッ",
           "team2": "菅原 賢",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ウッチャン",
           "team2": "ざわ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ヨム",
           "team2": "くっちゃん",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "古田優弥",
           "team2": "しん",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "キコ",
           "team2": "かわい",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "どらごん",
           "team2": "すみ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "るふ〜",
           "team2": "カイボーイ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "タケトラ",
           "team2": "ばたはち",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "フジイ",
           "team2": "田中凱也",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ナッチャン",
           "team2": "あきお",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "おっく",
           "team2": "ホシノ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "いわちゃん",
           "team2": "ぜきお",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ゴンザレス",
+          "team2": "ひできち",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "3回戦選手名",
+      "matches": [
+        {
+          "team1": "レント",
+          "team2": "おちゃまる。",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "むつき",
+          "team2": "菅原 賢",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ざわ",
+          "team2": "ヨム",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "古田優弥",
+          "team2": "キコ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "どらごん",
+          "team2": "カイボーイ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ばたはち",
+          "team2": "田中凱也",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ナッチャン",
+          "team2": "ホシノ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "いわちゃん",
           "team2": "ひできち",
           "win1": false,
           "win2": false
