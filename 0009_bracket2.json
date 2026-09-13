@@ -1,0 +1,340 @@
+{
+  "updatedAt": "2026-09-13T03:01:19.231Z",
+  "eventCode": "0009",
+  "title": "Bトーナメント",
+  "rounds": [
+    {
+      "name": "1回戦選手名",
+      "matches": [
+        {
+          "team1": "みゆき",
+          "team2": "dxcテクノロジージャパン",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ゆーき5",
+          "team2": "熱燗619",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "てつや",
+          "team2": "ヨシ",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "まっすー",
+          "team2": "かね",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "jaja｜カクシトイスタ貝塚",
+          "team2": "お風呂の王様@もりや",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "くわ",
+          "team2": "すずか",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "fumi",
+          "team2": "さち",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "うえだ",
+          "team2": "宮内幸雄",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ケニー",
+          "team2": "楽響・山口",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ウエちゃん",
+          "team2": "リン",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "KaZ-Hero",
+          "team2": "たかはし",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "雨宮 美智代",
+          "team2": "やべのもち",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "オカジ",
+          "team2": "バイキング",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "マスラオ",
+          "team2": "なかはた",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ふく_1",
+          "team2": "Kyobashi-Atsumi",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ますい",
+          "team2": "とみー",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ひんがし",
+          "team2": "TOMO@BR",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "あん1887",
+          "team2": "やま",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "部屋のスミス",
+          "team2": "やまぴろ",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "お風呂の王様@高野",
+          "team2": "サフィ",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ゆーーだい",
+          "team2": "つな",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "信玄",
+          "team2": "Kapula2",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ノブ",
+          "team2": "yamato",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "じぇぴ☆",
+          "team2": "スズケン",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "meg.",
+          "team2": "カズ",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ふく_2",
+          "team2": "しゅうや",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "齊藤昌也",
+          "team2": "koma",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ジュリ",
+          "team2": "武",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "諏訪部太陽",
+          "team2": "たちぃ",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "Dio",
+          "team2": "とも",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "餃子",
+          "team2": "ししとな",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ミルカ",
+          "team2": "かっちゃん",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "2回戦選手名",
+      "matches": [
+        {
+          "team1": "dxcテクノロジージャパン",
+          "team2": "熱燗619",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ヨシ",
+          "team2": "まっすー",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "jaja｜カクシトイスタ貝塚",
+          "team2": "くわ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "fumi",
+          "team2": "宮内幸雄",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "楽響・山口",
+          "team2": "ウエちゃん",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "たかはし",
+          "team2": "やべのもち",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "オカジ",
+          "team2": "なかはた",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ふく_1",
+          "team2": "とみー",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ひんがし",
+          "team2": "あん1887",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "部屋のスミス",
+          "team2": "サフィ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ゆーーだい",
+          "team2": "信玄",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ノブ",
+          "team2": "スズケン",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "meg.",
+          "team2": "ふく_2",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "齊藤昌也",
+          "team2": "武",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "諏訪部太陽",
+          "team2": "とも",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ししとな",
+          "team2": "かっちゃん",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "3回戦選手名",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ひんがし",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    }
+  ]
+}
