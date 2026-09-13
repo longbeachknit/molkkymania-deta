@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T03:05:52.471Z",
+  "updatedAt": "2026-09-13T04:06:29.364Z",
   "eventCode": "0009",
   "title": "Bトーナメント",
   "rounds": [
@@ -207,7 +207,7 @@
           "team1": "dxcテクノロジージャパン",
           "team2": "熱燗619",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ヨシ",
@@ -218,26 +218,26 @@
         {
           "team1": "jaja｜カクシトイスタ貝塚",
           "team2": "くわ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "fumi",
           "team2": "宮内幸雄",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "楽響・山口",
           "team2": "ウエちゃん",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "たかはし",
           "team2": "やべのもち",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "オカジ",
@@ -249,7 +249,7 @@
           "team1": "ふく_1",
           "team2": "とみー",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ひんがし",
@@ -260,20 +260,20 @@
         {
           "team1": "部屋のスミス",
           "team2": "サフィ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ゆーーだい",
           "team2": "信玄",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ノブ",
           "team2": "スズケン",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "meg.",
@@ -285,7 +285,7 @@
           "team1": "齊藤昌也",
           "team2": "武",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "諏訪部太陽",
@@ -297,7 +297,7 @@
           "team1": "ししとな",
           "team2": "かっちゃん",
           "win1": false,
-          "win2": false
+          "win2": true
         }
       ]
     },
@@ -305,50 +305,79 @@
       "name": "3回戦選手名",
       "matches": [
         {
-          "team1": "",
+          "team1": "熱燗619",
           "team2": "ヨシ",
           "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "jaja｜カクシトイスタ貝塚",
+          "team2": "fumi",
+          "win1": true,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "楽響・山口",
+          "team2": "やべのもち",
           "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "",
-          "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "なかはた",
-          "team2": "",
+          "team2": "とみー",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ひんがし",
+          "team2": "部屋のスミス",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ゆーーだい",
+          "team2": "スズケン",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ふく_2",
+          "team2": "武",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "諏訪部太陽",
+          "team2": "かっちゃん",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "4回戦選手名",
+      "matches": [
+        {
+          "team1": "ヨシ",
+          "team2": "jaja｜カクシトイスタ貝塚",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "やべのもち",
+          "team2": "とみー",
           "win1": false,
           "win2": false
         },
         {
           "team1": "ひんがし",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "",
-          "team2": "",
+          "team2": "ゆーーだい",
           "win1": false,
           "win2": false
         },
         {
           "team1": "ふく_2",
-          "team2": "",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "諏訪部太陽",
-          "team2": "",
+          "team2": "かっちゃん",
           "win1": false,
           "win2": false
         }
