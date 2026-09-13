@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T03:01:19.231Z",
+  "updatedAt": "2026-09-13T03:05:52.471Z",
   "eventCode": "0009",
   "title": "Bトーナメント",
   "rounds": [
@@ -212,7 +212,7 @@
         {
           "team1": "ヨシ",
           "team2": "まっすー",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -243,7 +243,7 @@
           "team1": "オカジ",
           "team2": "なかはた",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ふく_1",
@@ -279,7 +279,7 @@
           "team1": "meg.",
           "team2": "ふく_2",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "齊藤昌也",
@@ -290,7 +290,7 @@
         {
           "team1": "諏訪部太陽",
           "team2": "とも",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -306,7 +306,7 @@
       "matches": [
         {
           "team1": "",
-          "team2": "",
+          "team2": "ヨシ",
           "win1": false,
           "win2": false
         },
@@ -323,13 +323,31 @@
           "win2": false
         },
         {
-          "team1": "",
+          "team1": "なかはた",
           "team2": "",
           "win1": false,
           "win2": false
         },
         {
           "team1": "ひんがし",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ふく_2",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "諏訪部太陽",
           "team2": "",
           "win1": false,
           "win2": false
