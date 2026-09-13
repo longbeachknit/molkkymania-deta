@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T04:06:29.364Z",
+  "updatedAt": "2026-09-13T06:16:08.039Z",
   "eventCode": "0009",
   "title": "Bトーナメント",
   "rounds": [
@@ -361,25 +361,53 @@
           "team1": "ヨシ",
           "team2": "jaja｜カクシトイスタ貝塚",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "やべのもち",
           "team2": "とみー",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ひんがし",
           "team2": "ゆーーだい",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ふく_2",
           "team2": "かっちゃん",
-          "win1": false,
+          "win1": true,
           "win2": false
+        }
+      ]
+    },
+    {
+      "name": "準決勝選手名",
+      "matches": [
+        {
+          "team1": "jaja｜カクシトイスタ貝塚",
+          "team2": "とみー",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ひんがし",
+          "team2": "ふく_2",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "決勝選手名",
+      "matches": [
+        {
+          "team1": "とみー",
+          "team2": "ふく_2",
+          "win1": false,
+          "win2": true
         }
       ]
     }
