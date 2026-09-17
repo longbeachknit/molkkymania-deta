@@ -9,6 +9,30 @@
   "matchType": "team",
   "matchRules": [
     {
+      "code": "01",
+      "name": "予選①",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "予選②",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "予選③",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
       "code": "04",
       "name": "予選④",
       "fmt": "round2",
@@ -44,30 +68,6 @@
       "code": "08",
       "name": "第4試合",
       "fmt": "best2",
-      "turnLimit": true,
-      "playerMin": 2,
-      "playerMax": 4
-    },
-    {
-      "code": "01",
-      "name": "予選①",
-      "fmt": "round2",
-      "turnLimit": true,
-      "playerMin": 2,
-      "playerMax": 4
-    },
-    {
-      "code": "02",
-      "name": "予選②",
-      "fmt": "round2",
-      "turnLimit": true,
-      "playerMin": 2,
-      "playerMax": 4
-    },
-    {
-      "code": "03",
-      "name": "予選③",
-      "fmt": "round2",
       "turnLimit": true,
       "playerMin": 2,
       "playerMax": 4
@@ -427,5 +427,5 @@
     }
   },
   "folderName": "大阪Season.1",
-  "publishedAt": "2026-09-17T05:33:10.736Z"
+  "publishedAt": "2026-09-17T05:34:25.238Z"
 }
