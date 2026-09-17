@@ -192,7 +192,108 @@
       "prio": ""
     }
   ],
-  "teams": [],
+  "teams": [
+    {
+      "id": "001",
+      "name": "夢色遊園地",
+      "members": "enc1:hMT1jt7lzun8jujckPSSHtSIoYji7Y7e6cX7x0GO3MGTsZ7ZqLOF0/FHjt27jfX/juT1kZaz"
+    },
+    {
+      "id": "002",
+      "name": "大阪パンダＴＹＨ",
+      "members": "enc1:i+fUjP/Jys/pi/HZX5Car9W9loXT8Y3DwAGM0cCP6eKRkKPYjqg="
+    },
+    {
+      "id": "003",
+      "name": "上研ゼミナールモルック部",
+      "members": "enc1:idfmguz3yOnMQY/Ey5yqvNWzkIjf6keDx5aB8ceM+NOTsZg="
+    },
+    {
+      "id": "004",
+      "name": "ONICHA （ ◜ω◝ )",
+      "members": "enc1:hM/kg9vODY7e3ozNwFnLrrnVod2GyvKMwLlEgdL4nOTRy5+W"
+    },
+    {
+      "id": "005",
+      "name": "チームグロッキー",
+      "members": "enc1:iMHkjtryydX4idPaX5Cdvdasoojo4ILw/AGM0OiOxcCcj5rYuIQ="
+    },
+    {
+      "id": "006",
+      "name": "GENNE1",
+      "members": "enc1:idfBg9XCy/DliMf7X5KLvdaumYjV247P3g=="
+    },
+    {
+      "id": "007",
+      "name": "Ankka_わいわいわい",
+      "members": "enc1:iM7Fg9vOy+rJidH0mvajHtm1u4vy/Y7v08XJykGMyOCQpLjVrpiJ1dY="
+    },
+    {
+      "id": "008",
+      "name": "青すぎるさつぴ",
+      "members": "enc1:hPLjiOr7zunjjujwX5yWoNaunYX+2YPK2gGO9cWP6eKWrKfTs5GO7uE="
+    },
+    {
+      "id": "009",
+      "name": "EARTH",
+      "members": "enc1:iMvLjcjXyM3BidD/X5Cbj9WDhIjjzEeN2oOM0/iP4fycrrw="
+    },
+    {
+      "id": "010",
+      "name": "1994",
+      "members": "enc1:idfBjP7ZytbAidD/X5Owu9aHk4jg3o3z9wGP4OqMxtKSirLUib4="
+    },
+    {
+      "id": "011",
+      "name": "とっとといく太郎",
+      "members": "enc1:iurLj9HsydLHQYD+652mt9Ozi47u+YjqzM7p1kGNzN6TsKPTs7eO7sSI6fk="
+    },
+    {
+      "id": "012",
+      "name": "ノリノリ軍団",
+      "members": "enc1:iO/lju76xOvoiNXRX5OAlNemhYjq5Y7SygGPysKO4MOQqZjVlpI="
+    },
+    {
+      "id": "013",
+      "name": "Flapping YM2",
+      "members": "enc1:ivvcj9PUyvzYiOHdlti9HtilkYr73IzV98jF+UGB+eGdnYXXjLuL7tmOxuk="
+    },
+    {
+      "id": "014",
+      "name": "AMörikka",
+      "members": "enc1:i93fjvvxydLHiPv4X5Ccg9emhY7u54jp887q+g=="
+    },
+    {
+      "id": "015",
+      "name": "二刀流",
+      "members": "enc1:i8zCjtvHys35idDrX5KGi9SKmIrq4I3x8A=="
+    },
+    {
+      "id": "016",
+      "name": "SQUARE",
+      "members": "enc1:i97zjtzkytz9iObMX526vdaumYXd2I/S8g=="
+    },
+    {
+      "id": "017",
+      "name": "Mörits_日本男児",
+      "members": "enc1:heDpjfboyNHRhdzDX5CnktilkYjLy43ywwGB7P+NzuaQiL3Vlq8="
+    },
+    {
+      "id": "018",
+      "name": "ばななベビー",
+      "members": "enc1:iN7djP/JyPrli8HNX5Ccg9emhYjLzkeOyJyP/d2O6OyQlb4c16XkiPjbg9q4jNTx"
+    },
+    {
+      "id": "019",
+      "name": "フーフーヒメの逆襲",
+      "members": "enc1:iObhjP/Jy836idTHX5OxmtavpIjIx4Pk1gGO9NOMxcKTiKHVl70="
+    },
+    {
+      "id": "020",
+      "name": "のんたん",
+      "members": "enc1:hcTjg8PTyNHQidPOX5y4hdaMkYnQwo/S5gGN9fKNzuaQqr4="
+    }
+  ],
   "eventPeriodStart": "2026-09-19T09:00",
   "eventPeriodEnd": "2026-09-19T18:00",
   "receptionPw": "2001",
@@ -325,6 +426,6 @@
       "pos": "bottom"
     }
   },
-  "folderName": "",
-  "publishedAt": "2026-09-17T05:19:17.240Z"
+  "folderName": "大阪Season.1",
+  "publishedAt": "2026-09-17T05:26:58.053Z"
 }
