@@ -192,7 +192,193 @@
       "prio": ""
     }
   ],
-  "teams": [],
+  "teams": [
+    {
+      "id": "001",
+      "name": "0001",
+      "members": "enc1:XF9cWkdLHVhY"
+    },
+    {
+      "id": "002",
+      "name": "0002",
+      "members": "enc1:XF9cWUdLHVhb"
+    },
+    {
+      "id": "003",
+      "name": "0003",
+      "members": "enc1:XF9cWEdLHVha"
+    },
+    {
+      "id": "004",
+      "name": "0004",
+      "members": "enc1:XF9cX0dLHVhd"
+    },
+    {
+      "id": "005",
+      "name": "0005",
+      "members": "enc1:XF9cXkdLHVhc"
+    },
+    {
+      "id": "006",
+      "name": "0006",
+      "members": "enc1:XF9cXUdLHVhf"
+    },
+    {
+      "id": "007",
+      "name": "0007",
+      "members": "enc1:XF9cXEdLHVhe"
+    },
+    {
+      "id": "008",
+      "name": "0008",
+      "members": "enc1:XF9cU0dLHVhR"
+    },
+    {
+      "id": "009",
+      "name": "0009",
+      "members": "enc1:XF9cUkdLHVhQ"
+    },
+    {
+      "id": "010",
+      "name": "0010",
+      "members": "enc1:XF9dW0dLHVlZ"
+    },
+    {
+      "id": "011",
+      "name": "0011",
+      "members": "enc1:XF9dWkdLHVlY"
+    },
+    {
+      "id": "012",
+      "name": "0012",
+      "members": "enc1:XF9dWUdLHVlb"
+    },
+    {
+      "id": "013",
+      "name": "0013",
+      "members": "enc1:XF9dWEdLHVla"
+    },
+    {
+      "id": "014",
+      "name": "0014",
+      "members": "enc1:XF9dX0dLHVld"
+    },
+    {
+      "id": "015",
+      "name": "0015",
+      "members": "enc1:XF9dXkdLHVlc"
+    },
+    {
+      "id": "016",
+      "name": "0016",
+      "members": "enc1:XF9dXUdLHVlf"
+    },
+    {
+      "id": "017",
+      "name": "0017",
+      "members": "enc1:XF9dXEdLHVle"
+    },
+    {
+      "id": "018",
+      "name": "0018",
+      "members": "enc1:XF9dU0dLHVlR"
+    },
+    {
+      "id": "019",
+      "name": "0019",
+      "members": "enc1:XF9dUkdLHVlQ"
+    },
+    {
+      "id": "020",
+      "name": "0020",
+      "members": "enc1:XF9eW0dLHVpZ"
+    },
+    {
+      "id": "021",
+      "name": "0021",
+      "members": "enc1:XF9eWkdLHVpY"
+    },
+    {
+      "id": "022",
+      "name": "0022",
+      "members": "enc1:XF9eWUdLHVpb"
+    },
+    {
+      "id": "023",
+      "name": "0023",
+      "members": "enc1:XF9eWEdLHVpa"
+    },
+    {
+      "id": "024",
+      "name": "0024",
+      "members": "enc1:XF9eX0dLHVpd"
+    },
+    {
+      "id": "025",
+      "name": "0025",
+      "members": "enc1:XF9eXkdLHVpc"
+    },
+    {
+      "id": "026",
+      "name": "0026",
+      "members": "enc1:XF9eXUdLHVpf"
+    },
+    {
+      "id": "027",
+      "name": "0027",
+      "members": "enc1:XF9eXEdLHVpe"
+    },
+    {
+      "id": "028",
+      "name": "0028",
+      "members": "enc1:XF9eU0dLHVpR"
+    },
+    {
+      "id": "029",
+      "name": "0029",
+      "members": "enc1:XF9eUkdLHVpQ"
+    },
+    {
+      "id": "030",
+      "name": "0030",
+      "members": "enc1:XF9fW0dLHVtZ"
+    },
+    {
+      "id": "#REF!",
+      "name": "#REF!",
+      "members": "enc1:Tj0pLUpVDjosK0hYUCdodBEeFj8qKkpHWn8tL0w="
+    },
+    {
+      "id": "#REF!",
+      "name": "#REF!",
+      "members": "enc1:Tj0pLUpVDjosK0hYUCdodBEeFj8qKkpHWn8tL0w="
+    },
+    {
+      "id": "#REF!",
+      "name": "#REF!",
+      "members": "enc1:Tj0pLUpVDjosK0hYUCdodBEeFj8qKkpHWn8tL0w="
+    },
+    {
+      "id": "#REF!",
+      "name": "#REF!",
+      "members": "enc1:Tj0pLUpVDjosK0hYUCdodBEeFj8qKkpHWn8tL0w="
+    },
+    {
+      "id": "#REF!",
+      "name": "#REF!",
+      "members": "enc1:Tj0pLUpVDjosK0hYUCdodBEeFj8qKkpHWn8tL0w="
+    },
+    {
+      "id": "#REF!",
+      "name": "#REF!",
+      "members": "enc1:Tj0pLUpVDjosK0hYUCdodBEeFj8qKkpHWn8tL0w="
+    },
+    {
+      "id": "#REF!",
+      "name": "#REF!",
+      "members": "enc1:Tj0pLUpVDjosK0hYUCdodBEeFj8qKkpHWn8tL0w="
+    }
+  ],
   "eventPeriodStart": "2026-09-17T12:23",
   "eventPeriodEnd": "2026-09-22T12:23",
   "receptionPw": "1111",
@@ -307,5 +493,5 @@
     }
   },
   "folderName": "",
-  "publishedAt": "2026-09-17T03:45:15.758Z"
+  "publishedAt": "2026-09-17T03:46:59.081Z"
 }
