@@ -279,7 +279,10 @@
       "11位タイトーナメント": "green",
       "不戦勝交流戦": "green"
     },
-    "loseArrows": {},
+    "loseArrows": {
+      "11位タイトーナメント@1": false,
+      "決勝トーナメント@2": false
+    },
     "loseTo": {},
     "links": [],
     "cellColors": {}
@@ -319,5 +322,5 @@
     }
   },
   "folderName": "",
-  "publishedAt": "2026-09-17T03:27:59.459Z"
+  "publishedAt": "2026-09-17T03:42:26.886Z"
 }
