@@ -1,0 +1,70 @@
+{
+  "updatedAt": "2026-09-17T03:44:48.145Z",
+  "eventCode": "9994",
+  "rounds": [
+    {
+      "name": "1回戦",
+      "matches": [
+        {
+          "team1": "0001",
+          "team2": "0016",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "0008",
+          "team2": "0009",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0004",
+          "team2": "0013",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0005",
+          "team2": "0012",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0002",
+          "team2": "0015",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0007",
+          "team2": "0010",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0003",
+          "team2": "0014",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0006",
+          "team2": "0012",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "0001",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    }
+  ]
+}
