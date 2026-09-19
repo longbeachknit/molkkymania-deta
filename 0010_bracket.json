@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T03:35:56.993Z",
+  "updatedAt": "2026-09-19T04:34:56.609Z",
   "eventCode": "0010",
   "rounds": [
     {
@@ -62,22 +62,39 @@
           "team1": "Mörits_日本男児",
           "team2": "二刀流",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "SQUARE",
+          "team2": "Flapping YM2",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "夢色遊園地",
+          "team2": "Ankka_わいわいわい",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ONICHA （ ◜ω◝ )",
+          "team2": "EARTH",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "二刀流",
           "team2": "Flapping YM2",
           "win1": false,
           "win2": false
         },
         {
           "team1": "夢色遊園地",
-          "team2": "Ankka_わいわいわい",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "ONICHA （ ◜ω◝ )",
           "team2": "EARTH",
           "win1": false,
           "win2": false
