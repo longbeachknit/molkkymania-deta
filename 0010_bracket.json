@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T02:42:25.506Z",
+  "updatedAt": "2026-09-19T03:35:56.993Z",
   "eventCode": "0010",
   "rounds": [
     {
@@ -8,48 +8,77 @@
         {
           "team1": "Mörits_日本男児",
           "team2": "とっとといく太郎",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "青すぎるさつぴ",
           "team2": "二刀流",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "AMörikka",
           "team2": "SQUARE",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "大阪パンダＴＹＨ",
+          "team2": "Flapping YM2",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "夢色遊園地",
+          "team2": "1994",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "Ankka_わいわいわい",
+          "team2": "ノリノリ軍団",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ONICHA （ ◜ω◝ )",
+          "team2": "チームグロッキー",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "EARTH",
+          "team2": "フーフーヒメの逆襲",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "Mörits_日本男児",
+          "team2": "二刀流",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "SQUARE",
           "team2": "Flapping YM2",
           "win1": false,
           "win2": false
         },
         {
           "team1": "夢色遊園地",
-          "team2": "1994",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "Ankka_わいわいわい",
-          "team2": "ノリノリ軍団",
+          "team2": "Ankka_わいわいわい",
           "win1": false,
           "win2": false
         },
         {
           "team1": "ONICHA （ ◜ω◝ )",
-          "team2": "チームグロッキー",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "EARTH",
-          "team2": "フーフーヒメの逆襲",
+          "team2": "EARTH",
           "win1": false,
           "win2": false
         }
