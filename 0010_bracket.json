@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T02:37:48.534Z",
+  "updatedAt": "2026-09-19T02:42:25.506Z",
   "eventCode": "0010",
   "rounds": [
     {
@@ -49,7 +49,7 @@
         },
         {
           "team1": "EARTH",
-          "team2": "Flapping YM2",
+          "team2": "フーフーヒメの逆襲",
           "win1": false,
           "win2": false
         }
