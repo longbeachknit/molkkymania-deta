@@ -1,0 +1,59 @@
+{
+  "updatedAt": "2026-09-19T02:37:48.534Z",
+  "eventCode": "0010",
+  "rounds": [
+    {
+      "name": "1回戦",
+      "matches": [
+        {
+          "team1": "Mörits_日本男児",
+          "team2": "とっとといく太郎",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "青すぎるさつぴ",
+          "team2": "二刀流",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "AMörikka",
+          "team2": "SQUARE",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "大阪パンダＴＹＨ",
+          "team2": "Flapping YM2",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "夢色遊園地",
+          "team2": "1994",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "Ankka_わいわいわい",
+          "team2": "ノリノリ軍団",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ONICHA （ ◜ω◝ )",
+          "team2": "チームグロッキー",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "EARTH",
+          "team2": "Flapping YM2",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    }
+  ]
+}
