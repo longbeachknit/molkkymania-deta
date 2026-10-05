@@ -1,16 +1,11 @@
 {
-  "updatedAt": "2026-10-05T06:48:27.585Z",
+  "updatedAt": "2026-10-05T07:07:56.266Z",
   "eventCode": "9993",
   "schedule": [
     {
       "type": "row",
       "name": "受付",
       "time": "8:30〜8:55"
-    },
-    {
-      "type": "row",
-      "name": "#REF!",
-      "time": "#REF!"
     },
     {
       "type": "row",
