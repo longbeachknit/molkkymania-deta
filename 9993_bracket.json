@@ -1,0 +1,108 @@
+{
+  "updatedAt": "2026-10-05T13:26:19.820Z",
+  "eventCode": "9993",
+  "title": "決勝トーナメント",
+  "rounds": [
+    {
+      "name": "1回戦",
+      "matches": [
+        {
+          "team1": "0002",
+          "team2": "0027",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0011",
+          "team2": "0043",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0003",
+          "team2": "0035",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0019",
+          "team2": "0051",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0001",
+          "team2": "0031",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0015",
+          "team2": "0047",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0007",
+          "team2": "0039",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0023",
+          "team2": "0055",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0111",
+          "team2": "0029",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0013",
+          "team2": "0045",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0005",
+          "team2": "0037",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0021",
+          "team2": "0053",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0109",
+          "team2": "0033",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0017",
+          "team2": "0049",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0009",
+          "team2": "0041",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "0025",
+          "team2": "0057",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    }
+  ]
+}
