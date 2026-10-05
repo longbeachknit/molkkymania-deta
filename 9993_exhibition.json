@@ -2,8 +2,8 @@
   "open": true,
   "games": {
     "1": true,
-    "2": false,
-    "3": false,
+    "2": true,
+    "3": true,
     "4": false,
     "5": false,
     "6": false,
@@ -12,5 +12,5 @@
     "9": false
   },
   "eventCode": "9993",
-  "updatedAt": "2026-10-05T05:46:04.671Z"
+  "updatedAt": "2026-10-05T05:55:28.098Z"
 }
