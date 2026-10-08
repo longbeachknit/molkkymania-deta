@@ -92,7 +92,7 @@
   "tourneyRules": [
     {
       "code": "00",
-      "name": "一次予選",
+      "name": "",
       "fmt": "round2",
       "turnLimit": true,
       "playerMin": 2,
@@ -910,5 +910,5 @@
     }
   },
   "folderName": "川崎Season.7",
-  "publishedAt": "2026-10-08T04:58:52.382Z"
+  "publishedAt": "2026-10-08T05:00:13.562Z"
 }
