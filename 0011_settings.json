@@ -715,6 +715,11 @@
       "id": "099",
       "name": "ししゃもおいしい",
       "members": "enc1:hPfTj9Tky/7uiMTkX5CSgtmxnYvCz4759QGB1OaB49eTqak="
+    },
+    {
+      "id": "100",
+      "name": "運営チーム",
+      "members": "enc1:LEMu"
     }
   ],
   "eventPeriodStart": "2026-10-10T08:00",
@@ -910,5 +915,5 @@
     }
   },
   "folderName": "川崎Season.7",
-  "publishedAt": "2026-10-08T05:00:13.562Z"
+  "publishedAt": "2026-10-08T05:03:44.990Z"
 }
