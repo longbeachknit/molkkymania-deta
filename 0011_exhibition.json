@@ -1,9 +1,9 @@
 {
-  "open": false,
+  "open": true,
   "games": {
     "1": false,
     "2": false,
-    "3": false,
+    "3": true,
     "4": false,
     "5": false,
     "6": false,
@@ -23,5 +23,5 @@
     "9": ""
   },
   "eventCode": "0011",
-  "updatedAt": "2026-10-10T03:33:50.044Z"
+  "updatedAt": "2026-10-10T03:34:26.377Z"
 }
