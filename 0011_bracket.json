@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T04:18:03.144Z",
+  "updatedAt": "2026-10-10T04:41:30.350Z",
   "eventCode": "0011",
   "title": "決勝トーナメント",
   "rounds": [
@@ -110,7 +110,7 @@
         {
           "team1": "海武蔵",
           "team2": "のらじ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -141,7 +141,7 @@
           "team1": "ankköw",
           "team2": "きchee!",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ナッ",
@@ -161,7 +161,7 @@
       "name": "3回戦",
       "matches": [
         {
-          "team1": "",
+          "team1": "海武蔵",
           "team2": "早稲田モ式投棒部",
           "win1": false,
           "win2": false
@@ -174,7 +174,7 @@
         },
         {
           "team1": "Wood Emperor",
-          "team2": "",
+          "team2": "きchee!",
           "win1": false,
           "win2": false
         },
