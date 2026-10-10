@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T02:45:04.523Z",
+  "updatedAt": "2026-10-10T03:26:39.499Z",
   "eventCode": "0011",
   "title": "決勝トーナメント",
   "rounds": [
@@ -15,14 +15,14 @@
         {
           "team1": "のらじ",
           "team2": "8beach",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "SHIP A",
           "team2": "Team Kiitos",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "YRL",
@@ -39,19 +39,19 @@
         {
           "team1": "なぎちゃんズN.Y",
           "team2": "LINO",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "99",
           "team2": "カーナA",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "出会いはFA",
           "team2": "あcheeくす",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -64,7 +64,7 @@
           "team1": "LAB Molkky",
           "team2": "池袋ウッドペッカーズ S.R",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "K-eiji",
@@ -75,19 +75,19 @@
         {
           "team1": "きchee!",
           "team2": "マンティコラ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ナッ",
           "team2": "べる",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "あ",
           "team2": "Puikko",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -99,6 +99,59 @@
         {
           "team1": "湘南カヴェリsoks",
           "team2": "ノストラダムスの大予言生還組",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "のらじ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "Team Kiitos",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "なぎちゃんズN.Y",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "99",
+          "team2": "出会いはFA",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "池袋ウッドペッカーズ S.R",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "きchee!",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ナッ",
+          "team2": "あ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "湘南カヴェリsoks",
           "win1": false,
           "win2": false
         }
