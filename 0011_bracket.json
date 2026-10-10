@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T03:26:39.499Z",
+  "updatedAt": "2026-10-10T03:36:40.216Z",
   "eventCode": "0011",
   "title": "決勝トーナメント",
   "rounds": [
@@ -28,12 +28,12 @@
           "team1": "YRL",
           "team2": "早稲田モ式投棒部",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "SAKURAN333 ふじマヨネーズ",
           "team2": "HMMC ZAUT",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -57,7 +57,7 @@
         {
           "team1": "Wood Emperor",
           "team2": "m＆a",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -70,7 +70,7 @@
           "team1": "K-eiji",
           "team2": "ankköw",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "きchee!",
@@ -93,7 +93,7 @@
         {
           "team1": "pale smoke",
           "team2": "AZB-M3",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -115,12 +115,12 @@
         },
         {
           "team1": "Team Kiitos",
-          "team2": "",
+          "team2": "早稲田モ式投棒部",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
+          "team1": "SAKURAN333 ふじマヨネーズ",
           "team2": "なぎちゃんズN.Y",
           "win1": false,
           "win2": false
@@ -132,13 +132,13 @@
           "win2": false
         },
         {
-          "team1": "",
+          "team1": "Wood Emperor",
           "team2": "池袋ウッドペッカーズ S.R",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
+          "team1": "ankköw",
           "team2": "きchee!",
           "win1": false,
           "win2": false
@@ -150,7 +150,7 @@
           "win2": false
         },
         {
-          "team1": "",
+          "team1": "pale smoke",
           "team2": "湘南カヴェリsoks",
           "win1": false,
           "win2": false
