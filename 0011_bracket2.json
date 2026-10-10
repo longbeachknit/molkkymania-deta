@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T03:57:41.510Z",
+  "updatedAt": "2026-10-10T04:03:46.421Z",
   "eventCode": "0011",
   "title": "Bトーナメント",
   "rounds": [
@@ -206,7 +206,7 @@
         {
           "team1": "tkwk",
           "team2": "ライト兄弟",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -225,7 +225,7 @@
           "team1": "PUI PUI モルッカー",
           "team2": "ホクヤマシンゲン",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "びわこDoughnuthole",
@@ -237,7 +237,7 @@
           "team1": "さしろbrothers",
           "team2": "ブラッキーズ@男女",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "いchee!年生",
@@ -305,20 +305,20 @@
       "name": "3回戦",
       "matches": [
         {
-          "team1": "",
+          "team1": "tkwk",
           "team2": "濱乃",
           "win1": false,
           "win2": false
         },
         {
           "team1": "すらっぷす",
-          "team2": "",
+          "team2": "ホクヤマシンゲン",
           "win1": false,
           "win2": false
         },
         {
           "team1": "びわこDoughnuthole",
-          "team2": "",
+          "team2": "ブラッキーズ@男女",
           "win1": false,
           "win2": false
         },
