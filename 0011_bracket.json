@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T05:13:46.703Z",
+  "updatedAt": "2026-10-10T05:25:57.032Z",
   "eventCode": "0011",
   "title": "決勝トーナメント",
   "rounds": [
@@ -163,14 +163,14 @@
         {
           "team1": "海武蔵",
           "team2": "早稲田モ式投棒部",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "SAKURAN333 ふじマヨネーズ",
           "team2": "出会いはFA",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Wood Emperor",
@@ -190,8 +190,8 @@
       "name": "準決勝",
       "matches": [
         {
-          "team1": "",
-          "team2": "",
+          "team1": "海武蔵",
+          "team2": "出会いはFA",
           "win1": false,
           "win2": false
         },
