@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T04:41:32.395Z",
+  "updatedAt": "2026-10-10T05:13:48.906Z",
   "eventCode": "0011",
   "title": "Bトーナメント",
   "rounds": [
@@ -361,22 +361,39 @@
           "team1": "濱乃",
           "team2": "すらっぷす",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ブラッキーズ@男女",
+          "team2": "婆爺梨酢喰",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "裏Young Kz",
+          "team2": "たろるー",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ブルートップ",
+          "team2": "ひなたぼっこ",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "すらっぷす",
           "team2": "婆爺梨酢喰",
           "win1": false,
           "win2": false
         },
         {
           "team1": "裏Young Kz",
-          "team2": "たろるー",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "ブルートップ",
           "team2": "ひなたぼっこ",
           "win1": false,
           "win2": false
