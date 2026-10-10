@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T04:18:05.127Z",
+  "updatedAt": "2026-10-10T04:41:32.395Z",
   "eventCode": "0011",
   "title": "Bトーナメント",
   "rounds": [
@@ -308,46 +308,75 @@
           "team1": "tkwk",
           "team2": "濱乃",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "すらっぷす",
           "team2": "ホクヤマシンゲン",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "びわこDoughnuthole",
           "team2": "ブラッキーズ@男女",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "婆爺梨酢喰",
           "team2": "SISU",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "NBMC4",
           "team2": "裏Young Kz",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "たろるー",
           "team2": "城北HRD JKT",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "落合会 池袋支部",
           "team2": "ブルートップ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "びーがた",
+          "team2": "ひなたぼっこ",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "4回戦",
+      "matches": [
+        {
+          "team1": "濱乃",
+          "team2": "すらっぷす",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ブラッキーズ@男女",
+          "team2": "婆爺梨酢喰",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "裏Young Kz",
+          "team2": "たろるー",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ブルートップ",
           "team2": "ひなたぼっこ",
           "win1": false,
           "win2": false
