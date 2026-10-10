@@ -1,0 +1,108 @@
+{
+  "updatedAt": "2026-10-10T02:45:04.523Z",
+  "eventCode": "0011",
+  "title": "決勝トーナメント",
+  "rounds": [
+    {
+      "name": "1回戦",
+      "matches": [
+        {
+          "team1": "海武蔵",
+          "team2": "ふたりは中村！",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "のらじ",
+          "team2": "8beach",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "SHIP A",
+          "team2": "Team Kiitos",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "YRL",
+          "team2": "早稲田モ式投棒部",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "SAKURAN333 ふじマヨネーズ",
+          "team2": "HMMC ZAUT",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "なぎちゃんズN.Y",
+          "team2": "LINO",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "99",
+          "team2": "カーナA",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "出会いはFA",
+          "team2": "あcheeくす",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "Wood Emperor",
+          "team2": "m＆a",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "LAB Molkky",
+          "team2": "池袋ウッドペッカーズ S.R",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "K-eiji",
+          "team2": "ankköw",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "きchee!",
+          "team2": "マンティコラ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ナッ",
+          "team2": "べる",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "あ",
+          "team2": "Puikko",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "pale smoke",
+          "team2": "AZB-M3",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "湘南カヴェリsoks",
+          "team2": "ノストラダムスの大予言生還組",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    }
+  ]
+}
