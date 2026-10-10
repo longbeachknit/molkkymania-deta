@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T03:57:39.633Z",
+  "updatedAt": "2026-10-10T04:03:44.343Z",
   "eventCode": "0011",
   "title": "決勝トーナメント",
   "rounds": [
@@ -134,7 +134,7 @@
         {
           "team1": "Wood Emperor",
           "team2": "池袋ウッドペッカーズ S.R",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -152,6 +152,29 @@
         {
           "team1": "pale smoke",
           "team2": "湘南カヴェリsoks",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "3回戦",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "Wood Emperor",
+          "team2": "",
           "win1": false,
           "win2": false
         }
