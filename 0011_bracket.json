@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T04:03:44.343Z",
+  "updatedAt": "2026-10-10T04:18:03.144Z",
   "eventCode": "0011",
   "title": "決勝トーナメント",
   "rounds": [
@@ -117,19 +117,19 @@
           "team1": "Team Kiitos",
           "team2": "早稲田モ式投棒部",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "SAKURAN333 ふじマヨネーズ",
           "team2": "なぎちゃんズN.Y",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "99",
           "team2": "出会いはFA",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Wood Emperor",
@@ -146,14 +146,14 @@
         {
           "team1": "ナッ",
           "team2": "あ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "pale smoke",
           "team2": "湘南カヴェリsoks",
           "win1": false,
-          "win2": false
+          "win2": true
         }
       ]
     },
@@ -162,19 +162,25 @@
       "matches": [
         {
           "team1": "",
-          "team2": "",
+          "team2": "早稲田モ式投棒部",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "SAKURAN333 ふじマヨネーズ",
+          "team2": "出会いはFA",
           "win1": false,
           "win2": false
         },
         {
           "team1": "Wood Emperor",
           "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ナッ",
+          "team2": "湘南カヴェリsoks",
           "win1": false,
           "win2": false
         }
