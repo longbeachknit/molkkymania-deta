@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T04:41:30.350Z",
+  "updatedAt": "2026-10-10T05:13:46.703Z",
   "eventCode": "0011",
   "title": "決勝トーナメント",
   "rounds": [
@@ -175,12 +175,29 @@
         {
           "team1": "Wood Emperor",
           "team2": "きchee!",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ナッ",
           "team2": "湘南カヴェリsoks",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "Wood Emperor",
+          "team2": "ナッ",
           "win1": false,
           "win2": false
         }
