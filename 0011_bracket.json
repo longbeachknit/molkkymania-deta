@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T03:36:40.216Z",
+  "updatedAt": "2026-10-10T03:57:39.633Z",
   "eventCode": "0011",
   "title": "決勝トーナメント",
   "rounds": [
@@ -9,7 +9,7 @@
         {
           "team1": "海武蔵",
           "team2": "ふたりは中村！",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -108,7 +108,7 @@
       "name": "2回戦",
       "matches": [
         {
-          "team1": "",
+          "team1": "海武蔵",
           "team2": "のらじ",
           "win1": false,
           "win2": false
