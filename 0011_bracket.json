@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T05:25:57.032Z",
+  "updatedAt": "2026-10-10T06:33:10.923Z",
   "eventCode": "0011",
   "title": "決勝トーナメント",
   "rounds": [
@@ -193,11 +193,22 @@
           "team1": "海武蔵",
           "team2": "出会いはFA",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Wood Emperor",
           "team2": "ナッ",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "決勝",
+      "matches": [
+        {
+          "team1": "出会いはFA",
+          "team2": "Wood Emperor",
           "win1": false,
           "win2": false
         }
