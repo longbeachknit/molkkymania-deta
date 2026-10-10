@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T03:36:42.089Z",
+  "updatedAt": "2026-10-10T03:57:41.510Z",
   "eventCode": "0011",
   "title": "Bトーナメント",
   "rounds": [
@@ -213,12 +213,12 @@
           "team1": "東京都立大学T-MölkkU",
           "team2": "濱乃",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "すらっぷす",
           "team2": "コッペパン",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -230,7 +230,7 @@
         {
           "team1": "びわこDoughnuthole",
           "team2": "ししゃもおいしい",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -243,58 +243,111 @@
           "team1": "いchee!年生",
           "team2": "婆爺梨酢喰",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "上郷高校モルック部Ａ",
           "team2": "SISU",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "NBMC4",
           "team2": "モルックSP_BS",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "裏Young Kz",
           "team2": "ラミタマ。",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "たろるー",
           "team2": "キラ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Mölspirits Ｂ",
           "team2": "城北HRD JKT",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "落合会 池袋支部",
           "team2": "城北HRD FN",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "AO",
           "team2": "ブルートップ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "NBMC2",
           "team2": "びーがた",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "鎌倉TRINITY",
+          "team2": "ひなたぼっこ",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "3回戦",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "濱乃",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "すらっぷす",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "びわこDoughnuthole",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "婆爺梨酢喰",
+          "team2": "SISU",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "NBMC4",
+          "team2": "裏Young Kz",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "たろるー",
+          "team2": "城北HRD JKT",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "落合会 池袋支部",
+          "team2": "ブルートップ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "びーがた",
           "team2": "ひなたぼっこ",
           "win1": false,
           "win2": false
