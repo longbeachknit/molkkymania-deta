@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T05:25:59.520Z",
+  "updatedAt": "2026-10-10T06:33:12.982Z",
   "eventCode": "0011",
   "title": "Bトーナメント",
   "rounds": [
@@ -390,12 +390,23 @@
           "team1": "すらっぷす",
           "team2": "婆爺梨酢喰",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "裏Young Kz",
           "team2": "ひなたぼっこ",
-          "win1": false,
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "決勝",
+      "matches": [
+        {
+          "team1": "婆爺梨酢喰",
+          "team2": "裏Young Kz",
+          "win1": true,
           "win2": false
         }
       ]
