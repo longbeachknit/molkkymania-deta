@@ -6,6 +6,7 @@
   "gasUrl": "https://script.google.com/macros/s/AKfycbyvSLjRDaHDEzZ9wVOfLCttPgtcgvjw71dn6PWoAoZZSdg8QBZZ6c0WQ5Jmpxra1eU/exec",
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1AdbXcO4yR0w-2ag40qF98uPVsd_tDcc8uWCvURvjJq0/edit?usp=sharing",
   "priority": "tournament",
+  "matchType": "team",
   "matchRules": [
     {
       "code": "01",
@@ -795,5 +796,5 @@
     }
   },
   "folderName": "東京",
-  "publishedAt": "2026-09-05T01:06:25.580Z"
+  "publishedAt": "2026-10-11T01:45:23.929Z"
 }
