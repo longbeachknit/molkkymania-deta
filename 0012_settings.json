@@ -164,19 +164,19 @@
     {
       "matchCode": "08",
       "tourneyCode": "03",
-      "round": "15位タイ決定戦",
+      "round": "11位タイ決定戦",
       "prio": ""
     },
     {
       "matchCode": "05",
       "tourneyCode": "04",
-      "round": "1回戦",
+      "round": "①",
       "prio": ""
     },
     {
       "matchCode": "06",
       "tourneyCode": "04",
-      "round": "2回戦",
+      "round": "②",
       "prio": ""
     }
   ],
@@ -298,16 +298,16 @@
     "notes": "ゴミは各自でお持ち帰りください。"
   },
   "courtLayout": {
-    "grid": "",
+    "grid": "5,4,3,2,1\n×,9,8,7,6",
     "labelTop": "",
-    "labelBottom": "",
-    "labelLeft": "",
-    "labelRight": "",
+    "labelBottom": "第1球技広場",
+    "labelLeft": "浜寺運河",
+    "labelRight": "入り口側",
     "centerLabel": {
-      "text": "",
-      "pos": "bottom"
+      "text": "本部・大屋根",
+      "pos": "top"
     }
   },
   "folderName": "",
-  "publishedAt": "2026-10-14T01:24:42.784Z"
+  "publishedAt": "2026-10-14T03:35:32.082Z"
 }
