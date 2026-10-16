@@ -183,38 +183,38 @@
   "teams": [
     {
       "id": "001",
-      "name": "TEPPAN",
-      "members": "enc1:iMrJjfboy8HxiMTkX5Owg9aHk4rwyY7G6QGM0cCMw+6TuJTVn6VBic3oj8O4j/XyjuT1kICi"
+      "name": "HORIBA Mölkky Club2",
+      "members": "enc1:i9DdjtLAyMzDQYzGy5OxntW+lUGJ9OWM5p6P9fKMzPU="
     },
     {
       "id": "002",
+      "name": "ぷかぷか本部長",
+      "members": "enc1:iN7dj9PyyMb2it3xX5Ccg9+apIvzxoPZzQGOysOPxMuThbAc1bXKifDHgvi5jNDy"
+    },
+    {
+      "id": "003",
+      "name": "五投建設",
+      "members": "enc1:iODIjtzkydPoiM3TX5GUt9Wcg4rb+I7SygGM0+GB0viSmp0c2pDSitzVjt2Hjdv9"
+    },
+    {
+      "id": "004",
       "name": "クラッシュバレー",
       "members": "enc1:iN7djP/JyP36iMTkX5K5gtSKmIjW1I7G6QGNzcqB0cySk7zXm7dBit3ajsSPi+j4ivXblqyN"
     },
     {
-      "id": "003",
-      "name": "ばななベビー",
-      "members": "enc1:iN7djP/JyPrli8HNX5Ccg9emhYjLzkePw62N3vCMyeRZyYiw14Lwiuvnjt2H"
-    },
-    {
-      "id": "004",
-      "name": "３Ｊ fm ＳＱ",
-      "members": "enc1:iN7djffVxcLJidP4X5OcrdWFqIrb+I7kwQGAzNKMxtKQk4HUiLk="
-    },
-    {
       "id": "005",
-      "name": "裏:梅田紳士倶楽部",
-      "members": "enc1:iN/jjMTZxcLJQY3M3pOOnNaHgov5+w=="
+      "name": "コゴセおゆつぐみ",
+      "members": "enc1:iubrjtrIy+ncQYHKyJCAr9W9jUGL1MaN5LyN5uaMzP9ZxaaF14TmifnciPiTi+vrjsr9"
     },
     {
       "id": "006",
-      "name": "keiito",
-      "members": "enc1:i/LSjt/3yMb2iNH4X5OxntWDhIjK5I7P1wGP/d2P6eKTm47Vn6VBiPjbj8GAi+vrivX4lq+4"
+      "name": "First Cast",
+      "members": "enc1:iN/jjfXuy9bDidP4X5Cbj9WDhIjjzEeNwYyB6+SO+sGTu47Vl70="
     },
     {
       "id": "007",
-      "name": "cogoce neokm",
-      "members": "enc1:i/LTjvXayPrli9zdX5OwjdWslorR4o759QGN2NyP1MqTsZrUj6SI1+BHg/KKjd7wj+z/kKKA"
+      "name": "裏:梅田紳士倶楽部",
+      "members": "enc1:iN/jjMTZxcLJQY3M3pOOnNaHgov5+w=="
     },
     {
       "id": "008",
@@ -223,13 +223,13 @@
     },
     {
       "id": "009",
-      "name": "ぷかぷか本部長",
-      "members": "enc1:iN7dj9PyyMb2it3xX5Ccg9+apIvzxoPZzQGOysOPxMuThbAc1bXKifDHgvi5jNDy"
+      "name": "keiito",
+      "members": "enc1:i/LSjt/3yMb2iNH4X5OxntWDhIjK5I7P1wGP/d2P6eKTm47Vn6VBiPjbj8GAi+vrivX4lq+4"
     },
     {
       "id": "010",
-      "name": "コゴセおゆつぐみ",
-      "members": "enc1:iubrjtrIy+ncQYHKyJCAr9W9jUGL1MaN5LyN5uaMzP9ZxaaF14TmifnciPiTi+vrjsr9"
+      "name": "スピアーズ",
+      "members": "enc1:idfljsX8y/X1hcjvX5O7gtSIoIjLy47X3AGL68uK98CWrrXTsI2O7M+I6N3O69qO6vw="
     },
     {
       "id": "011",
@@ -238,38 +238,38 @@
     },
     {
       "id": "012",
-      "name": "上研ゼミナールモルック部",
-      "members": "enc1:idfmguz3yOnMQY/Ey5yqvNWzkIjf6keDx5aB8ceM+NOTsZgc1o3niPjbjv6hgNX5"
-    },
-    {
-      "id": "013",
-      "name": "One Team",
-      "members": "enc1:idflg9vOyMzAivXqX5ylhtaunY7t6ojq8s7q40GNzPqSuYLUj4aF5Ps="
-    },
-    {
-      "id": "014",
-      "name": "五投建設",
-      "members": "enc1:iODIjtzkydPoiM3TX5GUt9Wcg4rb+I7SygGM0+GB0viSmp0c2pDSitzVjt2Hjdv9"
-    },
-    {
-      "id": "015",
       "name": "HORIBA Mölkky Club1",
       "members": "enc1:ivvcj9PUxenIivXrX5Olo9iCgovk/4z35gGM0ueO4MOQkpLVjq0="
     },
     {
+      "id": "013",
+      "name": "TEPPAN",
+      "members": "enc1:iMrJjfboy8HxiMTkX5Owg9aHk4rwyY7G6QGM0cCMw+6TuJTVn6VBic3oj8O4j/XyjuT1kICi"
+    },
+    {
+      "id": "014",
+      "name": "ばななベビー",
+      "members": "enc1:iN7djP/JyPrli8HNX5Ccg9emhYjLzkePw62N3vCMyeRZyYiw14Lwiuvnjt2H"
+    },
+    {
+      "id": "015",
+      "name": "cogoce neokm",
+      "members": "enc1:i/LTjvXayPrli9zdX5OwjdWslorR4o759QGN2NyP1MqTsZrUj6SI1+BHg/KKjd7wj+z/kKKA"
+    },
+    {
       "id": "016",
-      "name": "HORIBA Mölkky Club2",
-      "members": "enc1:i9DdjtLAyMzDQYzGy5OxntW+lUGJ9OWM5p6P9fKMzPU="
+      "name": "上研ゼミナールモルック部",
+      "members": "enc1:idfmguz3yOnMQY/Ey5yqvNWzkIjf6keDx5aB8ceM+NOTsZgc1o3niPjbjv6hgNX5"
     },
     {
       "id": "017",
-      "name": "First Cast",
-      "members": "enc1:iN/jjfXuy9bDidP4X5Cbj9WDhIjjzEeNwYyB6+SO+sGTu47Vl70="
+      "name": "３Ｊ fm ＳＱ",
+      "members": "enc1:iN7djffVxcLJidP4X5OcrdWFqIrb+I7kwQGAzNKMxtKQk4HUiLk="
     },
     {
       "id": "018",
-      "name": "スピアーズ",
-      "members": "enc1:idfljsX8y/X1hcjvX5O7gtSIoIjLy47X3AGL68uK98CWrrXTsI2O7M+I6N3O69qO6vw="
+      "name": "One Team",
+      "members": "enc1:idflg9vOyMzAivXqX5ylhtaunY7t6ojq8s7q40GNzPqSuYLUj4aF5Ps="
     }
   ],
   "eventPeriodStart": "2026-10-18T08:30",
@@ -428,5 +428,5 @@
     }
   },
   "folderName": "大阪Season.2",
-  "publishedAt": "2026-10-16T03:28:33.175Z"
+  "publishedAt": "2026-10-16T03:30:09.109Z"
 }
