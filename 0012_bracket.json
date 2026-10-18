@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T04:03:42.584Z",
+  "updatedAt": "2026-10-18T05:23:27.371Z",
   "eventCode": "0012",
   "rounds": [
     {
@@ -61,23 +61,40 @@
         {
           "team1": "裏:梅田紳士倶楽部",
           "team2": "スピアーズ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "五投建設",
           "team2": "コゴセおゆつぐみ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "SQUARE 3J",
           "team2": "クラッシュバレー",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "cogoce1125",
+          "team2": "cogoce neokm",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "裏:梅田紳士倶楽部",
+          "team2": "五投建設",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "SQUARE 3J",
           "team2": "cogoce neokm",
           "win1": false,
           "win2": false
