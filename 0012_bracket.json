@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T02:46:44.137Z",
+  "updatedAt": "2026-10-18T03:55:58.972Z",
   "eventCode": "0012",
   "rounds": [
     {
@@ -8,47 +8,76 @@
         {
           "team1": "裏:梅田紳士倶楽部",
           "team2": "keiito",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "HORIBA Mölkky Club2",
           "team2": "スピアーズ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "First Cast",
           "team2": "五投建設",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "コゴセおゆつぐみ",
           "team2": "TEPPAN",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "SQUARE 3J",
           "team2": "HORIBA Mölkky Club1",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "クラッシュバレー",
           "team2": "ばななベビー",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "cogoce1125",
           "team2": "上研ゼミナールモルック部",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "One Team",
+          "team2": "cogoce neokm",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "裏:梅田紳士倶楽部",
+          "team2": "スピアーズ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "五投建設",
+          "team2": "コゴセおゆつぐみ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "SQUARE 3J",
+          "team2": "クラッシュバレー",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "cogoce1125",
           "team2": "cogoce neokm",
           "win1": false,
           "win2": false
