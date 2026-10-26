@@ -1,0 +1,64 @@
+{
+  "venueCode": "01",
+  "eventCode": "9001",
+  "eventName": "対戦表C(128)動作確認vol.1",
+  "displayName": "",
+  "gasUrl": "https://script.google.com/macros/s/AKfycbxVDQVl3bEkl5tvUe1STDF6rIwMk-cWH9tSE2Ao8dEAvOFEug2uZc6UN0ji5XA1d9v3/exec",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1F5heakdUBNnoy454l4zftcj962nViGwFJSf7MtQ0RG0/edit?usp=sharing",
+  "priority": "tournament",
+  "matchType": "team",
+  "matchRules": [],
+  "tourneyRules": [],
+  "roundRules": [],
+  "teams": [],
+  "eventPeriodStart": "2026-10-26T16:33",
+  "eventPeriodEnd": "2026-10-28T16:33",
+  "receptionPw": "1234",
+  "bracketTeamCount": 64,
+  "bracket1Name": "決勝トーナメント",
+  "bracket2TeamCount": 0,
+  "bracket2Name": "Bトーナメント",
+  "exhibition": {
+    "enabled": false,
+    "count": 0,
+    "games": []
+  },
+  "advanceRules": [],
+  "systemChart": null,
+  "venue": {
+    "code": "01",
+    "name": "川崎",
+    "themeColor": "#1E88E5",
+    "detail": {
+      "notes": [],
+      "rules": "",
+      "access": "東急東横線「新丸子駅」　徒歩10分",
+      "mapUrl": "https://maps.app.goo.gl/Qy2DZ57eAdDjfB5RA",
+      "toilet": "会場の下流側と上流側にそれぞれトイレあり。",
+      "address": "神奈川県川崎市中原区上丸子八幡町",
+      "garbage": "ゴミは各自でのお持ち帰りをお願い申し上げます。",
+      "parking": "会場近くに「丸子橋河川敷駐車場」あり。料金は1000円、開場時間は6時～18時半（4/1～10月末日）、6時～16時半（11/1～3月末日）",
+      "smoking": "河川敷内は全面禁煙です。",
+      "sections": [],
+      "mapImageUrl": "https://app.molkky.co.jp/maps/488d24ed02c27fbe.jpg",
+      "locationName": "丸子橋第一広場"
+    }
+  },
+  "tourInfo": {
+    "rules": "あ！",
+    "notes": "注意して！"
+  },
+  "courtLayout": {
+    "grid": "",
+    "labelTop": "",
+    "labelBottom": "",
+    "labelLeft": "",
+    "labelRight": "",
+    "centerLabel": {
+      "text": "",
+      "pos": "bottom"
+    }
+  },
+  "folderName": "",
+  "publishedAt": "2026-10-26T07:35:21.766Z"
+}
