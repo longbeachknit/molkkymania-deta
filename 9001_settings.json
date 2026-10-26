@@ -9,229 +9,229 @@
   "matchType": "team",
   "matchRules": [
     {
+      "fmt": "best2",
       "code": "04",
       "name": "第1試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "05",
       "name": "第2試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "06",
       "name": "第3試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "07",
       "name": "第4試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "08",
       "name": "第5試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "09",
       "name": "第6試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "round2",
       "code": "01",
       "name": "予選①",
-      "fmt": "round2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "round2",
       "code": "02",
       "name": "予選②",
-      "fmt": "round2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "round2",
       "code": "03",
       "name": "予選③",
-      "fmt": "round2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     }
   ],
   "tourneyRules": [
     {
+      "fmt": "round2",
       "code": "00",
       "name": "",
-      "fmt": "round2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best3",
       "code": "01",
       "name": "決勝トーナメント",
-      "fmt": "best3",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "02",
       "name": "5位タイトーナメント",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "03",
       "name": "15位タイトーナメント",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "04",
       "name": "交流戦",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "05",
       "name": "不戦勝交流戦",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     }
   ],
   "roundRules": [
     {
+      "round": "1回戦",
       "matchCode": "04",
-      "tourneyCode": "01",
-      "round": "1回戦"
+      "tourneyCode": "01"
     },
     {
+      "round": "2回戦",
       "matchCode": "05",
-      "tourneyCode": "01",
-      "round": "2回戦"
+      "tourneyCode": "01"
     },
     {
+      "round": "3回戦",
       "matchCode": "06",
-      "tourneyCode": "01",
-      "round": "3回戦"
+      "tourneyCode": "01"
     },
     {
+      "round": "4回戦",
       "matchCode": "07",
-      "tourneyCode": "01",
-      "round": "4回戦"
+      "tourneyCode": "01"
     },
     {
+      "round": "準決勝",
       "matchCode": "08",
-      "tourneyCode": "01",
-      "round": "準決勝"
+      "tourneyCode": "01"
     },
     {
+      "round": "決勝、3決",
       "matchCode": "09",
-      "tourneyCode": "01",
-      "round": "決勝、3決"
+      "tourneyCode": "01"
     },
     {
+      "round": "1回戦",
       "matchCode": "04",
-      "tourneyCode": "02",
-      "round": "1回戦"
+      "tourneyCode": "02"
     },
     {
+      "round": "2回戦",
       "matchCode": "05",
-      "tourneyCode": "02",
-      "round": "2回戦"
+      "tourneyCode": "02"
     },
     {
+      "round": "3回戦",
       "matchCode": "06",
-      "tourneyCode": "02",
-      "round": "3回戦"
+      "tourneyCode": "02"
     },
     {
+      "round": "4回戦",
       "matchCode": "07",
-      "tourneyCode": "02",
-      "round": "4回戦"
+      "tourneyCode": "02"
     },
     {
+      "round": "5回戦",
       "matchCode": "08",
-      "tourneyCode": "02",
-      "round": "5回戦"
+      "tourneyCode": "02"
     },
     {
+      "round": "5位タイ決定戦",
       "matchCode": "09",
-      "tourneyCode": "02",
-      "round": "5位タイ決定戦"
+      "tourneyCode": "02"
     },
     {
+      "round": "1回戦",
       "matchCode": "05",
-      "tourneyCode": "03",
-      "round": "1回戦"
+      "tourneyCode": "03"
     },
     {
+      "round": "2回戦",
       "matchCode": "06",
-      "tourneyCode": "03",
-      "round": "2回戦"
+      "tourneyCode": "03"
     },
     {
+      "round": "3回戦",
       "matchCode": "07",
-      "tourneyCode": "03",
-      "round": "3回戦"
+      "tourneyCode": "03"
     },
     {
+      "round": "4回戦",
       "matchCode": "08",
-      "tourneyCode": "03",
-      "round": "4回戦"
+      "tourneyCode": "03"
     },
     {
+      "round": "15位タイ決定戦",
       "matchCode": "09",
-      "tourneyCode": "03",
-      "round": "15位タイ決定戦"
+      "tourneyCode": "03"
     },
     {
+      "round": "1回戦",
       "matchCode": "06",
-      "tourneyCode": "04",
-      "round": "1回戦"
+      "tourneyCode": "04"
     },
     {
+      "round": "2回戦",
       "matchCode": "07",
-      "tourneyCode": "04",
-      "round": "2回戦"
+      "tourneyCode": "04"
     }
   ],
   "teams": [
     {
       "id": "001",
-      "name": "0001",
+      "name": "00000000000001",
       "members": "enc1:XF9cWkdLHVhY"
     },
     {
@@ -1018,5 +1018,5 @@
     "labelBottom": ""
   },
   "folderName": "",
-  "publishedAt": "2026-10-26T08:18:40.362Z"
+  "publishedAt": "2026-10-26T08:39:07.964Z"
 }
