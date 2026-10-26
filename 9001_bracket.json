@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T08:57:42.512Z",
+  "updatedAt": "2026-10-26T13:57:16.352Z",
   "eventCode": "9001",
   "rounds": [
     {
@@ -9,12 +9,12 @@
           "team1": "000000000000000000000000000000001",
           "team2": "0064",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "0033",
           "team2": "0032",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -194,6 +194,17 @@
         {
           "team1": "0063",
           "team2": "0002",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "0064",
+          "team2": "0033",
           "win1": false,
           "win2": false
         }
