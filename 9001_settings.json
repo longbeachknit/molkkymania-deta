@@ -7,6 +7,7 @@
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1F5heakdUBNnoy454l4zftcj962nViGwFJSf7MtQ0RG0/edit?usp=sharing",
   "priority": "tournament",
   "matchType": "team",
+  "nameMode": "real",
   "matchRules": [
     {
       "fmt": "best2",
@@ -870,6 +871,7 @@
       "members": "enc1:XF5eU0dLHFpR"
     }
   ],
+  "teamsUpdatedAt": "",
   "eventPeriodStart": "2026-10-26T16:33",
   "eventPeriodEnd": "2026-10-28T16:33",
   "receptionPw": "1234",
@@ -1018,5 +1020,5 @@
     "labelBottom": ""
   },
   "folderName": "",
-  "publishedAt": "2026-10-26T08:42:30.475Z"
+  "publishedAt": "2026-10-29T02:52:53.921Z"
 }
