@@ -1004,6 +1004,8 @@
     },
     "themeColor": "#1E88E5"
   },
+  "categoryCode": "",
+  "category": null,
   "tourInfo": {
     "notes": "注意して！",
     "rules": "あ！"
@@ -1019,6 +1021,6 @@
     },
     "labelBottom": ""
   },
-  "folderName": "",
-  "publishedAt": "2026-10-29T06:58:24.840Z"
+  "folderName": "動作確認用",
+  "publishedAt": "2026-10-29T07:52:05.037Z"
 }
