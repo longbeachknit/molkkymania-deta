@@ -240,7 +240,7 @@
   "eventPeriodStart": "2026-11-02T18:03",
   "eventPeriodEnd": "2026-11-04T18:03",
   "receptionPw": "1234",
-  "bracketTeamCount": 64,
+  "bracketTeamCount": 128,
   "bracket1Name": "決勝トーナメント",
   "bracket2TeamCount": 0,
   "bracket2Name": "Bトーナメント",
@@ -375,5 +375,5 @@
     }
   },
   "folderName": "動作確認用",
-  "publishedAt": "2026-11-02T09:16:55.235Z"
+  "publishedAt": "2026-11-02T09:19:01.706Z"
 }
