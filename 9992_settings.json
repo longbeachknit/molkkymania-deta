@@ -1,0 +1,379 @@
+{
+  "venueCode": "99",
+  "eventCode": "9992",
+  "eventName": "対戦表B_OSSver_5位タイ10チーム版",
+  "displayName": "",
+  "gasUrl": "https://script.google.com/macros/s/AKfycbw2WXmJssABTSF1HygT2UzRNADAS39MG3X2-UTw7KDm4WWSVz5k7MzL9q02hF1cb8Tx5Q/exec",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1CKrui1-70_sasW_sdtUtdPX6Qi-_fSVm6mJuACpDO0U/edit?usp=sharing",
+  "priority": "tournament",
+  "matchType": "team",
+  "hasPrelim": false,
+  "receptionMembers": true,
+  "nameMode": "nickname",
+  "matchRules": [
+    {
+      "code": "01",
+      "name": "第1試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "第2試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "第3試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "第4試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "第5試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "06",
+      "name": "第6試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "07",
+      "name": "第7試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    }
+  ],
+  "tourneyRules": [
+    {
+      "code": "01",
+      "name": "決勝トーナメント",
+      "fmt": "best3",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "5位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "25位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "不戦勝交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    }
+  ],
+  "roundRules": [
+    {
+      "matchCode": "01",
+      "tourneyCode": "01",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "02",
+      "tourneyCode": "01",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "01",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "01",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "01",
+      "round": "5回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "01",
+      "round": "準決勝"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "01",
+      "round": "決勝"
+    },
+    {
+      "matchCode": "02",
+      "tourneyCode": "02",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "02",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "02",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "02",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "02",
+      "round": "5位タイ決定戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "03",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "03",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "03",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "03",
+      "round": "25位タイ決定戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "04",
+      "round": "①",
+      "prio": ""
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "04",
+      "round": "②",
+      "prio": ""
+    },
+    {
+      "matchCode": "01",
+      "tourneyCode": "05",
+      "round": "①",
+      "prio": ""
+    },
+    {
+      "matchCode": "02",
+      "tourneyCode": "05",
+      "round": "②",
+      "prio": ""
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "05",
+      "round": "③",
+      "prio": ""
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "05",
+      "round": "④",
+      "prio": ""
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "05",
+      "round": "⑤",
+      "prio": ""
+    }
+  ],
+  "teams": [],
+  "teamsUpdatedAt": "",
+  "eventPeriodStart": "2026-11-02T23:44",
+  "eventPeriodEnd": "2026-11-03T23:44",
+  "receptionPw": "1111",
+  "bracketTeamCount": 128,
+  "bracket1Name": "決勝トーナメント",
+  "bracket2TeamCount": 0,
+  "bracket2Name": "Bトーナメント",
+  "exhibition": {
+    "enabled": false,
+    "count": 0,
+    "games": []
+  },
+  "advanceRules": [],
+  "systemChart": {
+    "enabled": true,
+    "cornerLabel": "",
+    "prelims": [],
+    "rowLabels": [
+      "第1試合",
+      "第2試合",
+      "第3試合",
+      "第4試合",
+      "第5試合",
+      "第6試合",
+      "第7試合"
+    ],
+    "legend": [
+      {
+        "label": "3先",
+        "color": "pink"
+      },
+      {
+        "label": "2先",
+        "color": "green"
+      }
+    ],
+    "columns": [
+      {
+        "name": "決勝トーナメント",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "5回戦",
+          "準決勝",
+          "決勝"
+        ]
+      },
+      {
+        "name": "5位タイトーナメント",
+        "startRow": 1,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "5位タイ決定戦"
+        ]
+      },
+      {
+        "name": "25位タイトーナメント",
+        "startRow": 2,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "25位タイ決定戦"
+        ]
+      },
+      {
+        "name": "交流戦",
+        "startRow": 3,
+        "note": "",
+        "cells": [
+          "①",
+          "②"
+        ]
+      },
+      {
+        "name": "不戦勝交流戦",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "①",
+          "②",
+          "③",
+          "④",
+          "⑤"
+        ]
+      }
+    ],
+    "colors": {
+      "決勝トーナメント": "pink",
+      "5位タイトーナメント": "green",
+      "25位タイトーナメント": "green",
+      "交流戦": "green",
+      "不戦勝交流戦": "green"
+    },
+    "loseArrows": {
+      "交流戦@3": false
+    },
+    "loseTo": {},
+    "links": [],
+    "cellColors": {}
+  },
+  "venue": {
+    "code": "99",
+    "name": "その他",
+    "themeColor": "",
+    "detail": {}
+  },
+  "categoryCode": "03",
+  "category": {
+    "code": "03",
+    "name": "特別大会",
+    "color": "#ffc93d"
+  },
+  "tourInfo": {
+    "rules": "",
+    "notes": ""
+  },
+  "courtLayout": {
+    "grid": "1,2,3,4,5,6,7,8\n9,10,11,12,13,14,15,16\n17,18,19,20,21,22,23,24\n25,26,27,28,29,30,31,32\n33,34,35,36,37,38,39,40\n41,42,43,44,45,46,47,48\n49,50,51,52,53,54,55,56\n57,58,59,60,61,62,63,64",
+    "labelTop": "",
+    "labelBottom": "",
+    "labelLeft": "",
+    "labelRight": "",
+    "centerLabel": {
+      "text": "",
+      "pos": "bottom"
+    }
+  },
+  "folderName": "",
+  "publishedAt": "2026-11-02T14:45:13.675Z"
+}
