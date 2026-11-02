@@ -1,0 +1,379 @@
+{
+  "venueCode": "99",
+  "eventCode": "9002",
+  "eventName": "対戦表B(128)動作確認vol.1",
+  "displayName": "",
+  "gasUrl": "",
+  "sheetUrl": "",
+  "priority": "tournament",
+  "matchType": "team",
+  "hasPrelim": false,
+  "receptionMembers": true,
+  "nameMode": "nickname",
+  "matchRules": [
+    {
+      "code": "01",
+      "name": "第1試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "第2試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "第3試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "第4試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "第5試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "06",
+      "name": "第6試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "07",
+      "name": "第7試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    }
+  ],
+  "tourneyRules": [
+    {
+      "code": "01",
+      "name": "決勝トーナメント",
+      "fmt": "best3",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "5位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "25位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "不戦勝交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    }
+  ],
+  "roundRules": [
+    {
+      "matchCode": "01",
+      "tourneyCode": "01",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "02",
+      "tourneyCode": "01",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "01",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "01",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "01",
+      "round": "5回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "01",
+      "round": "準決勝"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "01",
+      "round": "決勝"
+    },
+    {
+      "matchCode": "02",
+      "tourneyCode": "02",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "02",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "02",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "02",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "02",
+      "round": "5位タイ決定戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "03",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "03",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "03",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "03",
+      "round": "25位タイ決定戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "04",
+      "round": "①",
+      "prio": ""
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "04",
+      "round": "②",
+      "prio": ""
+    },
+    {
+      "matchCode": "01",
+      "tourneyCode": "05",
+      "round": "①",
+      "prio": ""
+    },
+    {
+      "matchCode": "02",
+      "tourneyCode": "05",
+      "round": "②",
+      "prio": ""
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "05",
+      "round": "③",
+      "prio": ""
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "05",
+      "round": "④",
+      "prio": ""
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "05",
+      "round": "⑤",
+      "prio": ""
+    }
+  ],
+  "teams": [],
+  "teamsUpdatedAt": "",
+  "eventPeriodStart": "2026-11-02T18:03",
+  "eventPeriodEnd": "2026-11-04T18:03",
+  "receptionPw": "1234",
+  "bracketTeamCount": 64,
+  "bracket1Name": "決勝トーナメント",
+  "bracket2TeamCount": 0,
+  "bracket2Name": "Bトーナメント",
+  "exhibition": {
+    "enabled": false,
+    "count": 0,
+    "games": []
+  },
+  "advanceRules": [],
+  "systemChart": {
+    "enabled": true,
+    "cornerLabel": "",
+    "prelims": [],
+    "rowLabels": [
+      "第1試合",
+      "第2試合",
+      "第3試合",
+      "第4試合",
+      "第5試合",
+      "第6試合",
+      "第7試合"
+    ],
+    "legend": [
+      {
+        "label": "3先",
+        "color": "pink"
+      },
+      {
+        "label": "2先",
+        "color": "green"
+      }
+    ],
+    "columns": [
+      {
+        "name": "決勝トーナメント",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "5回戦",
+          "準決勝",
+          "決勝"
+        ]
+      },
+      {
+        "name": "5位タイトーナメント",
+        "startRow": 1,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "5位タイ決定戦"
+        ]
+      },
+      {
+        "name": "25位タイトーナメント",
+        "startRow": 2,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "25位タイ決定戦"
+        ]
+      },
+      {
+        "name": "交流戦",
+        "startRow": 3,
+        "note": "",
+        "cells": [
+          "①",
+          "②"
+        ]
+      },
+      {
+        "name": "不戦勝交流戦",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "①",
+          "②",
+          "③",
+          "④",
+          "⑤"
+        ]
+      }
+    ],
+    "colors": {
+      "決勝トーナメント": "pink",
+      "5位タイトーナメント": "green",
+      "25位タイトーナメント": "green",
+      "交流戦": "green",
+      "不戦勝交流戦": "green"
+    },
+    "loseArrows": {
+      "交流戦@3": false
+    },
+    "loseTo": {},
+    "links": [],
+    "cellColors": {}
+  },
+  "venue": {
+    "code": "99",
+    "name": "その他",
+    "themeColor": "",
+    "detail": {}
+  },
+  "categoryCode": "03",
+  "category": {
+    "code": "03",
+    "name": "特別大会",
+    "color": "#ffc93d"
+  },
+  "tourInfo": {
+    "rules": "【大会規約】\n●大会中止の際は、イベント前日18時までにpeatixより代表者宛にメールにてご連絡します。中止となった場合は返金手続きをさせていただきます。その場合、手数料及び実施準備にかかった費用を差し引いた金額での返金となります。予めご了承ください。\n＜大会中止基準＞\n・警報（大雨、強風、洪水、大雪）または特別警報が発令、またはそれが予想されるときおよび開催地に災害等の被害が発生している場合。\n・警報や特別警報が発令されていなくとも、悪天候（降雨、雷、濃霧など）により参加者の安全確保が困難と判断される場合、または大会運営に重大な支障を来すと判断される場合。\n・使用会場や地方自治体からの大会中止要請、そのほか自粛の判断が必要となる場合。\n・その他何らかの事情により、大会運営に重大な支障を来すと判断された場合。\n● キャンセル規定として、当該大会まで3日未満のキャンセルの場合は、キャンセル費用として参加費の100％を申し受けます。3日前までは、100%返金対応しております。\n※コンビニ・ATM支払いの場合、返金手数料がかかります。詳細はこちらからご覧ください。\n● 本大会は保険に加入しておりません。大会中怪我などがあった場合、自己責任となります。また怪我を負わせてしまった場合も当事者間でご解決ください。\n● 各チームの事情により予定試合開始時間までに試合が開始できない場合、時間の短縮あるいは不戦敗扱いとします。\n● 施設内での貴重品・荷物等の盗難・紛失については一切の責任を負いかねます。\n● 大会のルールを守れない、もしくは大会参加者にふさわしくない行為（暴言、暴力など）があった場合は、大会参加を中止していただきます。\n● 持ち込まれたゴミは各自お持ち帰り下さい。\n● やむを得ない事情（天候不良・天災等）で大会が中止になってしまった場合につきましては、返金とさせて頂きます。※大会中にアクシデントが起き、中止になった場合も含む。\n● 主催者が記録した大会出場中の参加者の映像・写真・記事・記録などは主催者に帰属します。また、この記録のメディア（インターネット・雑誌・テレビ・新聞など）への掲載権は主催者が有します。写真・映像掲載に問題のある場合は、試合前、または表彰式の撮影時などにスタッフお申し出ください。\n● 大会結果（チーム名、出場者名、順位、投擲結果等）は、主催者SNS、配信、Webサイト等に掲載される場合があります。\n●本イベントにおいては、営業行為（商品・サービスの販売、勧誘、宣伝を目的とした活動）を一切禁止しております。また、協賛社様以外による無断での配布行為やプロモーション行為は、他の協賛社様へのご配慮を欠く行為となりますため、固くお断りいたします。\n※もし配布やPRを希望される場合は、協賛プランをご利用のうえ正式にお申込みいただきますようお願い申し上げます。",
+    "notes": ""
+  },
+  "courtLayout": {
+    "grid": "1,2,3,4,5,6,7,8\n9,10,11,12,13,14,15,16\n17,18,19,20,21,22,23,24\n25,26,27,28,29,30,31,32\n33,34,35,36,37,38,39,40\n41,42,43,44,45,46,47,48\n49,50,51,52,53,54,55,56\n57,58,59,60,61,62,63,64",
+    "labelTop": "",
+    "labelBottom": "",
+    "labelLeft": "",
+    "labelRight": "",
+    "centerLabel": {
+      "text": "",
+      "pos": "bottom"
+    }
+  },
+  "folderName": "",
+  "publishedAt": "2026-11-02T09:12:37.340Z"
+}
