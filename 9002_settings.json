@@ -3,8 +3,8 @@
   "eventCode": "9002",
   "eventName": "対戦表B(128)動作確認vol.1",
   "displayName": "",
-  "gasUrl": "",
-  "sheetUrl": "",
+  "gasUrl": "https://script.google.com/macros/s/AKfycbyLdPOen6UUk4-UE4QwW_B8PyFLuZobB7B18wjf_eCKgFJlyBU-Ut7FXMQmwNhJO9H_/exec",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1Pi2PpVoFvBGsa40dI2_AjYzBmdrpP8VCGav7EJ2lhUk/edit?usp=sharing",
   "priority": "tournament",
   "matchType": "team",
   "hasPrelim": false,
@@ -375,5 +375,5 @@
     }
   },
   "folderName": "動作確認用",
-  "publishedAt": "2026-11-02T10:33:04.311Z"
+  "publishedAt": "2026-11-02T13:55:17.544Z"
 }
