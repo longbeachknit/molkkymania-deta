@@ -823,7 +823,7 @@
     }
   ],
   "teamsUpdatedAt": "2026-11-05T14:16:30.004Z",
-  "eventPeriodStart": "2026-11-05T08:30",
+  "eventPeriodStart": "2026-11-07T08:30",
   "eventPeriodEnd": "2026-11-07T18:00",
   "receptionPw": "0041",
   "bracketTeamCount": 128,
@@ -974,5 +974,5 @@
     "labelBottom": ""
   },
   "folderName": "",
-  "publishedAt": "2026-11-05T14:22:20.708Z"
+  "publishedAt": "2026-11-05T15:28:18.424Z"
 }
