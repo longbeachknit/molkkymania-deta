@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T04:26:36.197Z",
+  "updatedAt": "2026-11-07T05:05:34.333Z",
   "eventCode": "0013",
   "rounds": [
     {
@@ -749,23 +749,40 @@
           "team1": "",
           "team2": "エルガーラ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "株式会社マイナビ",
           "team2": "ネスモル.bat",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "楽天モルッククラブ",
           "team2": "PUI PUI モルッカー",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "幕張d rocks",
           "team2": "HSM",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "エルガーラ",
+          "team2": "ネスモル.bat",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "PUI PUI モルッカー",
+          "team2": "幕張d rocks",
           "win1": false,
           "win2": false
         }
