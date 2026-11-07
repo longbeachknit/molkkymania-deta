@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T02:26:49.337Z",
+  "updatedAt": "2026-11-07T03:20:57.990Z",
   "eventCode": "0013",
   "rounds": [
     {
@@ -595,94 +595,147 @@
           "team1": "BS朝日",
           "team2": "HRD 緑茶",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "りもるっく",
           "team2": "しらすちっちゃい@東急住宅リース",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "航空補給処(漢)",
           "team2": "チームASD3",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "エルガーラ",
           "team2": "きびなごかわいい@東急住宅リース",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "モルックSP_E",
           "team2": "株式会社マイナビ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "HRD ほうじ茶",
           "team2": "ぜねもる団黄",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "リクルートゆるモルック部B",
           "team2": "ネスモル.bat",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Mölspirits A",
           "team2": "オイラーズA",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "絶賛社会の荒波サバイバー",
           "team2": "楽天モルッククラブ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "チームNSA 1",
           "team2": "NE",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ぜねもる団赤",
           "team2": "ABURI③",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "PUI PUI モルッカー",
           "team2": "きっき",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "SSCモルック同好会",
           "team2": "幕張d rocks",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ABURI②",
+          "team2": "MDT②",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "HSM",
+          "team2": "モルックSP_A",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "楽響 powered by NTTドコモビジネスエンジニアリング",
+          "team2": "スキットル大好きっとる",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "4回戦",
+      "matches": [
+        {
+          "team1": "HRD 緑茶",
+          "team2": "りもるっく",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "航空補給処(漢)",
+          "team2": "エルガーラ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "株式会社マイナビ",
+          "team2": "HRD ほうじ茶",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ネスモル.bat",
+          "team2": "オイラーズA",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "楽天モルッククラブ",
+          "team2": "NE",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ABURI③",
+          "team2": "PUI PUI モルッカー",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "幕張d rocks",
           "team2": "MDT②",
           "win1": false,
           "win2": false
         },
         {
           "team1": "HSM",
-          "team2": "モルックSP_A",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "楽響 powered by NTTドコモビジネスエンジニアリング",
           "team2": "スキットル大好きっとる",
           "win1": false,
           "win2": false
