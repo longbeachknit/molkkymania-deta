@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T00:30:48.706Z",
+  "updatedAt": "2026-11-07T00:31:18.559Z",
   "eventCode": "0013",
   "rounds": [
     {
@@ -110,7 +110,7 @@
         {
           "team1": "うすあっさ",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -444,7 +444,7 @@
         },
         {
           "team1": "モルックSP_E",
-          "team2": "",
+          "team2": "うすあっさ",
           "win1": false,
           "win2": false
         },
