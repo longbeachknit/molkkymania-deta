@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T07:07:45.246Z",
+  "updatedAt": "2026-11-07T00:30:48.706Z",
   "eventCode": "0013",
   "rounds": [
     {
@@ -109,7 +109,7 @@
         },
         {
           "team1": "うすあっさ",
-          "team2": "SSCゾス･トランキーロ",
+          "team2": "",
           "win1": false,
           "win2": false
         },
@@ -151,7 +151,7 @@
         },
         {
           "team1": "BSウイングモルックチーム",
-          "team2": "Morui",
+          "team2": "ネスモル.php",
           "win1": false,
           "win2": false
         },
@@ -247,7 +247,7 @@
         },
         {
           "team1": "リクルートゆるモルック部A",
-          "team2": "",
+          "team2": "運営チーム",
           "win1": true,
           "win2": false
         },
