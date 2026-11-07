@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T05:06:18.354Z",
+  "updatedAt": "2026-11-07T05:59:16.254Z",
   "eventCode": "0013",
   "rounds": [
     {
@@ -778,11 +778,22 @@
           "team1": "エルガーラ",
           "team2": "ネスモル.bat",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "PUI PUI モルッカー",
           "team2": "幕張d rocks",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "決勝",
+      "matches": [
+        {
+          "team1": "ネスモル.bat",
+          "team2": "PUI PUI モルッカー",
           "win1": false,
           "win2": false
         }
