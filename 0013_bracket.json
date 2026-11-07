@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T05:59:16.254Z",
+  "updatedAt": "2026-11-07T06:28:24.803Z",
   "eventCode": "0013",
   "rounds": [
     {
@@ -795,7 +795,7 @@
           "team1": "ネスモル.bat",
           "team2": "PUI PUI モルッカー",
           "win1": false,
-          "win2": false
+          "win2": true
         }
       ]
     }
