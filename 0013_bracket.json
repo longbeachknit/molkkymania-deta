@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T03:21:27.078Z",
+  "updatedAt": "2026-11-07T04:21:47.438Z",
   "eventCode": "0013",
   "rounds": [
     {
@@ -696,47 +696,76 @@
           "team1": "HRD 緑茶",
           "team2": "りもるっく",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "航空補給処(漢)",
           "team2": "エルガーラ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "株式会社マイナビ",
           "team2": "HRD ほうじ茶",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ネスモル.bat",
           "team2": "オイラーズA",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "楽天モルッククラブ",
           "team2": "NE",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ABURI③",
           "team2": "PUI PUI モルッカー",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "幕張d rocks",
           "team2": "MDT②",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "HSM",
           "team2": "スキットル大好きっとる",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "5回戦",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "エルガーラ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "株式会社マイナビ",
+          "team2": "ネスモル.bat",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "楽天モルッククラブ",
+          "team2": "PUI PUI モルッカー",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "幕張d rocks",
+          "team2": "HSM",
           "win1": false,
           "win2": false
         }
