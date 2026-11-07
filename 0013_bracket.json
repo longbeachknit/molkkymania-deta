@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T00:58:19.982Z",
+  "updatedAt": "2026-11-07T01:42:42.719Z",
   "eventCode": "0013",
   "rounds": [
     {
@@ -14,43 +14,43 @@
         {
           "team1": "HRD 抹茶",
           "team2": "Molcareer_2",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "モルック TRD",
           "team2": "チームNSA 2",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "HRD 緑茶",
           "team2": "JRC-FF",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "YSAモルック部",
           "team2": "モルキューＡ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "りもるっく",
           "team2": "トリートメントスムース",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "楽楽モルック",
           "team2": "しらすちっちゃい@東急住宅リース",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "NB埼玉モルック部A",
           "team2": "チームノゾミ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -62,38 +62,38 @@
         {
           "team1": "Team High-End",
           "team2": "富士港運　本社",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "HOI HOI モルッカー",
           "team2": "Kyobashi-Opus",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "DONNOLA B",
           "team2": "チームASD3",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "エルガーラ",
           "team2": "NBMC2",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Kyobashi-Oasis",
           "team2": "モルックSP_C",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ネスモル.png",
           "team2": "きびなごかわいい@東急住宅リース",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "リクルートゆるモルック部C",
@@ -116,79 +116,79 @@
         {
           "team1": "ストレートヘアミルク",
           "team2": "モルックSP_S",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Scuderia-Kyobashi",
           "team2": "株式会社マイナビ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "トラストビジョン",
           "team2": "リッチヘアオイル",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "SSS",
           "team2": "HRD ほうじ茶",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "X-Horse①",
           "team2": "NB埼玉モルック部B",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ぜねもる団黄",
           "team2": "Pocket home",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "BSウイングモルックチーム",
           "team2": "ネスモル.php",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "リクルートゆるモルック部B",
           "team2": "こいこって",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ぜねもる団青",
           "team2": "ネスモル.bat",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Kyobashi-Haiku",
           "team2": "リクルートゆるモルック部D",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "あぶり①",
           "team2": "MASA1",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ネスモル.md",
           "team2": "Mölspirits A",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "オイラーズA",
           "team2": "PASSIONE TT",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -206,43 +206,43 @@
         {
           "team1": "X-Horse②",
           "team2": "富士港運（株）船橋　Ｂチーム",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "エイアンドティー",
           "team2": "MRGモルック部C",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "楽天モルッククラブ",
           "team2": "太丸☆ゴシック",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "SHIPC",
           "team2": "MDT①",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "SHIP B",
           "team2": "チームNSA 1",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "YSA",
           "team2": "SHIP A",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "NE",
           "team2": "かしおペア",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -255,37 +255,37 @@
           "team1": "Mölspirits Ｂ",
           "team2": "ぜねもる団赤",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ABURI③",
           "team2": "NBMC1",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "インテージヘルスケアB",
           "team2": "ネスモル.zip",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "HRD 玄米茶",
           "team2": "シャンプーモイスト",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "オイラーズB",
           "team2": "PUI PUI モルッカー",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ネスモル.json",
           "team2": "きっき",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "MRGモルック部B",
@@ -303,37 +303,37 @@
           "team1": "Molcareer_1",
           "team2": "モルックSP_B",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "オイラーズC",
           "team2": "Molcareer_3",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "幕張d rocks",
           "team2": "MDT③",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Kyobashi-Sonnet",
           "team2": "インテージヘルスケアA",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ネスモル.exe",
           "team2": "ABURI②",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "SHIP D",
           "team2": "MDT②",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "富士港運（株）船橋 Aチーム",
@@ -344,44 +344,44 @@
         {
           "team1": "HSM",
           "team2": "川崎の防波堤",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ししゃもおいしい@東急住宅リース",
           "team2": "tokyo journey",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "モルックSP_A",
           "team2": "FCCLモルック同好会",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "MRGモルック部A",
           "team2": "DEENモルック部",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "楽響 powered by NTTドコモビジネスエンジニアリング",
           "team2": "モルックSP_D",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "DONNOLA A",
           "team2": "富士港運（株）市川チーム",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "モルキューB",
           "team2": "スキットル大好きっとる",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "MDJ",
@@ -396,48 +396,48 @@
       "matches": [
         {
           "team1": "BS朝日",
-          "team2": "",
+          "team2": "HRD 抹茶",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "モルック TRD",
+          "team2": "HRD 緑茶",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "モルキューＡ",
+          "team2": "りもるっく",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "しらすちっちゃい@東急住宅リース",
+          "team2": "NB埼玉モルック部A",
           "win1": false,
           "win2": false
         },
         {
           "team1": "航空補給処(漢)",
-          "team2": "",
+          "team2": "Team High-End",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "HOI HOI モルッカー",
+          "team2": "チームASD3",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "エルガーラ",
+          "team2": "モルックSP_C",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
+          "team1": "きびなごかわいい@東急住宅リース",
           "team2": "リクルートゆるモルック部C",
           "win1": false,
           "win2": false
@@ -449,139 +449,139 @@
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "ストレートヘアミルク",
+          "team2": "株式会社マイナビ",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "トラストビジョン",
+          "team2": "HRD ほうじ茶",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "X-Horse①",
+          "team2": "ぜねもる団黄",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "BSウイングモルックチーム",
+          "team2": "リクルートゆるモルック部B",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "ネスモル.bat",
+          "team2": "リクルートゆるモルック部D",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "あぶり①",
+          "team2": "Mölspirits A",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
+          "team1": "オイラーズA",
           "team2": "Morui",
           "win1": false,
           "win2": false
         },
         {
           "team1": "絶賛社会の荒波サバイバー",
-          "team2": "",
+          "team2": "X-Horse②",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "エイアンドティー",
+          "team2": "楽天モルッククラブ",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "MDT①",
+          "team2": "チームNSA 1",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "SHIP A",
+          "team2": "NE",
           "win1": false,
           "win2": false
         },
         {
           "team1": "リクルートゆるモルック部A",
-          "team2": "",
+          "team2": "ぜねもる団赤",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "ABURI③",
+          "team2": "ネスモル.zip",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "HRD 玄米茶",
+          "team2": "PUI PUI モルッカー",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
+          "team1": "きっき",
           "team2": "MRGモルック部B",
           "win1": false,
           "win2": false
         },
         {
           "team1": "SSCモルック同好会",
-          "team2": "",
+          "team2": "モルックSP_B",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "オイラーズC",
+          "team2": "幕張d rocks",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "インテージヘルスケアA",
+          "team2": "ABURI②",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
+          "team1": "MDT②",
           "team2": "富士港運（株）船橋 Aチーム",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "HSM",
+          "team2": "tokyo journey",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "モルックSP_A",
+          "team2": "DEENモルック部",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
-          "team2": "",
+          "team1": "楽響 powered by NTTドコモビジネスエンジニアリング",
+          "team2": "富士港運（株）市川チーム",
           "win1": false,
           "win2": false
         },
         {
-          "team1": "",
+          "team1": "スキットル大好きっとる",
           "team2": "MDJ",
           "win1": false,
           "win2": false
