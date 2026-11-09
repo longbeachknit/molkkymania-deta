@@ -72,7 +72,7 @@
     {
       "code": "01",
       "name": "決勝トーナメント",
-      "fmt": "best3",
+      "fmt": "best2",
       "turnLimit": true,
       "playerMin": 2,
       "playerMax": 4
@@ -265,10 +265,6 @@
     ],
     "legend": [
       {
-        "label": "3先",
-        "color": "pink"
-      },
-      {
         "label": "2先",
         "color": "green"
       }
@@ -334,7 +330,7 @@
       }
     ],
     "colors": {
-      "決勝トーナメント": "pink",
+      "決勝トーナメント": "green",
       "5位タイトーナメント": "green",
       "25位タイトーナメント": "green",
       "交流戦": "green",
@@ -375,5 +371,5 @@
     }
   },
   "folderName": "テンプレ",
-  "publishedAt": "2026-11-02T14:49:13.260Z"
+  "publishedAt": "2026-11-09T00:20:47.049Z"
 }
