@@ -14,207 +14,207 @@
   "nameMode": "nickname",
   "matchRules": [
     {
+      "fmt": "best2",
       "code": "01",
       "name": "第1試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "02",
       "name": "第2試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "03",
       "name": "第3試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "04",
       "name": "第4試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "05",
       "name": "第5試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "06",
       "name": "第6試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     }
   ],
   "tourneyRules": [
     {
+      "fmt": "best3",
       "code": "01",
       "name": "決勝トーナメント",
-      "fmt": "best3",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "02",
       "name": "5位タイトーナメント",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "03",
       "name": "21位タイトーナメント",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "04",
       "name": "交流戦",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "05",
       "name": "不戦勝交流戦",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     }
   ],
   "roundRules": [
     {
+      "round": "1回戦",
       "matchCode": "01",
-      "tourneyCode": "01",
-      "round": "1回戦"
+      "tourneyCode": "01"
     },
     {
+      "round": "2回戦",
       "matchCode": "02",
-      "tourneyCode": "01",
-      "round": "2回戦"
+      "tourneyCode": "01"
     },
     {
+      "round": "3回戦",
       "matchCode": "03",
-      "tourneyCode": "01",
-      "round": "3回戦"
+      "tourneyCode": "01"
     },
     {
+      "round": "4回戦",
       "matchCode": "04",
-      "tourneyCode": "01",
-      "round": "4回戦"
+      "tourneyCode": "01"
     },
     {
-      "matchCode": "05",
-      "tourneyCode": "01",
+      "prio": "",
       "round": "準決勝",
-      "prio": ""
+      "matchCode": "05",
+      "tourneyCode": "01"
     },
     {
-      "matchCode": "06",
-      "tourneyCode": "01",
+      "prio": "",
       "round": "決勝戦",
-      "prio": ""
+      "matchCode": "06",
+      "tourneyCode": "01"
     },
     {
+      "round": "1回戦",
       "matchCode": "02",
-      "tourneyCode": "02",
-      "round": "1回戦"
+      "tourneyCode": "02"
     },
     {
+      "round": "2回戦",
       "matchCode": "03",
-      "tourneyCode": "02",
-      "round": "2回戦"
+      "tourneyCode": "02"
     },
     {
+      "round": "3回戦",
       "matchCode": "04",
-      "tourneyCode": "02",
-      "round": "3回戦"
+      "tourneyCode": "02"
     },
     {
-      "matchCode": "05",
-      "tourneyCode": "02",
+      "prio": "",
       "round": "5位タイ決定戦",
-      "prio": ""
-    },
-    {
-      "matchCode": "03",
-      "tourneyCode": "03",
-      "round": "1回戦"
-    },
-    {
-      "matchCode": "04",
-      "tourneyCode": "03",
-      "round": "2回戦"
-    },
-    {
       "matchCode": "05",
-      "tourneyCode": "03",
+      "tourneyCode": "02"
+    },
+    {
+      "round": "1回戦",
+      "matchCode": "03",
+      "tourneyCode": "03"
+    },
+    {
+      "round": "2回戦",
+      "matchCode": "04",
+      "tourneyCode": "03"
+    },
+    {
+      "prio": "",
       "round": "21位タイ決定戦",
-      "prio": ""
-    },
-    {
-      "matchCode": "04",
-      "tourneyCode": "04",
-      "round": "①",
-      "prio": ""
-    },
-    {
       "matchCode": "05",
-      "tourneyCode": "04",
-      "round": "②",
-      "prio": ""
+      "tourneyCode": "03"
     },
     {
+      "prio": "",
+      "round": "①",
+      "matchCode": "04",
+      "tourneyCode": "04"
+    },
+    {
+      "prio": "",
+      "round": "②",
+      "matchCode": "05",
+      "tourneyCode": "04"
+    },
+    {
+      "prio": "",
+      "round": "①",
       "matchCode": "01",
-      "tourneyCode": "05",
-      "round": "①",
-      "prio": ""
+      "tourneyCode": "05"
     },
     {
-      "matchCode": "02",
-      "tourneyCode": "05",
+      "prio": "",
       "round": "②",
-      "prio": ""
+      "matchCode": "02",
+      "tourneyCode": "05"
     },
     {
-      "matchCode": "03",
-      "tourneyCode": "05",
+      "prio": "",
       "round": "③",
-      "prio": ""
+      "matchCode": "03",
+      "tourneyCode": "05"
     },
     {
-      "matchCode": "04",
-      "tourneyCode": "05",
+      "prio": "",
       "round": "④",
-      "prio": ""
+      "matchCode": "04",
+      "tourneyCode": "05"
     },
     {
-      "matchCode": "05",
-      "tourneyCode": "05",
+      "prio": "",
       "round": "⑤",
-      "prio": ""
+      "matchCode": "05",
+      "tourneyCode": "05"
     }
   ],
   "teams": [],
@@ -328,7 +328,6 @@
   "venue": {
     "code": "01",
     "name": "川崎",
-    "themeColor": "#1E88E5",
     "detail": {
       "notes": [],
       "rules": "",
@@ -342,7 +341,8 @@
       "sections": [],
       "mapImageUrl": "https://app.molkky.co.jp/maps/488d24ed02c27fbe.jpg",
       "locationName": "丸子橋第一広場"
-    }
+    },
+    "themeColor": "#1E88E5"
   },
   "categoryCode": "03",
   "category": {
@@ -351,20 +351,20 @@
     "color": "#ffc93d"
   },
   "tourInfo": {
-    "rules": "",
-    "notes": ""
+    "notes": "【防寒対策について】\n河川敷は断続的に風が吹くため、夕方にかけて肌寒く感じる場合がございます。各自で防寒対策をお願い致します。\n\n【服装について】\n大会会場は砂地となっておりますので汚れても良い服装でお越しください。\n\n【ゴミの持ち帰り】\nゴミは各自でお持ち帰りください。\nよろしくお願い致します。",
+    "rules": ""
   },
   "courtLayout": {
     "grid": "64,63,62,61,60,59,58,57\n56,55,54,53,52,51,50,49\n48,47,46,45,44,43,42,41\n40,39,38,37,36,35,34,33\n32,31,30,29,28,27,26,25\n24,23,22,21,20,19,18,17\n16,15,14,13,12,11,10,9\n8,7,6,5,4,3,2,1",
     "labelTop": "ゲートボール場、ゴルフ場",
-    "labelBottom": "丸子橋",
     "labelLeft": "多摩川",
     "labelRight": "新丸子駅方面",
     "centerLabel": {
       "text": "本部",
       "pos": "bottom"
-    }
+    },
+    "labelBottom": "丸子橋"
   },
   "folderName": "請負大会",
-  "publishedAt": "2026-11-09T07:37:55.698Z"
+  "publishedAt": "2026-11-09T07:58:02.422Z"
 }
