@@ -9,500 +9,502 @@
   "matchType": "team",
   "hasPrelim": false,
   "receptionMembers": true,
+  "privateOnly": true,
+  "privatePwHash": "331f53efc3da89640cdce156fd144c5a525601be150198b7468e43b612721e33",
   "nameMode": "nickname",
   "matchRules": [
     {
+      "fmt": "best2",
       "code": "01",
       "name": "第1試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "02",
       "name": "第2試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "03",
       "name": "第3試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "04",
       "name": "第4試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "05",
       "name": "第5試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "06",
       "name": "第6試合",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     }
   ],
   "tourneyRules": [
     {
+      "fmt": "best3",
       "code": "01",
       "name": "決勝トーナメント",
-      "fmt": "best3",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "02",
       "name": "5位タイトーナメント",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "03",
       "name": "21位タイトーナメント",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "04",
       "name": "交流戦",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
+      "fmt": "best2",
       "code": "05",
       "name": "不戦勝交流戦",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     }
   ],
   "roundRules": [
     {
+      "round": "1回戦",
       "matchCode": "01",
-      "tourneyCode": "01",
-      "round": "1回戦"
+      "tourneyCode": "01"
     },
     {
+      "round": "2回戦",
       "matchCode": "02",
-      "tourneyCode": "01",
-      "round": "2回戦"
+      "tourneyCode": "01"
     },
     {
+      "round": "3回戦",
       "matchCode": "03",
-      "tourneyCode": "01",
-      "round": "3回戦"
+      "tourneyCode": "01"
     },
     {
+      "round": "4回戦",
       "matchCode": "04",
-      "tourneyCode": "01",
-      "round": "4回戦"
+      "tourneyCode": "01"
     },
     {
-      "matchCode": "05",
-      "tourneyCode": "01",
+      "prio": "",
       "round": "準決勝",
-      "prio": ""
+      "matchCode": "05",
+      "tourneyCode": "01"
     },
     {
-      "matchCode": "06",
-      "tourneyCode": "01",
+      "prio": "",
       "round": "決勝戦",
-      "prio": ""
+      "matchCode": "06",
+      "tourneyCode": "01"
     },
     {
+      "round": "1回戦",
       "matchCode": "02",
-      "tourneyCode": "02",
-      "round": "1回戦"
+      "tourneyCode": "02"
     },
     {
+      "round": "2回戦",
       "matchCode": "03",
-      "tourneyCode": "02",
-      "round": "2回戦"
+      "tourneyCode": "02"
     },
     {
+      "round": "3回戦",
       "matchCode": "04",
-      "tourneyCode": "02",
-      "round": "3回戦"
+      "tourneyCode": "02"
     },
     {
-      "matchCode": "05",
-      "tourneyCode": "02",
+      "prio": "",
       "round": "5位タイ決定戦",
-      "prio": ""
-    },
-    {
-      "matchCode": "03",
-      "tourneyCode": "03",
-      "round": "1回戦"
-    },
-    {
-      "matchCode": "04",
-      "tourneyCode": "03",
-      "round": "2回戦"
-    },
-    {
       "matchCode": "05",
-      "tourneyCode": "03",
+      "tourneyCode": "02"
+    },
+    {
+      "round": "1回戦",
+      "matchCode": "03",
+      "tourneyCode": "03"
+    },
+    {
+      "round": "2回戦",
+      "matchCode": "04",
+      "tourneyCode": "03"
+    },
+    {
+      "prio": "",
       "round": "21位タイ決定戦",
-      "prio": ""
-    },
-    {
-      "matchCode": "04",
-      "tourneyCode": "04",
-      "round": "①",
-      "prio": ""
-    },
-    {
       "matchCode": "05",
-      "tourneyCode": "04",
-      "round": "②",
-      "prio": ""
+      "tourneyCode": "03"
     },
     {
+      "prio": "",
+      "round": "①",
+      "matchCode": "04",
+      "tourneyCode": "04"
+    },
+    {
+      "prio": "",
+      "round": "②",
+      "matchCode": "05",
+      "tourneyCode": "04"
+    },
+    {
+      "prio": "",
+      "round": "①",
       "matchCode": "01",
-      "tourneyCode": "05",
-      "round": "①",
-      "prio": ""
+      "tourneyCode": "05"
     },
     {
-      "matchCode": "02",
-      "tourneyCode": "05",
+      "prio": "",
       "round": "②",
-      "prio": ""
+      "matchCode": "02",
+      "tourneyCode": "05"
     },
     {
-      "matchCode": "03",
-      "tourneyCode": "05",
+      "prio": "",
       "round": "③",
-      "prio": ""
+      "matchCode": "03",
+      "tourneyCode": "05"
     },
     {
-      "matchCode": "04",
-      "tourneyCode": "05",
+      "prio": "",
       "round": "④",
-      "prio": ""
+      "matchCode": "04",
+      "tourneyCode": "05"
     },
     {
-      "matchCode": "05",
-      "tourneyCode": "05",
+      "prio": "",
       "round": "⑤",
-      "prio": ""
+      "matchCode": "05",
+      "tourneyCode": "05"
     }
   ],
   "teams": [
     {
       "id": "001",
       "name": "0001",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "002",
       "name": "0002",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "003",
       "name": "0003",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "004",
       "name": "0004",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "005",
       "name": "0005",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "006",
       "name": "0006",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "007",
       "name": "0007",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "008",
       "name": "0008",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "009",
       "name": "0009",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "010",
       "name": "0010",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "011",
       "name": "0011",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "012",
       "name": "0012",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "013",
       "name": "0013",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "014",
       "name": "0014",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "015",
       "name": "0015",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "016",
       "name": "0016",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "017",
       "name": "0017",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "018",
       "name": "0018",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "019",
       "name": "0019",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "020",
       "name": "0020",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "021",
       "name": "0021",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "022",
       "name": "0022",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "023",
       "name": "0023",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "024",
       "name": "0024",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "025",
       "name": "0025",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "026",
       "name": "0026",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "027",
       "name": "0027",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "028",
       "name": "0028",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "029",
       "name": "0029",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "030",
       "name": "0030",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "031",
       "name": "0031",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "032",
       "name": "0032",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "033",
       "name": "0033",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "034",
       "name": "0034",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "035",
       "name": "0035",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "036",
       "name": "0036",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "037",
       "name": "0037",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "038",
       "name": "0038",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "039",
       "name": "0039",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "040",
       "name": "0040",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "041",
       "name": "0041",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "042",
       "name": "0042",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "043",
       "name": "0043",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "044",
       "name": "0044",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "045",
       "name": "0045",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "046",
       "name": "0046",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "047",
       "name": "0047",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "048",
       "name": "0048",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     }
   ],
   "teamsUpdatedAt": "2026-11-09T06:45:09.369Z",
@@ -615,8 +617,8 @@
   "venue": {
     "code": "99",
     "name": "その他",
-    "themeColor": "",
-    "detail": {}
+    "detail": {},
+    "themeColor": ""
   },
   "categoryCode": "03",
   "category": {
@@ -625,20 +627,20 @@
     "color": "#ffc93d"
   },
   "tourInfo": {
-    "rules": "",
-    "notes": ""
+    "notes": "",
+    "rules": ""
   },
   "courtLayout": {
     "grid": "64,63,62,61,60,59,58,57\n56,55,54,53,52,51,50,49\n48,47,46,45,44,43,42,41\n40,39,38,37,36,35,34,33\n32,31,30,29,28,27,26,25\n24,23,22,21,20,19,18,17\n16,15,14,13,12,11,10,9\n8,7,6,5,4,3,2,1",
     "labelTop": "ゲートボール場、ゴルフ場",
-    "labelBottom": "丸子橋",
     "labelLeft": "多摩川",
     "labelRight": "新丸子駅方面",
     "centerLabel": {
       "text": "本部",
       "pos": "bottom"
-    }
+    },
+    "labelBottom": "丸子橋"
   },
   "folderName": "",
-  "publishedAt": "2026-11-09T06:42:18.214Z"
+  "publishedAt": "2026-11-09T07:16:58.739Z"
 }
