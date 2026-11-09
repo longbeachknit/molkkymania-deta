@@ -344,11 +344,11 @@
       "locationName": "丸子橋第一広場"
     }
   },
-  "categoryCode": "01",
+  "categoryCode": "03",
   "category": {
-    "code": "01",
-    "name": "通常大会",
-    "color": ""
+    "code": "03",
+    "name": "特別大会",
+    "color": "#ffc93d"
   },
   "tourInfo": {
     "rules": "",
@@ -366,5 +366,5 @@
     }
   },
   "folderName": "請負大会",
-  "publishedAt": "2026-11-09T07:37:38.440Z"
+  "publishedAt": "2026-11-09T07:37:55.698Z"
 }
