@@ -1,0 +1,424 @@
+{
+  "venueCode": "01",
+  "eventCode": "0014",
+  "eventName": "Mölkky Mania Kawasaki -OPEN- Season.7-2",
+  "displayName": "",
+  "gasUrl": "https://script.google.com/macros/s/AKfycbybKFd95x3mTbyilQU_h9_1Zim55iwHJICUZ0AzSk0c2FmRu7SjXQQ7l0ytzNtLh-bp2Q/exec",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1oCrvoGUgFT2cIlNJDYY0I6o0YhJDlQoNacA2hykkfSI/edit?usp=sharing",
+  "priority": "tournament",
+  "matchType": "team",
+  "hasPrelim": true,
+  "receptionMembers": false,
+  "nameMode": "real",
+  "matchRules": [
+    {
+      "code": "01",
+      "name": "予選①",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "予選②",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "予選③",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "第1試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "第2試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "06",
+      "name": "第3試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "07",
+      "name": "第4試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "08",
+      "name": "第5試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "09",
+      "name": "第6試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    }
+  ],
+  "tourneyRules": [
+    {
+      "code": "00",
+      "name": "",
+      "fmt": "round2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "01",
+      "name": "決勝トーナメント",
+      "fmt": "best3",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "5位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "15位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "不戦勝交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    }
+  ],
+  "roundRules": [
+    {
+      "matchCode": "04",
+      "tourneyCode": "01",
+      "round": "1回戦",
+      "prio": "match"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "01",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "01",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "01",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "01",
+      "round": "準決勝"
+    },
+    {
+      "matchCode": "09",
+      "tourneyCode": "01",
+      "round": "決勝、3決"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "02",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "02",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "02",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "02",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "02",
+      "round": "5回戦"
+    },
+    {
+      "matchCode": "09",
+      "tourneyCode": "02",
+      "round": "5位タイ決定戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "03",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "03",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "03",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "08",
+      "tourneyCode": "03",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "09",
+      "tourneyCode": "03",
+      "round": "15位タイ決定戦"
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "04",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "04",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "05",
+      "round": "①",
+      "prio": ""
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "05",
+      "round": "②",
+      "prio": ""
+    },
+    {
+      "matchCode": "07",
+      "tourneyCode": "05",
+      "round": "③",
+      "prio": ""
+    }
+  ],
+  "teams": [],
+  "teamsUpdatedAt": "",
+  "eventPeriodStart": "2026-11-14T08:30",
+  "eventPeriodEnd": "2026-11-14T18:00",
+  "receptionPw": "1173",
+  "bracketTeamCount": 64,
+  "bracket1Name": "決勝トーナメント",
+  "bracket2TeamCount": 0,
+  "bracket2Name": "Bトーナメント",
+  "exhibition": {
+    "enabled": false,
+    "count": 0,
+    "games": []
+  },
+  "advanceRules": [
+    {
+      "from": 1,
+      "to": 64,
+      "tourneyCode": "01",
+      "label": "決勝 T"
+    },
+    {
+      "from": 65,
+      "to": 128,
+      "tourneyCode": "02",
+      "label": "5位タイT"
+    }
+  ],
+  "systemChart": {
+    "enabled": true,
+    "cornerLabel": "",
+    "prelims": [
+      "予選①",
+      "予選②",
+      "予選③"
+    ],
+    "rowLabels": [
+      "第1試合",
+      "第2試合",
+      "第3試合",
+      "第4試合",
+      "第5試合",
+      "第6試合"
+    ],
+    "legend": [
+      {
+        "label": "3先",
+        "color": "pink"
+      },
+      {
+        "label": "2先",
+        "color": "green"
+      }
+    ],
+    "columns": [
+      {
+        "name": "決勝トーナメント",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "準決勝",
+          "決勝、3決"
+        ]
+      },
+      {
+        "name": "5位タイトーナメント",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "5回戦",
+          "5位タイ決定戦"
+        ]
+      },
+      {
+        "name": "15位タイトーナメント",
+        "startRow": 1,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "15位タイ決定戦"
+        ]
+      },
+      {
+        "name": "交流戦",
+        "startRow": 2,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦"
+        ]
+      },
+      {
+        "name": "不戦勝交流戦",
+        "startRow": 1,
+        "note": "",
+        "cells": [
+          "①",
+          "②",
+          "③"
+        ]
+      }
+    ],
+    "colors": {
+      "決勝トーナメント": "pink",
+      "5位タイトーナメント": "green",
+      "15位タイトーナメント": "green",
+      "交流戦": "green",
+      "不戦勝交流戦": "green"
+    },
+    "loseArrows": {
+      "交流戦@2": false
+    },
+    "loseTo": {},
+    "links": [],
+    "cellColors": {
+      "決勝トーナメント@0": "green"
+    }
+  },
+  "venue": {
+    "code": "01",
+    "name": "川崎",
+    "themeColor": "#1E88E5",
+    "detail": {
+      "notes": [],
+      "rules": "",
+      "access": "東急東横線「新丸子駅」　徒歩10分",
+      "mapUrl": "https://maps.app.goo.gl/Qy2DZ57eAdDjfB5RA",
+      "toilet": "会場の下流側と上流側にそれぞれトイレあり。",
+      "address": "神奈川県川崎市中原区上丸子八幡町",
+      "garbage": "ゴミは各自でのお持ち帰りをお願い申し上げます。",
+      "parking": "会場近くに「丸子橋河川敷駐車場」あり。料金は1000円、開場時間は6時～18時半（4/1～10月末日）、6時～16時半（11/1～3月末日）",
+      "smoking": "河川敷内は全面禁煙です。",
+      "sections": [],
+      "mapImageUrl": "https://app.molkky.co.jp/maps/488d24ed02c27fbe.jpg",
+      "locationName": "丸子橋第一広場"
+    }
+  },
+  "categoryCode": "01",
+  "category": {
+    "code": "01",
+    "name": "通常大会",
+    "color": ""
+  },
+  "tourInfo": {
+    "rules": "【大会規約】\n●大会中止の際は、イベント前日18時までにpeatixより代表者宛にメールにてご連絡します。中止となった場合は返金手続きをさせていただきます。その場合、手数料及び実施準備にかかった費用を差し引いた金額での返金となります。予めご了承ください。\n＜大会中止基準＞\n・警報（大雨、強風、洪水、大雪）または特別警報が発令、またはそれが予想されるときおよび開催地に災害等の被害が発生している場合。\n・警報や特別警報が発令されていなくとも、悪天候（降雨、雷、濃霧など）により参加者の安全確保が困難と判断される場合、または大会運営に重大な支障を来すと判断される場合。\n・使用会場や地方自治体からの大会中止要請、そのほか自粛の判断が必要となる場合。\n・その他何らかの事情により、大会運営に重大な支障を来すと判断された場合。\n● キャンセル規定として、当該大会まで3日未満のキャンセルの場合は、キャンセル費用として参加費の100％を申し受けます。3日前までは、100%返金対応しております。\n※コンビニ・ATM支払いの場合、返金手数料がかかります。詳細はこちらからご覧ください。\n● 本大会は保険に加入しておりません。大会中怪我などがあった場合、自己責任となります。また怪我を負わせてしまった場合も当事者間でご解決ください。\n● 各チームの事情により予定試合開始時間までに試合が開始できない場合、時間の短縮あるいは不戦敗扱いとします。\n● 施設内での貴重品・荷物等の盗難・紛失については一切の責任を負いかねます。\n● 大会のルールを守れない、もしくは大会参加者にふさわしくない行為（暴言、暴力など）があった場合は、大会参加を中止していただきます。\n● 持ち込まれたゴミは各自お持ち帰り下さい。\n● やむを得ない事情（天候不良・天災等）で大会が中止になってしまった場合につきましては、返金とさせて頂きます。※大会中にアクシデントが起き、中止になった場合も含む。\n● 主催者が記録した大会出場中の参加者の映像・写真・記事・記録などは主催者に帰属します。また、この記録のメディア（インターネット・雑誌・テレビ・新聞など）への掲載権は主催者が有します。写真・映像掲載に問題のある場合は、試合前、または表彰式の撮影時などにスタッフお申し出ください。\n● 大会結果（チーム名、出場者名、順位、投擲結果等）は、主催者SNS、配信、Webサイト等に掲載される場合があります。\n●本イベントにおいては、営業行為（商品・サービスの販売、勧誘、宣伝を目的とした活動）を一切禁止しております。また、協賛社様以外による無断での配布行為やプロモーション行為は、他の協賛社様へのご配慮を欠く行為となりますため、固くお断りいたします。\n※もし配布やPRを希望される場合は、協賛プランをご利用のうえ正式にお申込みいただきますようお願い申し上げます。",
+    "notes": "【防寒対策について】\n河川敷は断続的に風が吹くため、夕方にかけて肌寒く感じる場合がございます。各自で防寒対策をお願い致します。\n\n【昼食について】\n今大会は昼休憩を設けておりませんので、昼食をご持参の上、空き時間で軽食をお取りください。会場近くにはコンビニはございませんが、キッチンカーが出店するのでぜひお買い求めください。\n\n【受付前のアップについて】\n受付の開始時刻は9時を予定しております。受付前はコートでの練習を禁止しておりますので、コート外でアップ等を行うようお願い致します。\n※時間は多少前後する場合があります。悪しからずご了承ください。\n\n【決勝中の会場の利用制限について】\n決勝戦が行われている間は運営主催の試合以外の全ての会場内の試合及び練習を禁止とさせていただきます。"
+  },
+  "courtLayout": {
+    "grid": "64,63,62,61,60,59,58,57\n56,55,54,53,52,51,50,49\n48,47,46,45,44,43,42,41\n40,39,38,37,36,35,34,33\n32,31,30,29,28,27,26,25\n24,23,22,21,20,19,18,17\n16,15,14,13,12,11,10,9\n8,7,6,5,4,3,2,1",
+    "labelTop": "ゲートボール場、ゴルフ場",
+    "labelBottom": "丸子橋",
+    "labelLeft": "多摩川",
+    "labelRight": "新丸子駅方面",
+    "centerLabel": {
+      "text": "本部",
+      "pos": "bottom"
+    }
+  },
+  "folderName": "",
+  "publishedAt": "2026-11-09T06:12:25.467Z"
+}
