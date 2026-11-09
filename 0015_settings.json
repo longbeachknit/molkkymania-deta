@@ -1,0 +1,370 @@
+{
+  "venueCode": "01",
+  "eventCode": "0015",
+  "eventName": "第2回野村総合研究所従業員モルック大会",
+  "displayName": "第2回\n野村総合研究所\n従業員モルック大会",
+  "gasUrl": "https://script.google.com/macros/s/AKfycbyzdFmdgdhkWVlweIzRiUWQNpEQwzfFLtAmdrsp2wXyTJ0LgIGPpXdtz1jBoKlLBdXqhg/exec",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1wwxCoqzvZWud4uMdoalL1nHucmks8TjxUVSsRDqters/edit?usp=sharing",
+  "priority": "tournament",
+  "matchType": "team",
+  "hasPrelim": false,
+  "receptionMembers": true,
+  "privateOnly": true,
+  "privatePwHash": "98af53d659481a4d86db3a60cdd261b558ec1cca141c43c84cae6e4bd3aec3fc",
+  "nameMode": "nickname",
+  "matchRules": [
+    {
+      "code": "01",
+      "name": "第1試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "第2試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "第3試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "第4試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "第5試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "06",
+      "name": "第6試合",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    }
+  ],
+  "tourneyRules": [
+    {
+      "code": "01",
+      "name": "決勝トーナメント",
+      "fmt": "best3",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "02",
+      "name": "5位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "03",
+      "name": "21位タイトーナメント",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "04",
+      "name": "交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    },
+    {
+      "code": "05",
+      "name": "不戦勝交流戦",
+      "fmt": "best2",
+      "turnLimit": true,
+      "playerMin": 2,
+      "playerMax": 4
+    }
+  ],
+  "roundRules": [
+    {
+      "matchCode": "01",
+      "tourneyCode": "01",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "02",
+      "tourneyCode": "01",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "01",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "01",
+      "round": "4回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "01",
+      "round": "準決勝",
+      "prio": ""
+    },
+    {
+      "matchCode": "06",
+      "tourneyCode": "01",
+      "round": "決勝戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "02",
+      "tourneyCode": "02",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "02",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "02",
+      "round": "3回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "02",
+      "round": "5位タイ決定戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "03",
+      "round": "1回戦"
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "03",
+      "round": "2回戦"
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "03",
+      "round": "21位タイ決定戦",
+      "prio": ""
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "04",
+      "round": "①",
+      "prio": ""
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "04",
+      "round": "②",
+      "prio": ""
+    },
+    {
+      "matchCode": "01",
+      "tourneyCode": "05",
+      "round": "①",
+      "prio": ""
+    },
+    {
+      "matchCode": "02",
+      "tourneyCode": "05",
+      "round": "②",
+      "prio": ""
+    },
+    {
+      "matchCode": "03",
+      "tourneyCode": "05",
+      "round": "③",
+      "prio": ""
+    },
+    {
+      "matchCode": "04",
+      "tourneyCode": "05",
+      "round": "④",
+      "prio": ""
+    },
+    {
+      "matchCode": "05",
+      "tourneyCode": "05",
+      "round": "⑤",
+      "prio": ""
+    }
+  ],
+  "teams": [],
+  "teamsUpdatedAt": "",
+  "eventPeriodStart": "2026-11-15T09:00",
+  "eventPeriodEnd": "2026-11-15T18:00",
+  "receptionPw": "1965",
+  "bracketTeamCount": 64,
+  "bracket1Name": "決勝トーナメント",
+  "bracket2TeamCount": 0,
+  "bracket2Name": "Bトーナメント",
+  "exhibition": {
+    "enabled": false,
+    "count": 0,
+    "games": []
+  },
+  "advanceRules": [],
+  "systemChart": {
+    "enabled": true,
+    "cornerLabel": "",
+    "prelims": [],
+    "rowLabels": [
+      "第1試合",
+      "第2試合",
+      "第3試合",
+      "第4試合",
+      "第5試合",
+      "第6試合"
+    ],
+    "legend": [
+      {
+        "label": "3先",
+        "color": "pink"
+      },
+      {
+        "label": "2先",
+        "color": "green"
+      }
+    ],
+    "columns": [
+      {
+        "name": "決勝トーナメント",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "準決勝",
+          "決勝戦"
+        ]
+      },
+      {
+        "name": "5位タイトーナメント",
+        "startRow": 1,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "5位タイ決定戦"
+        ]
+      },
+      {
+        "name": "21位タイトーナメント",
+        "startRow": 2,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "21位タイ決定戦"
+        ]
+      },
+      {
+        "name": "交流戦",
+        "startRow": 3,
+        "note": "",
+        "cells": [
+          "①",
+          "②"
+        ]
+      },
+      {
+        "name": "不戦勝交流戦",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "①",
+          "②",
+          "③",
+          "④",
+          "⑤"
+        ]
+      }
+    ],
+    "colors": {
+      "決勝トーナメント": "pink",
+      "5位タイトーナメント": "green",
+      "21位タイトーナメント": "green",
+      "交流戦": "green",
+      "不戦勝交流戦": "green"
+    },
+    "loseArrows": {
+      "交流戦@3": false
+    },
+    "loseTo": {},
+    "links": [],
+    "cellColors": {}
+  },
+  "venue": {
+    "code": "01",
+    "name": "川崎",
+    "themeColor": "#1E88E5",
+    "detail": {
+      "notes": [],
+      "rules": "",
+      "access": "東急東横線「新丸子駅」　徒歩10分",
+      "mapUrl": "https://maps.app.goo.gl/Qy2DZ57eAdDjfB5RA",
+      "toilet": "会場の下流側と上流側にそれぞれトイレあり。",
+      "address": "神奈川県川崎市中原区上丸子八幡町",
+      "garbage": "ゴミは各自でのお持ち帰りをお願い申し上げます。",
+      "parking": "会場近くに「丸子橋河川敷駐車場」あり。料金は1000円、開場時間は6時～18時半（4/1～10月末日）、6時～16時半（11/1～3月末日）",
+      "smoking": "河川敷内は全面禁煙です。",
+      "sections": [],
+      "mapImageUrl": "https://app.molkky.co.jp/maps/488d24ed02c27fbe.jpg",
+      "locationName": "丸子橋第一広場"
+    }
+  },
+  "categoryCode": "01",
+  "category": {
+    "code": "01",
+    "name": "通常大会",
+    "color": ""
+  },
+  "tourInfo": {
+    "rules": "",
+    "notes": ""
+  },
+  "courtLayout": {
+    "grid": "64,63,62,61,60,59,58,57\n56,55,54,53,52,51,50,49\n48,47,46,45,44,43,42,41\n40,39,38,37,36,35,34,33\n32,31,30,29,28,27,26,25\n24,23,22,21,20,19,18,17\n16,15,14,13,12,11,10,9\n8,7,6,5,4,3,2,1",
+    "labelTop": "ゲートボール場、ゴルフ場",
+    "labelBottom": "丸子橋",
+    "labelLeft": "多摩川",
+    "labelRight": "新丸子駅方面",
+    "centerLabel": {
+      "text": "本部",
+      "pos": "bottom"
+    }
+  },
+  "folderName": "",
+  "publishedAt": "2026-11-09T07:36:53.959Z"
+}
