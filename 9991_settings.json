@@ -9,8 +9,8 @@
   "matchType": "team",
   "hasPrelim": false,
   "receptionMembers": true,
-  "privateOnly": true,
-  "privatePwHash": "4a3456e7968e05a414989154b7ce7b609a37affa023fce875653cb528b0bd0aa",
+  "privateOnly": false,
+  "privatePwHash": "",
   "nameMode": "nickname",
   "matchRules": [
     {
@@ -642,5 +642,5 @@
     "labelBottom": "丸子橋"
   },
   "folderName": "",
-  "publishedAt": "2026-11-09T07:17:41.818Z"
+  "publishedAt": "2026-11-09T07:18:50.068Z"
 }
