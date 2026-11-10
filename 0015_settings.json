@@ -1,8 +1,8 @@
 {
   "venueCode": "01",
   "eventCode": "0015",
-  "eventName": "第2回野村総合研究所従業員モルック大会",
-  "displayName": "第2回\n野村総合研究所\n従業員モルック大会",
+  "eventName": "第2回野村総合研究所従業員組合モルック大会",
+  "displayName": "第2回\n野村総合研究所\n従業員組合モルック大会",
   "gasUrl": "https://script.google.com/macros/s/AKfycbyzdFmdgdhkWVlweIzRiUWQNpEQwzfFLtAmdrsp2wXyTJ0LgIGPpXdtz1jBoKlLBdXqhg/exec",
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1wwxCoqzvZWud4uMdoalL1nHucmks8TjxUVSsRDqters/edit?usp=sharing",
   "priority": "tournament",
@@ -366,5 +366,5 @@
     "labelBottom": "丸子橋"
   },
   "folderName": "請負大会",
-  "publishedAt": "2026-11-09T07:58:02.422Z"
+  "publishedAt": "2026-11-10T04:00:59.039Z"
 }
