@@ -1,0 +1,304 @@
+{
+  "updatedAt": "2026-11-13T02:14:50.027Z",
+  "eventCode": "0015",
+  "rounds": [
+    {
+      "name": "1回戦",
+      "matches": [
+        {
+          "team1": "助っ人関西（部外者）",
+          "team2": "",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "もりもり",
+          "team2": "NRIと次に行こう",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ゆるーく初モルック",
+          "team2": "リスチーム",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "レモン",
+          "team2": "勝田、モルックやるってよ。",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "青クラス",
+          "team2": "",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "グッドモルッキングガイ",
+          "team2": "きだやまぎゃるず",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "たまがった",
+          "team2": "初心者カルテット",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "PUI PUI モルッカー",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "鮎壺モルック倶楽部",
+          "team2": "",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "PUIPUIモルックカー",
+          "team2": "ブランコ会",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "戸塚猫",
+          "team2": "とらわれた宇宙人",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "SFチーム",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "PUI PUI モルッカーズ",
+          "team2": "",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "英才個別学院",
+          "team2": "長瀞シューターズ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "マスターズ",
+          "team2": "Sの集い",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "いちかな",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "モルックH",
+          "team2": "",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ねぶたワールド",
+          "team2": "ベイブレーダー",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "しっかりもの",
+          "team2": "通信基盤サービス部　チームW",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "チュマサンラバーズ",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "チーム335",
+          "team2": "",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "ちいかわず",
+          "team2": "猫の手も借りたい",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "自主自律",
+          "team2": "2017いいですね・夢気分",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "1994",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "ジャーマニーズ",
+          "team2": "",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "NIGHT WORKERS",
+          "team2": "HORIUCHI JAPAN",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "スクール戸田",
+          "team2": "ムックル4",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "こんにちわわ",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "でんでん",
+          "team2": "もるもる隊",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "TEPPEN",
+          "team2": "通信基盤サービス部　チームX",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "吠えろ！リベンジャーズ",
+          "team2": "チームSA",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "経コンのモルッカーリ",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "助っ人関西（部外者）",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "青クラス",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "PUI PUI モルッカー",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "鮎壺モルック倶楽部",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "SFチーム",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "PUI PUI モルッカーズ",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "いちかな",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "モルックH",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "チュマサンラバーズ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "チーム335",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "1994",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ジャーマニーズ",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "こんにちわわ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "経コンのモルッカーリ",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    }
+  ]
+}
