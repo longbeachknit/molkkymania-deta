@@ -220,8 +220,309 @@
       "tourneyCode": "05"
     }
   ],
-  "teams": [],
-  "teamsUpdatedAt": "",
+  "teams": [
+    {
+      "id": "001",
+      "name": "助っ人関西（部外者）",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "002",
+      "name": "経コンのモルッカーリ",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "003",
+      "name": "モルックH",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "004",
+      "name": "いちかな",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "005",
+      "name": "鮎壺モルック倶楽部",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "006",
+      "name": "1994",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "007",
+      "name": "ジャーマニーズ",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "008",
+      "name": "PUI PUI モルッカー",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "009",
+      "name": "青クラス",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "010",
+      "name": "こんにちわわ",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "011",
+      "name": "チーム335",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "012",
+      "name": "SFチーム",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "013",
+      "name": "PUI PUI モルッカーズ",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "014",
+      "name": "チュマサンラバーズ",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "015",
+      "name": "でんでん",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "016",
+      "name": "勝田、モルックやるってよ。",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "017",
+      "name": "ゆるーく初モルック",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "018",
+      "name": "通信基盤サービス部　チームX",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "019",
+      "name": "しっかりもの",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "020",
+      "name": "長瀞シューターズ",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "021",
+      "name": "戸塚猫",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "022",
+      "name": "猫の手も借りたい",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "023",
+      "name": "スクール戸田",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "024",
+      "name": "きだやまぎゃるず",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "025",
+      "name": "たまがった",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "026",
+      "name": "HORIUCHI JAPAN",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "027",
+      "name": "自主自律",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "028",
+      "name": "ブランコ会",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "029",
+      "name": "マスターズ",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "030",
+      "name": "ベイブレーダー",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "031",
+      "name": "吠えろ！リベンジャーズ",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "032",
+      "name": "NRIと次に行こう",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "033",
+      "name": "もりもり",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "034",
+      "name": "チームSA",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "035",
+      "name": "ねぶたワールド",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "036",
+      "name": "Sの集い",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "037",
+      "name": "PUIPUIモルックカー",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "038",
+      "name": "2017いいですね・夢気分",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "039",
+      "name": "NIGHT WORKERS",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "040",
+      "name": "初心者カルテット",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "041",
+      "name": "グッドモルッキングガイ",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "042",
+      "name": "ムックル4",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "043",
+      "name": "ちいかわず",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "044",
+      "name": "とらわれた宇宙人",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "045",
+      "name": "英才個別学院",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "046",
+      "name": "通信基盤サービス部　チームW",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "047",
+      "name": "TEPPEN",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "048",
+      "name": "リスチーム",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "049",
+      "name": "レモン",
+      "members": "",
+      "company": ""
+    },
+    {
+      "id": "050",
+      "name": "もるもる隊",
+      "members": "",
+      "company": ""
+    }
+  ],
+  "teamsUpdatedAt": "2026-11-13T02:13:40.080Z",
   "eventPeriodStart": "2026-11-15T09:00",
   "eventPeriodEnd": "2026-11-15T18:00",
   "receptionPw": "1965",
