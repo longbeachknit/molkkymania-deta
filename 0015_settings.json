@@ -10,101 +10,101 @@
   "hasPrelim": false,
   "receptionMembers": true,
   "receptionType": "contract",
-  "receptionPwOff": true,
+  "receptionPwOff": false,
   "practiceMode": true,
   "privateOnly": true,
   "privatePwHash": "98af53d659481a4d86db3a60cdd261b558ec1cca141c43c84cae6e4bd3aec3fc",
   "nameMode": "nickname",
   "matchRules": [
     {
+      "fmt": "best2",
       "code": "01",
       "name": "第1試合",
-      "fmt": "best2",
-      "turnLimit": 10,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": 10
     },
     {
+      "fmt": "best2",
       "code": "02",
       "name": "第2試合",
-      "fmt": "best2",
-      "turnLimit": 10,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": 10
     },
     {
+      "fmt": "best2",
       "code": "03",
       "name": "第3試合",
-      "fmt": "best2",
-      "turnLimit": 10,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": 10
     },
     {
+      "fmt": "best2",
       "code": "04",
       "name": "第4試合",
-      "fmt": "best2",
-      "turnLimit": 10,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": 10
     },
     {
+      "fmt": "best2",
       "code": "05",
       "name": "第5試合",
-      "fmt": "best2",
-      "turnLimit": 10,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": 10
     },
     {
+      "fmt": "best2",
       "code": "06",
       "name": "第6試合",
-      "fmt": "best2",
-      "turnLimit": 10,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": 10
     }
   ],
   "tourneyRules": [
     {
+      "fmt": "best2",
       "code": "01",
       "name": "決勝トーナメント",
-      "fmt": "best2",
-      "turnLimit": 10,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": 10
     },
     {
+      "fmt": "best2",
       "code": "02",
       "name": "5位タイトーナメント",
-      "fmt": "best2",
-      "turnLimit": 10,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": 10
     },
     {
+      "fmt": "best2",
       "code": "03",
       "name": "21位タイトーナメント",
-      "fmt": "best2",
-      "turnLimit": 10,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": 10
     },
     {
+      "fmt": "best2",
       "code": "04",
       "name": "交流戦",
-      "fmt": "best2",
-      "turnLimit": 10,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": 10
     },
     {
+      "fmt": "best2",
       "code": "05",
       "name": "不戦勝交流戦",
-      "fmt": "best2",
-      "turnLimit": 10,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": 10
     }
   ],
   "roundRules": [
@@ -224,302 +224,302 @@
     {
       "id": "001",
       "name": "助っ人関西（部外者）",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "002",
       "name": "経コンのモルッカーリ",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "003",
       "name": "モルックH",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "004",
       "name": "いちかな",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "005",
       "name": "鮎壺モルック倶楽部",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "006",
       "name": "1994",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "007",
       "name": "ジャーマニーズ",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "008",
       "name": "PUI PUI モルッカー",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "009",
       "name": "青クラス",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "010",
       "name": "こんにちわわ",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "011",
       "name": "チーム335",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "012",
       "name": "SFチーム",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "013",
       "name": "PUI PUI モルッカーズ",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "014",
       "name": "チュマサンラバーズ",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "015",
       "name": "でんでん",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "016",
       "name": "勝田、モルックやるってよ。",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "017",
       "name": "ゆるーく初モルック",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "018",
       "name": "通信基盤サービス部　チームX",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "019",
       "name": "しっかりもの",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "020",
       "name": "長瀞シューターズ",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "021",
       "name": "戸塚猫",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "022",
       "name": "猫の手も借りたい",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "023",
       "name": "スクール戸田",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "024",
       "name": "きだやまぎゃるず",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "025",
       "name": "たまがった",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "026",
       "name": "HORIUCHI JAPAN",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "027",
       "name": "自主自律",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "028",
       "name": "ブランコ会",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "029",
       "name": "マスターズ",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "030",
       "name": "ベイブレーダー",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "031",
       "name": "吠えろ！リベンジャーズ",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "032",
       "name": "NRIと次に行こう",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "033",
       "name": "もりもり",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "034",
       "name": "チームSA",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "035",
       "name": "ねぶたワールド",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "036",
       "name": "Sの集い",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "037",
       "name": "PUIPUIモルックカー",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "038",
       "name": "2017いいですね・夢気分",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "039",
       "name": "NIGHT WORKERS",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "040",
       "name": "初心者カルテット",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "041",
       "name": "グッドモルッキングガイ",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "042",
       "name": "ムックル4",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "043",
       "name": "ちいかわず",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "044",
       "name": "とらわれた宇宙人",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "045",
       "name": "英才個別学院",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "046",
       "name": "通信基盤サービス部　チームW",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "047",
       "name": "TEPPEN",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "048",
       "name": "リスチーム",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "049",
       "name": "レモン",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     },
     {
       "id": "050",
       "name": "もるもる隊",
-      "members": "",
-      "company": ""
+      "company": "",
+      "members": ""
     }
   ],
   "teamsUpdatedAt": "2026-11-13T02:13:40.080Z",
@@ -666,5 +666,5 @@
     "labelBottom": "丸子橋"
   },
   "folderName": "請負大会",
-  "publishedAt": "2026-11-13T01:54:12.541Z"
+  "publishedAt": "2026-11-13T02:16:57.463Z"
 }
