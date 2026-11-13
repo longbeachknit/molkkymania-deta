@@ -656,7 +656,7 @@
     {
       "id": "081",
       "name": "tkwk",
-      "members": "enc1:isTVg+/+yvjviM3aX5KGi9i2sonV8I330w=="
+      "members": "enc1:isTVg+/+yvjviM3aX5KGi9i2sonV8I330wGO296A8/2csKTUjZQ="
     },
     {
       "id": "082",
@@ -730,11 +730,11 @@
     },
     {
       "id": "096",
-      "name": "運営チーム",
-      "members": "enc1:LEMu"
+      "name": "L-THINKS",
+      "members": "enc1:idTeguz3y/3PidD/X5GQotilkYT10EePwaeN5/KA1tyQiZg="
     }
   ],
-  "teamsUpdatedAt": "2026-11-12T04:32:41.461Z",
+  "teamsUpdatedAt": "2026-11-13T00:50:06.709Z",
   "eventPeriodStart": "2026-11-14T08:30",
   "eventPeriodEnd": "2026-11-14T18:00",
   "receptionPw": "1173",
