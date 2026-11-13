@@ -9,99 +9,102 @@
   "matchType": "team",
   "hasPrelim": false,
   "receptionMembers": true,
+  "receptionType": "contract",
+  "receptionPwOff": true,
+  "practiceMode": true,
   "privateOnly": true,
   "privatePwHash": "98af53d659481a4d86db3a60cdd261b558ec1cca141c43c84cae6e4bd3aec3fc",
   "nameMode": "nickname",
   "matchRules": [
     {
-      "fmt": "best2",
       "code": "01",
       "name": "第1試合",
-      "playerMax": 4,
+      "fmt": "best2",
+      "turnLimit": 10,
       "playerMin": 2,
-      "turnLimit": true
+      "playerMax": 4
     },
     {
-      "fmt": "best2",
       "code": "02",
       "name": "第2試合",
-      "playerMax": 4,
+      "fmt": "best2",
+      "turnLimit": 10,
       "playerMin": 2,
-      "turnLimit": true
+      "playerMax": 4
     },
     {
-      "fmt": "best2",
       "code": "03",
       "name": "第3試合",
-      "playerMax": 4,
+      "fmt": "best2",
+      "turnLimit": 10,
       "playerMin": 2,
-      "turnLimit": true
+      "playerMax": 4
     },
     {
-      "fmt": "best2",
       "code": "04",
       "name": "第4試合",
-      "playerMax": 4,
+      "fmt": "best2",
+      "turnLimit": 10,
       "playerMin": 2,
-      "turnLimit": true
+      "playerMax": 4
     },
     {
-      "fmt": "best2",
       "code": "05",
       "name": "第5試合",
-      "playerMax": 4,
+      "fmt": "best2",
+      "turnLimit": 10,
       "playerMin": 2,
-      "turnLimit": true
+      "playerMax": 4
     },
     {
-      "fmt": "best2",
       "code": "06",
       "name": "第6試合",
-      "playerMax": 4,
+      "fmt": "best2",
+      "turnLimit": 10,
       "playerMin": 2,
-      "turnLimit": true
+      "playerMax": 4
     }
   ],
   "tourneyRules": [
     {
-      "fmt": "best3",
       "code": "01",
       "name": "決勝トーナメント",
-      "playerMax": 4,
+      "fmt": "best2",
+      "turnLimit": 10,
       "playerMin": 2,
-      "turnLimit": true
+      "playerMax": 4
     },
     {
-      "fmt": "best2",
       "code": "02",
       "name": "5位タイトーナメント",
-      "playerMax": 4,
+      "fmt": "best2",
+      "turnLimit": 10,
       "playerMin": 2,
-      "turnLimit": true
+      "playerMax": 4
     },
     {
-      "fmt": "best2",
       "code": "03",
       "name": "21位タイトーナメント",
-      "playerMax": 4,
+      "fmt": "best2",
+      "turnLimit": 10,
       "playerMin": 2,
-      "turnLimit": true
+      "playerMax": 4
     },
     {
-      "fmt": "best2",
       "code": "04",
       "name": "交流戦",
-      "playerMax": 4,
+      "fmt": "best2",
+      "turnLimit": 10,
       "playerMin": 2,
-      "turnLimit": true
+      "playerMax": 4
     },
     {
-      "fmt": "best2",
       "code": "05",
       "name": "不戦勝交流戦",
-      "playerMax": 4,
+      "fmt": "best2",
+      "turnLimit": 10,
       "playerMin": 2,
-      "turnLimit": true
+      "playerMax": 4
     }
   ],
   "roundRules": [
@@ -246,10 +249,6 @@
     ],
     "legend": [
       {
-        "label": "3先",
-        "color": "pink"
-      },
-      {
         "label": "2先",
         "color": "green"
       }
@@ -312,7 +311,7 @@
       }
     ],
     "colors": {
-      "決勝トーナメント": "pink",
+      "決勝トーナメント": "green",
       "5位タイトーナメント": "green",
       "21位タイトーナメント": "green",
       "交流戦": "green",
@@ -366,5 +365,5 @@
     "labelBottom": "丸子橋"
   },
   "folderName": "請負大会",
-  "publishedAt": "2026-11-10T04:00:59.039Z"
+  "publishedAt": "2026-11-13T01:54:12.541Z"
 }
