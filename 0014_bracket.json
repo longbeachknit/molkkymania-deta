@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T04:41:10.420Z",
+  "updatedAt": "2026-11-14T05:18:57.526Z",
   "eventCode": "0014",
   "rounds": [
     {
@@ -394,6 +394,17 @@
         {
           "team1": "SAKURAN333 FUJIマヨネーズ",
           "team2": "ひろっく",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "決勝",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "SAKURAN333 FUJIマヨネーズ",
           "win1": false,
           "win2": false
         }
