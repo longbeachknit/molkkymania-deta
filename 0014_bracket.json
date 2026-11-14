@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T05:18:57.526Z",
+  "updatedAt": "2026-11-14T05:21:09.552Z",
   "eventCode": "0014",
   "rounds": [
     {
@@ -389,7 +389,7 @@
           "team1": "たくーま",
           "team2": "習志野モルッククラブ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "SAKURAN333 FUJIマヨネーズ",
@@ -403,7 +403,7 @@
       "name": "決勝",
       "matches": [
         {
-          "team1": "",
+          "team1": "習志野モルッククラブ",
           "team2": "SAKURAN333 FUJIマヨネーズ",
           "win1": false,
           "win2": false
