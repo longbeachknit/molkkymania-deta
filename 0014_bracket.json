@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T01:23:13.124Z",
+  "updatedAt": "2026-11-14T02:06:50.664Z",
   "eventCode": "0014",
   "rounds": [
     {
@@ -8,192 +8,293 @@
         {
           "team1": "あぽーくす",
           "team2": "Valo Molkky",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "つな",
           "team2": "城北HRD 錦鯉",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "アジア大会は優勝",
           "team2": "虎と燕",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "YMU",
           "team2": "ひできちャンイワ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "たくーま",
           "team2": "SGMC",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "チームうめ男dism",
           "team2": "MASA1.M.C 西船橋支部",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "新城モルッククラブ",
           "team2": "婆爺梨酢喰",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "POLPOL.モチナーム",
           "team2": "ミスターZ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "フカヒレ海岸withoutT",
           "team2": "習志野モルッククラブ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "東京学芸大学chee!",
           "team2": "アンジャッシュ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "上郷高校モルック部Ａ",
           "team2": "WESTERS",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ブルートップ",
           "team2": "MCハマーlovesちいかわ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "BOYCOTT Me",
           "team2": "T-MölkkU 超ケツカッチン",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Sunny Apple",
           "team2": "コブラ団＋では若手です®️",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "酒しゃか",
           "team2": "リクの大冒険〜アラサー老害編〜",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Yötora-bell",
           "team2": "ふるふる",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Stoic",
           "team2": "鉄モルマニア",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "TEAM AKD",
           "team2": "いろどりぜきチャンネル",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Free style",
           "team2": "tkwk",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Team.SA",
           "team2": "NP",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ゆーエナむー",
           "team2": "びわこDoughnuts Hole",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "L-THINKS",
           "team2": "城北HRD FA",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "AAO",
           "team2": "ま組のひと",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "いちごハンバーグ",
           "team2": "SAKURAN333 FUJIマヨネーズ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Cdur",
           "team2": "モル×2モリ×2",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "MO'LUX C",
           "team2": "一派の子",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "おまわりさんこっちでーす",
           "team2": "Bambi",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ポラリス練",
           "team2": "はまれん",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "なぎちゃんズP.Y",
           "team2": "BMBT",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "T-MölkkU_ウーフーアイランド",
           "team2": "ホク&シンゲン",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "stake",
           "team2": "人狼バブル",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ひろっく",
           "team2": "ライオンズクラブ",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "あぽーくす",
+          "team2": "城北HRD 錦鯉",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "アジア大会は優勝",
+          "team2": "ひできちャンイワ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "たくーま",
+          "team2": "MASA1.M.C 西船橋支部",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "婆爺梨酢喰",
+          "team2": "ミスターZ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "習志野モルッククラブ",
+          "team2": "東京学芸大学chee!",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "上郷高校モルック部Ａ",
+          "team2": "MCハマーlovesちいかわ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "BOYCOTT Me",
+          "team2": "コブラ団＋では若手です®️",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "酒しゃか",
+          "team2": "ふるふる",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "Stoic",
+          "team2": "いろどりぜきチャンネル",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "Free style",
+          "team2": "Team.SA",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ゆーエナむー",
+          "team2": "城北HRD FA",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "AAO",
+          "team2": "SAKURAN333 FUJIマヨネーズ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "Cdur",
+          "team2": "一派の子",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "おまわりさんこっちでーす",
+          "team2": "はまれん",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "なぎちゃんズP.Y",
+          "team2": "ホク&シンゲン",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "stake",
+          "team2": "ひろっく",
           "win1": false,
           "win2": false
         }
