@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T05:24:49.793Z",
+  "updatedAt": "2026-11-14T06:36:20.768Z",
   "eventCode": "0014",
   "rounds": [
     {
@@ -405,7 +405,7 @@
         {
           "team1": "習志野モルッククラブ",
           "team2": "SAKURAN333 FUJIマヨネーズ",
-          "win1": false,
+          "win1": true,
           "win2": false
         }
       ]
