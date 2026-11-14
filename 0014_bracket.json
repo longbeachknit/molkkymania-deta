@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T02:06:50.664Z",
+  "updatedAt": "2026-11-14T03:04:05.697Z",
   "eventCode": "0014",
   "rounds": [
     {
@@ -205,95 +205,148 @@
         {
           "team1": "あぽーくす",
           "team2": "城北HRD 錦鯉",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "アジア大会は優勝",
           "team2": "ひできちャンイワ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "たくーま",
           "team2": "MASA1.M.C 西船橋支部",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "婆爺梨酢喰",
           "team2": "ミスターZ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "習志野モルッククラブ",
           "team2": "東京学芸大学chee!",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "上郷高校モルック部Ａ",
           "team2": "MCハマーlovesちいかわ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "BOYCOTT Me",
           "team2": "コブラ団＋では若手です®️",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "酒しゃか",
           "team2": "ふるふる",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Stoic",
           "team2": "いろどりぜきチャンネル",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Free style",
           "team2": "Team.SA",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "ゆーエナむー",
           "team2": "城北HRD FA",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "AAO",
           "team2": "SAKURAN333 FUJIマヨネーズ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "Cdur",
           "team2": "一派の子",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "おまわりさんこっちでーす",
+          "team2": "はまれん",
+          "win1": false,
+          "win2": true
+        },
+        {
+          "team1": "なぎちゃんズP.Y",
+          "team2": "ホク&シンゲン",
+          "win1": true,
+          "win2": false
+        },
+        {
+          "team1": "stake",
+          "team2": "ひろっく",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "3回戦",
+      "matches": [
+        {
+          "team1": "あぽーくす",
+          "team2": "ひできちャンイワ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "たくーま",
+          "team2": "婆爺梨酢喰",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "習志野モルッククラブ",
+          "team2": "上郷高校モルック部Ａ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "BOYCOTT Me",
+          "team2": "ふるふる",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "いろどりぜきチャンネル",
+          "team2": "Team.SA",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ゆーエナむー",
+          "team2": "SAKURAN333 FUJIマヨネーズ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "一派の子",
           "team2": "はまれん",
           "win1": false,
           "win2": false
         },
         {
           "team1": "なぎちゃんズP.Y",
-          "team2": "ホク&シンゲン",
-          "win1": false,
-          "win2": false
-        },
-        {
-          "team1": "stake",
           "team2": "ひろっく",
           "win1": false,
           "win2": false
