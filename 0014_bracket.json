@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T03:05:02.647Z",
+  "updatedAt": "2026-11-14T03:54:21.579Z",
   "eventCode": "0014",
   "rounds": [
     {
@@ -306,47 +306,76 @@
         {
           "team1": "あぽーくす",
           "team2": "ひできちャンイワ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "たくーま",
           "team2": "婆爺梨酢喰",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "習志野モルッククラブ",
           "team2": "上郷高校モルック部Ａ",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "BOYCOTT Me",
           "team2": "ふるふる",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "いろどりぜきチャンネル",
           "team2": "Team.SA",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ゆーエナむー",
           "team2": "SAKURAN333 FUJIマヨネーズ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "一派の子",
           "team2": "はまれん",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "なぎちゃんズP.Y",
+          "team2": "ひろっく",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "4回戦",
+      "matches": [
+        {
+          "team1": "",
+          "team2": "たくーま",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "習志野モルッククラブ",
+          "team2": "ふるふる",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "いろどりぜきチャンネル",
+          "team2": "SAKURAN333 FUJIマヨネーズ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "はまれん",
           "team2": "ひろっく",
           "win1": false,
           "win2": false
