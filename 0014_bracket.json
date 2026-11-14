@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T03:54:21.579Z",
+  "updatedAt": "2026-11-14T04:40:19.922Z",
   "eventCode": "0014",
   "rounds": [
     {
@@ -360,22 +360,39 @@
           "team1": "",
           "team2": "たくーま",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "習志野モルッククラブ",
           "team2": "ふるふる",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "いろどりぜきチャンネル",
           "team2": "SAKURAN333 FUJIマヨネーズ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "はまれん",
+          "team2": "ひろっく",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "たくーま",
+          "team2": "習志野モルッククラブ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "SAKURAN333 FUJIマヨネーズ",
           "team2": "ひろっく",
           "win1": false,
           "win2": false
