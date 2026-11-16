@@ -523,8 +523,8 @@
     }
   ],
   "teamsUpdatedAt": "2026-11-13T02:13:40.080Z",
-  "eventPeriodStart": "2026-11-15T09:00",
-  "eventPeriodEnd": "2026-11-15T18:00",
+  "eventPeriodStart": "2026-12-19T09:00",
+  "eventPeriodEnd": "2026-12-19T18:00",
   "receptionPw": "1965",
   "bracketTeamCount": 64,
   "bracket1Name": "決勝トーナメント",
@@ -666,5 +666,5 @@
     "labelBottom": "丸子橋"
   },
   "folderName": "請負大会",
-  "publishedAt": "2026-11-13T02:16:57.463Z"
+  "publishedAt": "2026-11-16T04:07:49.014Z"
 }
