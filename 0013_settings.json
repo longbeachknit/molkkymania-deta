@@ -9,6 +9,11 @@
   "matchType": "team",
   "hasPrelim": false,
   "receptionMembers": true,
+  "receptionType": "company",
+  "receptionPwOff": false,
+  "practiceMode": false,
+  "privateOnly": false,
+  "privatePwHash": "",
   "nameMode": "nickname",
   "matchRules": [
     {
@@ -70,12 +75,12 @@
   ],
   "tourneyRules": [
     {
+      "fmt": "best2",
       "code": "01",
       "name": "決勝トーナメント",
-      "fmt": "best2",
-      "turnLimit": true,
+      "playerMax": 4,
       "playerMin": 2,
-      "playerMax": 4
+      "turnLimit": true
     },
     {
       "fmt": "best2",
@@ -942,10 +947,10 @@
       "id": "118",
       "name": "運営チーム",
       "company": "",
-      "members": ""
+      "members": "enc1:LEMu"
     }
   ],
-  "teamsUpdatedAt": "2026-11-07T00:43:55.710Z",
+  "teamsUpdatedAt": "2026-11-07T00:54:37.492Z",
   "eventPeriodStart": "2026-11-07T08:30",
   "eventPeriodEnd": "2026-11-07T18:00",
   "receptionPw": "0041",
@@ -1090,6 +1095,6 @@
     },
     "labelBottom": "ゴルフ場"
   },
-  "folderName": "",
-  "publishedAt": "2026-11-07T00:53:11.321Z"
+  "folderName": "会社対抗",
+  "publishedAt": "2026-11-24T04:39:36.454Z"
 }
