@@ -256,82 +256,8 @@
   },
   "advanceRules": [],
   "systemChart": {
-    "links": [],
-    "colors": {
-      "交流戦": "green",
-      "不戦勝交流戦": "green",
-      "決勝トーナメント": "green",
-      "5位タイトーナメント": "green",
-      "25位タイトーナメント": "green"
-    },
-    "legend": [
-      {
-        "color": "green",
-        "label": "2先"
-      }
-    ],
-    "loseTo": {},
-    "columns": [
-      {
-        "name": "決勝トーナメント",
-        "note": "",
-        "cells": [
-          "1回戦",
-          "2回戦",
-          "3回戦",
-          "4回戦",
-          "5回戦",
-          "準決勝",
-          "決勝"
-        ],
-        "startRow": 0
-      },
-      {
-        "name": "5位タイトーナメント",
-        "note": "",
-        "cells": [
-          "1回戦",
-          "2回戦",
-          "3回戦",
-          "4回戦",
-          "5位タイ決定戦"
-        ],
-        "startRow": 1
-      },
-      {
-        "name": "25位タイトーナメント",
-        "note": "",
-        "cells": [
-          "1回戦",
-          "2回戦",
-          "3回戦",
-          "25位タイ決定戦"
-        ],
-        "startRow": 2
-      },
-      {
-        "name": "交流戦",
-        "note": "",
-        "cells": [
-          "①",
-          "②"
-        ],
-        "startRow": 3
-      },
-      {
-        "name": "不戦勝交流戦",
-        "note": "",
-        "cells": [
-          "①",
-          "②",
-          "③",
-          "④",
-          "⑤"
-        ],
-        "startRow": 0
-      }
-    ],
     "enabled": true,
+    "cornerLabel": "",
     "prelims": [],
     "rowLabels": [
       "第1試合",
@@ -342,11 +268,85 @@
       "第6試合",
       "第7試合"
     ],
-    "cellColors": {},
+    "legend": [
+      {
+        "label": "2先",
+        "color": "green"
+      }
+    ],
+    "columns": [
+      {
+        "name": "決勝トーナメント",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "5回戦",
+          "準決勝",
+          "決勝"
+        ]
+      },
+      {
+        "name": "5位タイトーナメント",
+        "startRow": 1,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "4回戦",
+          "5位タイ決定戦"
+        ]
+      },
+      {
+        "name": "25位タイトーナメント",
+        "startRow": 2,
+        "note": "",
+        "cells": [
+          "1回戦",
+          "2回戦",
+          "3回戦",
+          "25位タイ決定戦"
+        ]
+      },
+      {
+        "name": "交流戦",
+        "startRow": 3,
+        "note": "",
+        "cells": [
+          "①",
+          "②"
+        ]
+      },
+      {
+        "name": "不戦勝交流戦",
+        "startRow": 0,
+        "note": "",
+        "cells": [
+          "①",
+          "②",
+          "③",
+          "④",
+          "⑤"
+        ]
+      }
+    ],
+    "colors": {
+      "決勝トーナメント": "green",
+      "5位タイトーナメント": "green",
+      "25位タイトーナメント": "green",
+      "交流戦": "green",
+      "不戦勝交流戦": "green"
+    },
     "loseArrows": {
       "交流戦@3": false
     },
-    "cornerLabel": ""
+    "loseTo": {},
+    "links": [],
+    "cellColors": {}
   },
   "venue": {
     "code": "02",
@@ -387,11 +387,11 @@
     "labelLeft": "",
     "labelRight": "",
     "centerLabel": {
-      "pos": "bottom",
-      "text": ""
+      "text": "",
+      "pos": "bottom"
     },
     "labelBottom": ""
   },
   "folderName": "会社対抗",
-  "publishedAt": "2026-11-25T10:22:19.351Z"
+  "publishedAt": "2026-11-25T10:25:16.462Z"
 }
