@@ -200,8 +200,159 @@
       "prio": ""
     }
   ],
-  "teams": [],
-  "teamsUpdatedAt": "",
+  "teams": [
+    {
+      "id": "001",
+      "name": "縁の輪モルック",
+      "members": "enc1:i97MjffVy+P6iMfrX5OwjNSIoIvq2o39/gGA/smP6N+QnonUi6o="
+    },
+    {
+      "id": "002",
+      "name": "ひよどーら",
+      "members": "enc1:hMT0jffRysP1iPbOX5Chpdm1u47u3ojp8c7q4w=="
+    },
+    {
+      "id": "003",
+      "name": "49ers甲",
+      "members": "enc1:idfBjvXayO3ghcrhX5CWkdiCgojA4I7I0snQ/0GNzN6dnYXWn5aL9+JHj8GAjfXdgcbHkZS3"
+    },
+    {
+      "id": "004",
+      "name": "みらいち",
+      "members": "enc1:hcj+jP/Jy9zRidL/X5KfrdSIoIjk64/Q8gGN3vCO4eKSsa3VjbZBi9fZjs6wjvDKgcju"
+    },
+    {
+      "id": "005",
+      "name": "のーねーむ2nd",
+      "members": "enc1:ivvcj9PUys/pi/H6X5CikdW8qojq5Y7P3gGA/smO4MOWr7TTs7OO7sQ="
+    },
+    {
+      "id": "006",
+      "name": "MHA 川北",
+      "members": "enc1:iNjxjufuyPvbiPr9X5Car9W+oovuwY7G6Q=="
+    },
+    {
+      "id": "007",
+      "name": "五投建設",
+      "members": "enc1:hcrTjtvHyMzDiNvkX5GUt9Wcg4rb+I7SygGN5smMw+6RlrPVlpI="
+    },
+    {
+      "id": "008",
+      "name": "＠たんげ",
+      "members": "enc1:iMHljfbIysfNiNbjX5Oxu9emhYv21o3j6Q=="
+    },
+    {
+      "id": "009",
+      "name": "のーねーむ",
+      "members": "enc1:hMT0jffRy8XAitf6X5GXp9mkl47t7ojq8c7p5w=="
+    },
+    {
+      "id": "010",
+      "name": "FUTAPPING",
+      "members": "enc1:hfjIjP/JytbniMTkX5Car9WGu4jS3EeD9L+A2dqOyv2TrIfVn6U="
+    },
+    {
+      "id": "011",
+      "name": "ぷるんたん",
+      "members": "enc1:i9Ddg9vOxeTgiOb/lti9HtWguYr73I7v08jX6g=="
+    },
+    {
+      "id": "012",
+      "name": "≠Annka",
+      "members": "enc1:i9HIjP/JyMzOiPv4X52Gvdian4jf6o77xwGN1f6M/fmQsZ/UiI9Bi9TGjs6wj/PqjNDZ"
+    },
+    {
+      "id": "013",
+      "name": "北野モルック学園Ａ",
+      "members": "enc1:hdD9g/zdyvPdiNDMX5Chpdm1u4Xt3o7G6QGO2dWNzuaQu54c2or8h/vPjM+TjNDu"
+    },
+    {
+      "id": "014",
+      "name": "北野モルック学園B",
+      "members": "enc1:ivDfgtDry+vJiM3TX5Cfk9emhYvV+o397gGN2NyO4MOcl4nVnKo="
+    },
+    {
+      "id": "015",
+      "name": "コルック",
+      "members": "enc1:i8zCjP/Jxcv8idD/X5CdvdasoojS3I77xwGNy/qO4MOQv77Ui75BhvH5jsicjc3HjPvckJCU"
+    },
+    {
+      "id": "016",
+      "name": "上研ゼミナール",
+      "members": "enc1:idfmguz3yOnMQY3M3p2TidiAgYjC/EeNyZWB7uOM9daQnbQc1o3niPjbjc+RgNX5"
+    },
+    {
+      "id": "017",
+      "name": "TAKUMI²",
+      "members": "enc1:i97zjtjPy+P6iN7FX5Cbj9WDhIjjzA=="
+    },
+    {
+      "id": "018",
+      "name": "49erz 乙",
+      "members": "enc1:idfmjvfryPrlidDrX5KCktW8qov34o383MjQ5UGNzN6Qmq/VuaiJ1O1Hje+djcfogcrDkImV"
+    },
+    {
+      "id": "019",
+      "name": "むね貴族焼きスパイス",
+      "members": "enc1:hPrbjdXdyNLehdvAX5y4hdaMkYv34o7G6QGPz+KMwP2Qp63XrqpBisLijsCegfDQgfvv"
+    },
+    {
+      "id": "020",
+      "name": "SUNADAN",
+      "members": "enc1:idfBjP7ZytbAidD/X5GVn9WEvov6447m4wGN0dWMxcKQvoDXpoJBic36jO2djt/RjM3A"
+    },
+    {
+      "id": "021",
+      "name": "英姿颯爽 まぁまぁまぁ",
+      "members": "enc1:i/H7jP/JyMzAQY7S/JK5gtmzoYv22keC37SN3vCO0eOThYs="
+    },
+    {
+      "id": "022",
+      "name": "スリーリンクス",
+      "members": "enc1:iubrjtrIy+ncQY/o+pK5gtmUrIrW+EeN5JOO9cGPwPiQgKI="
+    },
+    {
+      "id": "023",
+      "name": "metsä",
+      "members": "enc1:isnjjP/Jy8n1iMTkX5KLvdemhYj6/4/Q8gGN28yP6N+Ssa3Vl72K0eI="
+    },
+    {
+      "id": "024",
+      "name": "チームMHA宮本",
+      "members": "enc1:iMHCjffVyvPdiNXRX5CDnNaumYvO747G6Q=="
+    },
+    {
+      "id": "025",
+      "name": "でんでんマスターズ",
+      "members": "enc1:idfljtjPyMzOhdXpX5GQotOysIvzxI3ezsv+/g=="
+    },
+    {
+      "id": "026",
+      "name": "MHA井手上家",
+      "members": "enc1:idX5jeLyydDji/H4lsm1HtSIoIvm54/T88vf2ovowQ=="
+    },
+    {
+      "id": "027",
+      "name": "T-DORACO",
+      "members": "enc1:iP/lju38xO/litf6X5Ckv9emhY7t2Yjo387rw0GP6fqTsZ7Vi42IwvxHjd2gj/3djOLvkZS31Z+l"
+    },
+    {
+      "id": "028",
+      "name": "MHA山下家",
+      "members": "enc1:iN7dj9PyxPPsidD/X5Ccg9SKvora2YzV9w=="
+    },
+    {
+      "id": "029",
+      "name": "モル塾",
+      "members": "enc1:ivvcgunzxPLvidD3l86m"
+    },
+    {
+      "id": "030",
+      "name": "電電マスターズ",
+      "members": "enc1:i/LSjd7fydPNi//IX5C9o9SIoIvtzI/Rww=="
+    }
+  ],
+  "teamsUpdatedAt": "2026-11-26T07:43:01.337Z",
   "eventPeriodStart": "2026-11-28T09:00",
   "eventPeriodEnd": "2026-11-28T18:00",
   "receptionPw": "5205",
