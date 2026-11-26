@@ -1,0 +1,425 @@
+{
+  "updatedAt": "2026-11-26T07:41:50.878Z",
+  "matches": [
+    {
+      "matchId": "02_0016_01_001",
+      "tourneyCode": "00",
+      "teamA": "001",
+      "teamB": "006",
+      "combinedId": "02_0016_01_001_00_001006"
+    },
+    {
+      "matchId": "02_0016_02_001",
+      "tourneyCode": "00",
+      "teamA": "001",
+      "teamB": "002",
+      "combinedId": "02_0016_02_001_00_001002"
+    },
+    {
+      "matchId": "02_0016_03_001",
+      "tourneyCode": "00",
+      "teamA": "001",
+      "teamB": "003",
+      "combinedId": "02_0016_03_001_00_001003"
+    },
+    {
+      "matchId": "02_0016_04_001",
+      "tourneyCode": "00",
+      "teamA": "001",
+      "teamB": "004",
+      "combinedId": "02_0016_04_001_00_001004"
+    },
+    {
+      "matchId": "02_0016_01_002",
+      "tourneyCode": "00",
+      "teamA": "002",
+      "teamB": "005",
+      "combinedId": "02_0016_01_002_00_002005"
+    },
+    {
+      "matchId": "02_0016_02_002",
+      "tourneyCode": "00",
+      "teamA": "003",
+      "teamB": "006",
+      "combinedId": "02_0016_02_002_00_003006"
+    },
+    {
+      "matchId": "02_0016_03_002",
+      "tourneyCode": "00",
+      "teamA": "002",
+      "teamB": "004",
+      "combinedId": "02_0016_03_002_00_002004"
+    },
+    {
+      "matchId": "02_0016_04_002",
+      "tourneyCode": "00",
+      "teamA": "003",
+      "teamB": "005",
+      "combinedId": "02_0016_04_002_00_003005"
+    },
+    {
+      "matchId": "02_0016_01_003",
+      "tourneyCode": "00",
+      "teamA": "003",
+      "teamB": "004",
+      "combinedId": "02_0016_01_003_00_003004"
+    },
+    {
+      "matchId": "02_0016_02_003",
+      "tourneyCode": "00",
+      "teamA": "004",
+      "teamB": "005",
+      "combinedId": "02_0016_02_003_00_004005"
+    },
+    {
+      "matchId": "02_0016_03_003",
+      "tourneyCode": "00",
+      "teamA": "005",
+      "teamB": "006",
+      "combinedId": "02_0016_03_003_00_005006"
+    },
+    {
+      "matchId": "02_0016_04_003",
+      "tourneyCode": "00",
+      "teamA": "002",
+      "teamB": "006",
+      "combinedId": "02_0016_04_003_00_002006"
+    },
+    {
+      "matchId": "02_0016_01_004",
+      "tourneyCode": "00",
+      "teamA": "007",
+      "teamB": "012",
+      "combinedId": "02_0016_01_004_00_007012"
+    },
+    {
+      "matchId": "02_0016_02_004",
+      "tourneyCode": "00",
+      "teamA": "007",
+      "teamB": "008",
+      "combinedId": "02_0016_02_004_00_007008"
+    },
+    {
+      "matchId": "02_0016_03_004",
+      "tourneyCode": "00",
+      "teamA": "007",
+      "teamB": "009",
+      "combinedId": "02_0016_03_004_00_007009"
+    },
+    {
+      "matchId": "02_0016_04_004",
+      "tourneyCode": "00",
+      "teamA": "007",
+      "teamB": "010",
+      "combinedId": "02_0016_04_004_00_007010"
+    },
+    {
+      "matchId": "02_0016_01_005",
+      "tourneyCode": "00",
+      "teamA": "008",
+      "teamB": "011",
+      "combinedId": "02_0016_01_005_00_008011"
+    },
+    {
+      "matchId": "02_0016_02_005",
+      "tourneyCode": "00",
+      "teamA": "009",
+      "teamB": "012",
+      "combinedId": "02_0016_02_005_00_009012"
+    },
+    {
+      "matchId": "02_0016_03_005",
+      "tourneyCode": "00",
+      "teamA": "008",
+      "teamB": "010",
+      "combinedId": "02_0016_03_005_00_008010"
+    },
+    {
+      "matchId": "02_0016_04_005",
+      "tourneyCode": "00",
+      "teamA": "009",
+      "teamB": "011",
+      "combinedId": "02_0016_04_005_00_009011"
+    },
+    {
+      "matchId": "02_0016_01_006",
+      "tourneyCode": "00",
+      "teamA": "009",
+      "teamB": "010",
+      "combinedId": "02_0016_01_006_00_009010"
+    },
+    {
+      "matchId": "02_0016_02_006",
+      "tourneyCode": "00",
+      "teamA": "010",
+      "teamB": "011",
+      "combinedId": "02_0016_02_006_00_010011"
+    },
+    {
+      "matchId": "02_0016_03_006",
+      "tourneyCode": "00",
+      "teamA": "011",
+      "teamB": "012",
+      "combinedId": "02_0016_03_006_00_011012"
+    },
+    {
+      "matchId": "02_0016_04_006",
+      "tourneyCode": "00",
+      "teamA": "008",
+      "teamB": "012",
+      "combinedId": "02_0016_04_006_00_008012"
+    },
+    {
+      "matchId": "02_0016_01_007",
+      "tourneyCode": "00",
+      "teamA": "013",
+      "teamB": "018",
+      "combinedId": "02_0016_01_007_00_013018"
+    },
+    {
+      "matchId": "02_0016_02_007",
+      "tourneyCode": "00",
+      "teamA": "013",
+      "teamB": "014",
+      "combinedId": "02_0016_02_007_00_013014"
+    },
+    {
+      "matchId": "02_0016_03_007",
+      "tourneyCode": "00",
+      "teamA": "013",
+      "teamB": "015",
+      "combinedId": "02_0016_03_007_00_013015"
+    },
+    {
+      "matchId": "02_0016_04_007",
+      "tourneyCode": "00",
+      "teamA": "013",
+      "teamB": "016",
+      "combinedId": "02_0016_04_007_00_013016"
+    },
+    {
+      "matchId": "02_0016_01_008",
+      "tourneyCode": "00",
+      "teamA": "014",
+      "teamB": "017",
+      "combinedId": "02_0016_01_008_00_014017"
+    },
+    {
+      "matchId": "02_0016_02_008",
+      "tourneyCode": "00",
+      "teamA": "015",
+      "teamB": "018",
+      "combinedId": "02_0016_02_008_00_015018"
+    },
+    {
+      "matchId": "02_0016_03_008",
+      "tourneyCode": "00",
+      "teamA": "014",
+      "teamB": "016",
+      "combinedId": "02_0016_03_008_00_014016"
+    },
+    {
+      "matchId": "02_0016_04_008",
+      "tourneyCode": "00",
+      "teamA": "015",
+      "teamB": "017",
+      "combinedId": "02_0016_04_008_00_015017"
+    },
+    {
+      "matchId": "02_0016_01_009",
+      "tourneyCode": "00",
+      "teamA": "015",
+      "teamB": "016",
+      "combinedId": "02_0016_01_009_00_015016"
+    },
+    {
+      "matchId": "02_0016_02_009",
+      "tourneyCode": "00",
+      "teamA": "016",
+      "teamB": "017",
+      "combinedId": "02_0016_02_009_00_016017"
+    },
+    {
+      "matchId": "02_0016_03_009",
+      "tourneyCode": "00",
+      "teamA": "017",
+      "teamB": "018",
+      "combinedId": "02_0016_03_009_00_017018"
+    },
+    {
+      "matchId": "02_0016_04_009",
+      "tourneyCode": "00",
+      "teamA": "014",
+      "teamB": "018",
+      "combinedId": "02_0016_04_009_00_014018"
+    },
+    {
+      "matchId": "02_0016_01_010",
+      "tourneyCode": "00",
+      "teamA": "019",
+      "teamB": "024",
+      "combinedId": "02_0016_01_010_00_019024"
+    },
+    {
+      "matchId": "02_0016_02_010",
+      "tourneyCode": "00",
+      "teamA": "019",
+      "teamB": "020",
+      "combinedId": "02_0016_02_010_00_019020"
+    },
+    {
+      "matchId": "02_0016_03_010",
+      "tourneyCode": "00",
+      "teamA": "019",
+      "teamB": "021",
+      "combinedId": "02_0016_03_010_00_019021"
+    },
+    {
+      "matchId": "02_0016_04_010",
+      "tourneyCode": "00",
+      "teamA": "019",
+      "teamB": "022",
+      "combinedId": "02_0016_04_010_00_019022"
+    },
+    {
+      "matchId": "02_0016_01_011",
+      "tourneyCode": "00",
+      "teamA": "020",
+      "teamB": "023",
+      "combinedId": "02_0016_01_011_00_020023"
+    },
+    {
+      "matchId": "02_0016_02_011",
+      "tourneyCode": "00",
+      "teamA": "021",
+      "teamB": "024",
+      "combinedId": "02_0016_02_011_00_021024"
+    },
+    {
+      "matchId": "02_0016_03_011",
+      "tourneyCode": "00",
+      "teamA": "020",
+      "teamB": "022",
+      "combinedId": "02_0016_03_011_00_020022"
+    },
+    {
+      "matchId": "02_0016_04_011",
+      "tourneyCode": "00",
+      "teamA": "021",
+      "teamB": "023",
+      "combinedId": "02_0016_04_011_00_021023"
+    },
+    {
+      "matchId": "02_0016_01_012",
+      "tourneyCode": "00",
+      "teamA": "021",
+      "teamB": "022",
+      "combinedId": "02_0016_01_012_00_021022"
+    },
+    {
+      "matchId": "02_0016_02_012",
+      "tourneyCode": "00",
+      "teamA": "022",
+      "teamB": "023",
+      "combinedId": "02_0016_02_012_00_022023"
+    },
+    {
+      "matchId": "02_0016_03_012",
+      "tourneyCode": "00",
+      "teamA": "023",
+      "teamB": "024",
+      "combinedId": "02_0016_03_012_00_023024"
+    },
+    {
+      "matchId": "02_0016_04_012",
+      "tourneyCode": "00",
+      "teamA": "020",
+      "teamB": "024",
+      "combinedId": "02_0016_04_012_00_020024"
+    },
+    {
+      "matchId": "02_0016_01_013",
+      "tourneyCode": "00",
+      "teamA": "025",
+      "teamB": "030",
+      "combinedId": "02_0016_01_013_00_025030"
+    },
+    {
+      "matchId": "02_0016_02_013",
+      "tourneyCode": "00",
+      "teamA": "025",
+      "teamB": "026",
+      "combinedId": "02_0016_02_013_00_025026"
+    },
+    {
+      "matchId": "02_0016_03_013",
+      "tourneyCode": "00",
+      "teamA": "025",
+      "teamB": "027",
+      "combinedId": "02_0016_03_013_00_025027"
+    },
+    {
+      "matchId": "02_0016_04_013",
+      "tourneyCode": "00",
+      "teamA": "025",
+      "teamB": "028",
+      "combinedId": "02_0016_04_013_00_025028"
+    },
+    {
+      "matchId": "02_0016_01_014",
+      "tourneyCode": "00",
+      "teamA": "026",
+      "teamB": "029",
+      "combinedId": "02_0016_01_014_00_026029"
+    },
+    {
+      "matchId": "02_0016_02_014",
+      "tourneyCode": "00",
+      "teamA": "027",
+      "teamB": "030",
+      "combinedId": "02_0016_02_014_00_027030"
+    },
+    {
+      "matchId": "02_0016_03_014",
+      "tourneyCode": "00",
+      "teamA": "026",
+      "teamB": "028",
+      "combinedId": "02_0016_03_014_00_026028"
+    },
+    {
+      "matchId": "02_0016_04_014",
+      "tourneyCode": "00",
+      "teamA": "027",
+      "teamB": "029",
+      "combinedId": "02_0016_04_014_00_027029"
+    },
+    {
+      "matchId": "02_0016_01_015",
+      "tourneyCode": "00",
+      "teamA": "027",
+      "teamB": "028",
+      "combinedId": "02_0016_01_015_00_027028"
+    },
+    {
+      "matchId": "02_0016_02_015",
+      "tourneyCode": "00",
+      "teamA": "028",
+      "teamB": "029",
+      "combinedId": "02_0016_02_015_00_028029"
+    },
+    {
+      "matchId": "02_0016_03_015",
+      "tourneyCode": "00",
+      "teamA": "029",
+      "teamB": "030",
+      "combinedId": "02_0016_03_015_00_029030"
+    },
+    {
+      "matchId": "02_0016_04_015",
+      "tourneyCode": "00",
+      "teamA": "026",
+      "teamB": "030",
+      "combinedId": "02_0016_04_015_00_026030"
+    }
+  ]
+}
