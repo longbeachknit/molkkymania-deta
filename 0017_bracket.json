@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T04:20:37.219Z",
+  "updatedAt": "2026-11-27T04:22:33.349Z",
   "eventCode": "0017",
   "rounds": [
     {
@@ -8,7 +8,7 @@
         {
           "team1": "SQUARE WHITE",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -20,19 +20,19 @@
         {
           "team1": "KWN②",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "マイゾックス4",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "投げてCHODAI",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -50,13 +50,13 @@
         {
           "team1": "S&B 制御",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Oneteam.源",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -68,25 +68,25 @@
         {
           "team1": "KWN①",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "PRIDE GARLIC なんとかなる",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "SQUARE BLACK",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ネスレモルック倶楽部 チョコ",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -98,13 +98,13 @@
         {
           "team1": "モルクラックス",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "NTT-AT アイピーエス 大阪支店A",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -116,25 +116,25 @@
         {
           "team1": "モルゴ13",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "スピアーズ",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "なんでもん",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Stella⭐︎",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -146,13 +146,13 @@
         {
           "team1": "チームパインアメ",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "モルログ",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -170,19 +170,19 @@
         {
           "team1": "ぷいぷいモルッカーズ",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "MARU B",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "毎日が地獄です",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -194,13 +194,13 @@
         {
           "team1": "モルックの東郷〜僕たちは有事の前に動く〜",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "Oneteam.東",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -212,19 +212,19 @@
         {
           "team1": "ササモルB",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "NA・SU・YA Mölkky",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "はたちゃん",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -242,13 +242,13 @@
         {
           "team1": "ハイストーン",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "モルックヨーグル",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -260,25 +260,25 @@
         {
           "team1": "梅田紳士倶楽部",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "PRIDE GARLIC りょうくんとおじおじ",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "サカモトズ",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "木の棒が投げたいヤマトさん",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -290,13 +290,13 @@
         {
           "team1": "スピアーズ2",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "HIGUZUMI feat. K",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -308,25 +308,25 @@
         {
           "team1": "川尻組ダイヤモンド",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "モルックス4",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "HCBT1",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ポポポポ〜ン",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -338,13 +338,13 @@
         {
           "team1": "MARU A",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "HIRAKATA DETECTIVES",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -362,19 +362,19 @@
         {
           "team1": "最高フォー⭐︎",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "鳥せい本店_欠勤族",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "ササモルA",
           "team2": "",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
@@ -386,6 +386,203 @@
         {
           "team1": "コーク生野 B",
           "team2": "",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "SQUARE WHITE",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "KWN②",
+          "team2": "マイゾックス4",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "投げてCHODAI",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "S&B 制御",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "Oneteam.源",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "KWN①",
+          "team2": "PRIDE GARLIC なんとかなる",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "SQUARE BLACK",
+          "team2": "ネスレモルック倶楽部 チョコ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "モルクラックス",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "NTT-AT アイピーエス 大阪支店A",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "モルゴ13",
+          "team2": "スピアーズ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "なんでもん",
+          "team2": "Stella⭐︎",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "チームパインアメ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "モルログ",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "ぷいぷいモルッカーズ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "MARU B",
+          "team2": "毎日が地獄です",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "モルックの東郷〜僕たちは有事の前に動く〜",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "Oneteam.東",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "ササモルB",
+          "team2": "NA・SU・YA Mölkky",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "はたちゃん",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "ハイストーン",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "モルックヨーグル",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "梅田紳士倶楽部",
+          "team2": "PRIDE GARLIC りょうくんとおじおじ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "サカモトズ",
+          "team2": "木の棒が投げたいヤマトさん",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "スピアーズ2",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "HIGUZUMI feat. K",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "川尻組ダイヤモンド",
+          "team2": "モルックス4",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "HCBT1",
+          "team2": "ポポポポ〜ン",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "MARU A",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "HIRAKATA DETECTIVES",
+          "team2": "",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "最高フォー⭐︎",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "鳥せい本店_欠勤族",
+          "team2": "ササモルA",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "",
+          "team2": "コーク生野 B",
           "win1": false,
           "win2": false
         }
