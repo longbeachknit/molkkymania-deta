@@ -240,8 +240,513 @@
       "tourneyCode": "05"
     }
   ],
-  "teams": [],
-  "teamsUpdatedAt": "",
+  "teams": [
+    {
+      "id": "001",
+      "name": "SQUARE WHITE",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "002",
+      "name": "コーク生野 B",
+      "members": "",
+      "company": "コカ・コーラボトラーズジャパン株式会社"
+    },
+    {
+      "id": "003",
+      "name": "Oneteam.東",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "004",
+      "name": "モルックの東郷〜僕たちは有事の前に動く〜",
+      "members": "",
+      "company": "株式会社東郷製作所"
+    },
+    {
+      "id": "005",
+      "name": "NTT-AT アイピーエス 大阪支店A",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "006",
+      "name": "スピアーズ2",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "007",
+      "name": "HIGUZUMI feat. K",
+      "members": "",
+      "company": "ヤンマーホールディングス"
+    },
+    {
+      "id": "008",
+      "name": "モルクラックス",
+      "members": "",
+      "company": "株式会社クラックスシステム"
+    },
+    {
+      "id": "009",
+      "name": "Oneteam.源",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "010",
+      "name": "MARU A",
+      "members": "",
+      "company": "丸善薬品産業株式会社"
+    },
+    {
+      "id": "011",
+      "name": "モルックヨーグル",
+      "members": "",
+      "company": "株式会社クラックスシステム"
+    },
+    {
+      "id": "012",
+      "name": "チームパインアメ",
+      "members": "",
+      "company": "パイン株式会社"
+    },
+    {
+      "id": "013",
+      "name": "モルログ",
+      "members": "",
+      "company": "株式会社CPE Demarc"
+    },
+    {
+      "id": "014",
+      "name": "ハイストーン",
+      "members": "",
+      "company": "豊興サービス株式会社"
+    },
+    {
+      "id": "015",
+      "name": "HIRAKATA DETECTIVES",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "016",
+      "name": "S&B 制御",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "017",
+      "name": "投げてCHODAI",
+      "members": "",
+      "company": "株式会社 長大"
+    },
+    {
+      "id": "018",
+      "name": "最高フォー⭐︎",
+      "members": "",
+      "company": "小学校"
+    },
+    {
+      "id": "019",
+      "name": "はたちゃん",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "020",
+      "name": "ぷいぷいモルッカーズ",
+      "members": "",
+      "company": "株式会社クラックスシステム"
+    },
+    {
+      "id": "021",
+      "name": "なんでもん",
+      "members": "",
+      "company": "Meetial"
+    },
+    {
+      "id": "022",
+      "name": "PRIDE GARLIC りょうくんとおじおじ",
+      "members": "",
+      "company": "ナカバヤシ株式会社"
+    },
+    {
+      "id": "023",
+      "name": "HCBT1",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "024",
+      "name": "PRIDE GARLIC なんとかなる",
+      "members": "",
+      "company": "ナカバヤシ株式会社"
+    },
+    {
+      "id": "025",
+      "name": "SQUARE BLACK",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "026",
+      "name": "モルックス4",
+      "members": "",
+      "company": "株式会社クラックスシステム"
+    },
+    {
+      "id": "027",
+      "name": "サカモトズ",
+      "members": "",
+      "company": "大阪市立鷹合小学校"
+    },
+    {
+      "id": "028",
+      "name": "スピアーズ",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "029",
+      "name": "MARU B",
+      "members": "",
+      "company": "丸善薬品産業株式会社"
+    },
+    {
+      "id": "030",
+      "name": "NA・SU・YA Mölkky",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "031",
+      "name": "鳥せい本店_欠勤族",
+      "members": "",
+      "company": "鳥せい本店"
+    },
+    {
+      "id": "032",
+      "name": "マイゾックス4",
+      "members": "",
+      "company": "株式会社マイゾックス"
+    },
+    {
+      "id": "033",
+      "name": "KWN②",
+      "members": "",
+      "company": "関西金網株式会社"
+    },
+    {
+      "id": "034",
+      "name": "ササモルA",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "035",
+      "name": "ササモルB",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "036",
+      "name": "毎日が地獄です",
+      "members": "",
+      "company": "アイテック阪急阪神株式会社"
+    },
+    {
+      "id": "037",
+      "name": "モルゴ13",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "038",
+      "name": "木の棒が投げたいヤマトさん",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "039",
+      "name": "川尻組ダイヤモンド",
+      "members": "",
+      "company": "株式会社川尻組"
+    },
+    {
+      "id": "040",
+      "name": "ネスレモルック倶楽部 チョコ",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "041",
+      "name": "KWN①",
+      "members": "",
+      "company": "関西金網株式会社"
+    },
+    {
+      "id": "042",
+      "name": "ポポポポ〜ン",
+      "members": "",
+      "company": "株式会社ロックシステム"
+    },
+    {
+      "id": "043",
+      "name": "梅田紳士倶楽部",
+      "members": "",
+      "company": "ジェイエムシー株式会社"
+    },
+    {
+      "id": "044",
+      "name": "Stella⭐︎",
+      "members": "",
+      "company": "福祉ネット大和川"
+    },
+    {
+      "id": "045",
+      "name": "tendon Red",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "046",
+      "name": "NTT-AT アイピーエス 大阪支店B",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "047",
+      "name": "人狼会",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "048",
+      "name": "MöRock",
+      "members": "",
+      "company": "(株)ロックシステム"
+    },
+    {
+      "id": "049",
+      "name": "ロケット",
+      "members": "",
+      "company": "株式会社カネカ"
+    },
+    {
+      "id": "050",
+      "name": "東郷モルッ倶楽部〜まっすぐ投げてみ隊〜",
+      "members": "",
+      "company": "株式会社東郷製作所"
+    },
+    {
+      "id": "051",
+      "name": "五投建設Joker",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "052",
+      "name": "ホクビモルック部",
+      "members": "",
+      "company": "ホクビサービス株式会社"
+    },
+    {
+      "id": "053",
+      "name": "わっかりました",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "054",
+      "name": "五投建設Ace",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "055",
+      "name": "ダイワ精密",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "056",
+      "name": "PRIDE GARLIC 受注アミーゴ",
+      "members": "",
+      "company": "ナカバヤシ株式会社"
+    },
+    {
+      "id": "057",
+      "name": "第一ツナサラダ丸",
+      "members": "",
+      "company": "綱田工業株式会社"
+    },
+    {
+      "id": "058",
+      "name": "きらきらきらら",
+      "members": "",
+      "company": "高齢者生活支援施設きらら"
+    },
+    {
+      "id": "059",
+      "name": "マイゾックス03",
+      "members": "",
+      "company": "（株）マイゾックス"
+    },
+    {
+      "id": "060",
+      "name": "第二ツナサラダ丸",
+      "members": "",
+      "company": "綱田工業株式会社"
+    },
+    {
+      "id": "061",
+      "name": "SniperWoods",
+      "members": "",
+      "company": "株式会社クラックスシステム"
+    },
+    {
+      "id": "062",
+      "name": "モルバズ“鳥せい本店”",
+      "members": "",
+      "company": "鳥せい本店"
+    },
+    {
+      "id": "063",
+      "name": "KWN③",
+      "members": "",
+      "company": "関西金網株式会社"
+    },
+    {
+      "id": "064",
+      "name": "川尻組パール",
+      "members": "",
+      "company": "株式会社川尻組"
+    },
+    {
+      "id": "065",
+      "name": "ごはんはおかず",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "066",
+      "name": "マイゾックス01",
+      "members": "",
+      "company": "株式会社マイゾックス"
+    },
+    {
+      "id": "067",
+      "name": "MARU C",
+      "members": "",
+      "company": "丸善薬品産業株式会社"
+    },
+    {
+      "id": "068",
+      "name": "アフロ田中",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "069",
+      "name": "S&B 計測",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "070",
+      "name": "メイムース",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "071",
+      "name": "PRIDE GARLIC 角田組",
+      "members": "",
+      "company": "ナカバヤシ株式会社"
+    },
+    {
+      "id": "072",
+      "name": "Neovetsモルック部",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "073",
+      "name": "東郷製作所〜プイプイモルキー設計部隊〜",
+      "members": "",
+      "company": "株式会社東郷製作所"
+    },
+    {
+      "id": "074",
+      "name": "Urad",
+      "members": "",
+      "company": "NTTドコモ 関西支社"
+    },
+    {
+      "id": "075",
+      "name": "マイゾックス2",
+      "members": "",
+      "company": "株式会社マイゾックス"
+    },
+    {
+      "id": "076",
+      "name": "運と技【匠】",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "077",
+      "name": "CDC",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "078",
+      "name": "東郷製作所〜ドラムとモルック〜",
+      "members": "",
+      "company": "株式会社東郷製作所"
+    },
+    {
+      "id": "079",
+      "name": "運と技【遊】",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "080",
+      "name": "ネスレモルック倶楽部 コーヒー",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "081",
+      "name": "コーク生野 A",
+      "members": "",
+      "company": "コカコーラボトラーズジャパン株式会社"
+    },
+    {
+      "id": "082",
+      "name": "tendon Blue",
+      "members": "",
+      "company": "非公表"
+    },
+    {
+      "id": "083",
+      "name": "RARE PARTS",
+      "members": "",
+      "company": "株式会社エネルギーステーション"
+    },
+    {
+      "id": "084",
+      "name": "卒煙倶楽部",
+      "members": "",
+      "company": "非公表"
+    }
+  ],
+  "teamsUpdatedAt": "2026-11-27T04:19:28.660Z",
   "eventPeriodStart": "2026-11-29T09:00",
   "eventPeriodEnd": "2026-11-29T18:00",
   "receptionPw": "5920",
