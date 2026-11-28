@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T05:29:36.388Z",
+  "updatedAt": "2026-11-28T06:04:59.962Z",
   "eventCode": "0016",
   "rounds": [
     {
@@ -91,11 +91,22 @@
           "team1": "TAKUMI²",
           "team2": "≠Annka",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "FUTAPPING",
           "team2": "スリーリンクス",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "決勝",
+      "matches": [
+        {
+          "team1": "≠Annka",
+          "team2": "FUTAPPING",
           "win1": false,
           "win2": false
         }
