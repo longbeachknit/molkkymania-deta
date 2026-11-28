@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T04:45:22.438Z",
+  "updatedAt": "2026-11-28T05:29:36.388Z",
   "eventCode": "0016",
   "rounds": [
     {
@@ -61,24 +61,41 @@
         {
           "team1": "TAKUMI²",
           "team2": "SUNADAN",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "英姿颯爽 まぁまぁまぁ",
           "team2": "≠Annka",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "＠たんげ",
           "team2": "FUTAPPING",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "スリーリンクス",
           "team2": "モル塾",
+          "win1": true,
+          "win2": false
+        }
+      ]
+    },
+    {
+      "name": "準決勝",
+      "matches": [
+        {
+          "team1": "TAKUMI²",
+          "team2": "≠Annka",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "FUTAPPING",
+          "team2": "スリーリンクス",
           "win1": false,
           "win2": false
         }
