@@ -1,0 +1,59 @@
+{
+  "updatedAt": "2026-11-28T03:56:41.756Z",
+  "eventCode": "0016",
+  "rounds": [
+    {
+      "name": "1回戦",
+      "matches": [
+        {
+          "team1": "TAKUMI²",
+          "team2": "縁の輪モルック",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "SUNADAN",
+          "team2": "ぷるんたん",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "北野モルック学園B",
+          "team2": "英姿颯爽 まぁまぁまぁ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "≠Annka",
+          "team2": "MHA 川北",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "電電マスターズ",
+          "team2": "＠たんげ",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "FUTAPPING",
+          "team2": "コルック",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "スリーリンクス",
+          "team2": "49ers甲",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "MHA井手上家",
+          "team2": "モル塾",
+          "win1": false,
+          "win2": false
+        }
+      ]
+    }
+  ]
+}
