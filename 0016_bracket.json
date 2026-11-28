@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T03:56:41.756Z",
+  "updatedAt": "2026-11-28T04:45:22.438Z",
   "eventCode": "0016",
   "rounds": [
     {
@@ -8,47 +8,76 @@
         {
           "team1": "TAKUMI²",
           "team2": "縁の輪モルック",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "SUNADAN",
           "team2": "ぷるんたん",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "北野モルック学園B",
           "team2": "英姿颯爽 まぁまぁまぁ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "≠Annka",
           "team2": "MHA 川北",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "電電マスターズ",
           "team2": "＠たんげ",
           "win1": false,
-          "win2": false
+          "win2": true
         },
         {
           "team1": "FUTAPPING",
           "team2": "コルック",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "スリーリンクス",
           "team2": "49ers甲",
-          "win1": false,
+          "win1": true,
           "win2": false
         },
         {
           "team1": "MHA井手上家",
+          "team2": "モル塾",
+          "win1": false,
+          "win2": true
+        }
+      ]
+    },
+    {
+      "name": "2回戦",
+      "matches": [
+        {
+          "team1": "TAKUMI²",
+          "team2": "SUNADAN",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "英姿颯爽 まぁまぁまぁ",
+          "team2": "≠Annka",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "＠たんげ",
+          "team2": "FUTAPPING",
+          "win1": false,
+          "win2": false
+        },
+        {
+          "team1": "スリーリンクス",
           "team2": "モル塾",
           "win1": false,
           "win2": false
