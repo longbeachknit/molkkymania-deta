@@ -351,9 +351,14 @@
       "id": "030",
       "name": "電電マスターズ",
       "members": "enc1:i/LSjd7fydPNi//IX5C9o9SIoIvtzI/Rww=="
+    },
+    {
+      "id": "031",
+      "name": "運営チーム",
+      "members": "enc1:LEMu"
     }
   ],
-  "teamsUpdatedAt": "2026-11-26T07:43:01.337Z",
+  "teamsUpdatedAt": "2026-11-28T01:56:46.971Z",
   "eventPeriodStart": "2026-11-28T09:00",
   "eventPeriodEnd": "2026-11-28T18:00",
   "receptionPw": "5205",
